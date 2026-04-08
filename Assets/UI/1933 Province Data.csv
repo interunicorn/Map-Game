@@ -1,0 +1,4552 @@
+diss_me,wikipedia,name,admin,DMZ,HEX_COLOR
+0,,Entre Ríos,Argentina,,cfcd20
+1,,Paysandú,Uruguay,,c4ca42
+2,,Kalimantan Timur,Indonesia,,c81e72
+3,,Sabah,Malaysia,,eccbc8
+4,,Arica y Parinacota,Chile,,a87ff6
+5,,La Paz,Bolivia,,e4da3b
+6,,Oruro,Bolivia,,"167909"
+7,,Tarapacá,Chile,,8f14e4
+8,,Potosí,Bolivia,,c9f0f8
+9,,Antofagasta,Chile,,45c48c
+10,,Tacna,Peru,,d3d944
+11,,Salta,Argentina,,6512bd
+12,,Jujuy,Argentina,,c20ad4
+13,,Dhekelia,Dhekelia Sovereign Base Area,,c51ce4
+14,,Larnaca,Cyprus,,aab323
+15,,Ladakh,India,,9bf31c
+16,,Xinjiang,China,,c74d97
+17,,Xizang,China,,70efdf
+18,,HaDarom,Israel,,6f4922
+19,,Gaza Strip,Gaza Strip,,1f0e3d
+20,,HaZafon,Israel,,98f137
+21,,West Bank,West Bank,,3c59dc
+22,,Haifa,Israel,,b6d767
+23,,HaMerkaz,Israel,,37693c
+24,,An Nabatiyah,Lebanon,,1ff1de
+25,,South Lebanon,Lebanon,,8e296a
+26,,"Southern Nations, Nationalities and Peoples",Ethiopia,,4e732c
+27,,Eastern Equatoria,S. Sudan,,"02e74f"
+28,,Somali,Ethiopia,,33e75f
+29,,Nugaal,Somalia,,6ea9ab
+30,,Mudug,Somalia,,34173c
+31,,Galguduud,Somalia,,c16a53
+32,,Hiiraan,Somalia,,"6364d3"
+33,,Bakool,Somalia,,182be0
+34,,Gedo,Somalia,,e36985
+35,,Rift Valley,Kenya,,1c383c
+36,,Chitipa,Malawi,,19ca14
+37,,Mbeya,United Republic of Tanzania,,a5bfc9
+38,,Njombe,United Republic of Tanzania,,a5771b
+39,,Ruvuma,United Republic of Tanzania,,d67d8a
+40,,Rumphi,Malawi,,d64592
+41,,Nkhata Bay,Malawi,,3416a7
+42,,Arunachal Pradesh,India,,a1d0c6
+43,,UNDOF,Syria,,"17e621"
+44,,Somaliland,Somaliland,,f71771
+45,,Bari,Somalia,,6c8349
+46,,Guyane française,France,,d9d4f4
+47,,Sipaliwini,Suriname,,67c6a1
+48,,Mahaica-Berbice,Guyana,,"642e92"
+49,http://en.wikipedia.org/wiki/Gangwon_Province_(South_Korea),Gangwon,South Korea,,f457c5
+50,,Kangwŏn-do,North Korea,,c0c7c7
+51,http://en.wikipedia.org/wiki/Gyeonggi_Province,Gyeonggi,South Korea,,"283802"
+52,,Hwanghae-bukto,North Korea,,9a1158
+53,,Guelmim - Es-Semara,Morocco,,d82c8d
+54,,Western Sahara,Western Sahara,,a684ec
+55,,Laâyoune - Boujdour - Sakia El Hamra,Morocco,,b53b3a
+56,,Oued el Dahab,Morocco,,9f6140
+57,,Alajuela,Costa Rica,,72b32a
+58,,Rio San Juan,Nicaragua,,66f041
+59,,Likouala,Republic of the Congo,,"093f65"
+60,,Équateur,Democratic Republic of the Congo,,"072b03"
+61,,Cuvette,Republic of the Congo,,7f39f8
+62,,Plateaux,Republic of the Congo,,44f683
+63,,Bandundu,Democratic Republic of the Congo,,"03afdb"
+64,,Pool,Republic of the Congo,,ea5d2f
+65,http://en.wikipedia.org/wiki/Brazzaville,Brazzaville,Republic of the Congo,,fc490c
+66,,Kinshasa City,Democratic Republic of the Congo,,3295c7
+67,,Bas-Congo,Democratic Republic of the Congo,,735b90
+68,,Bouenza,Republic of the Congo,,a3f390
+69,,Niari,Republic of the Congo,,14bfa6
+70,,Tashi Yangtse,Bhutan,,7cbbc4
+71,,Lhuntshi,Bhutan,,e2c420
+72,,Bumthang,Bhutan,,32bb90
+73,,Chernihiv,Ukraine,,d2ddea
+74,http://en.wikipedia.org/wiki/Gomel_Region,Gomel,Belarus,,ad61ab
+75,,Volyn,Ukraine,,d09bf4
+76,http://en.wikipedia.org/wiki/Brest_Region,Brest,Belarus,,fbd793
+77,,Rivne,Ukraine,,28dd2c
+78,,Zhytomyr,Ukraine,,35f4a8
+79,,Kiev,Ukraine,,d1fe17
+80,,Karas,Namibia,,f033ab
+81,,Northern Cape,South Africa,,43ec51
+82,,Beqaa,Lebanon,,"9778d5"
+83,,North Lebanon,Lebanon,,fe9fc2
+84,,Homs (Hims),Syria,,68d30a
+85,,Tartus,Syria,,3ef815
+86,http://en.wikipedia.org/wiki/Rif_Dimashq_Governorate,Rif Dimashq,Syria,,93db85
+87,,St. Martin,Saint Martin,,c7e124
+88,,Sint Maarten,Sint Maarten,,2a38a4
+89,,Fujayrah,United Arab Emirates,,"764796"
+90,,Musandam,Oman,,"861398"
+91,,Sharjah,United Arab Emirates,,54229a
+92,,Ras Al Khaymah,United Arab Emirates,,92cc22
+93,,Likoma,Malawi,,98dce8
+94,,Ferghana,Uzbekistan,,f4b9ec
+95,,East Kazakhstan,Kazakhstan,,812b4b
+96,,Almaty,Kazakhstan,,26657d
+97,,Leninabad,Tajikistan,,e2ef52
+98,http://en.wikipedia.org/wiki/Vitebsk_Region,Vitebsk,Belarus,,ed3d2c
+99,,Utenos,Lithuania,,ac627a
+100,,Vilniaus,Lithuania,,f89913
+101,http://en.wikipedia.org/wiki/Grodno_Region,Grodno,Belarus,,38b3ef
+102,,Alytaus,Lithuania,,ec8956
+103,,Rio Grande do Sul,Brazil,,6974ce
+104,,Artigas,Uruguay,,c9e107
+105,,Dornod,Mongolia,,65b9ee
+106,,Inner Mongol,China,,f0935e
+107,,Bayan-Ölgiy,Mongolia,,a97da6
+108,,Hovd,Mongolia,,a3c65c
+109,,Sühbaatar,Mongolia,,"2723d0"
+110,,Dornogovi,Mongolia,,5f93f9
+111,,Govi-Altay,Mongolia,,"698d51"
+112,,Gansu,China,,7f6ffa
+113,,Bayanhongor,Mongolia,,73278a
+114,,Ömnögovi,Mongolia,,5fd0b3
+115,,Gorno-Altay,Russia,,2b4492
+116,http://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem_Region,Ústecký,Czechoslovakia,,c45147
+117,,Sachsen,Germany,,eb160d
+118,http://en.wikipedia.org/wiki/Liberec_Region,Liberecký,Czechoslovakia,,5ef059
+119,http://en.wikipedia.org/wiki/Karlovy_Vary_Region,Karlovarský,Czechoslovakia,,"07e1cd"
+120,,Bayern,Germany,,da4fb5
+121,http://en.wikipedia.org/wiki/Plze%C5%88_Region,Plzeňský,Czechoslovakia,,4c56ff
+122,http://en.wikipedia.org/wiki/South_Bohemian_Region,Jihočeský,Czechoslovakia,,a0a080
+123,,Viljandi,Estonia,,202cb9
+124,,Rujienas,Latvia,,c8ffe9
+125,,Mazsalacas,Latvia,,3def18
+126,,Pärnu,Estonia,,"069059"
+127,,Alojas,Latvia,,ec5dec
+128,,Valga,Estonia,,76dc61
+129,,Nauksenu,Latvia,,d1f491
+130,,Salacgrivas,Latvia,,9b8619
+131,,Võru,Estonia,,1afa34
+132,,Apes,Latvia,,65ded5
+133,,Valkas,Latvia,,9fc3d7
+134,,Aluksne,Latvia,,"02522a"
+135,,Pskov,Russia,,7f1de2
+136,,Vilakas,Latvia,,42a0e1
+137,,Baltinavas,Latvia,,3988c7
+138,,Karsavas,Latvia,,"013d40"
+139,,Ciblas,Latvia,,e00da0
+140,,Ludzas,Latvia,,"138597"
+141,,Zilupes,Latvia,,"0f28b5"
+142,,Panevezio,Lithuania,,a8baa5
+143,,Neretas,Latvia,,903ce9
+144,,Viesites,Latvia,,"0a09c8"
+145,,Vecumnieku,Latvia,,2b24d4
+146,,Telšiai,Lithuania,,a5e001
+147,,Saldus,Latvia,,8d5e95
+148,,Klaipedos,Lithuania,,47d1e9
+149,,Rucavas,Latvia,,f22170
+150,,Priekules,Latvia,,7ef605
+151,,Vainodes,Latvia,,a8f15e
+152,,Šiauliai,Lithuania,,37a749
+153,,Auces,Latvia,,b3e3e3
+154,,Bauska,Latvia,,1d7f7a
+155,,Tervetes,Latvia,,2a79ea
+156,,Jelgava,Latvia,,1c9ac0
+157,,Rundales,Latvia,,6c4b76
+158,,Aknistes,Latvia,,"064096"
+159,,Ilukstes,Latvia,,140f69
+160,,Daugavpils,Latvia,,b73ce3
+161,,Troms,Norway,,bd4c9a
+162,,Norrbotten,Sweden,,82aa4b
+163,,Nordland,Norway,,"0777d5"
+164,,Västerbotten,Sweden,,fa7cdf
+165,,Jämtland,Sweden,,"976652"
+166,,Nord-Trøndelag,Norway,,7e7757
+167,,Sør-Trøndelag,Norway,,5878a7
+168,,Hedmark,Norway,,"006f52"
+169,,Dalarna,Sweden,,"363663"
+170,,Värmland,Sweden,,"149e96"
+171,,Akershus,Norway,,a4a042
+172,,Østfold,Norway,,1ff8a7
+173,,Västra Götaland,Sweden,,f7e6c8
+174,"http://en.wikipedia.org/wiki/Lapland,_Finland",Lapland,Finland,,bf8229
+175,,Finnmark,Norway,,"821612"
+176,,Kon Tum,Vietnam,,38af86
+177,,Rôtânôkiri,Cambodia,,96da2f
+178,http://en.wikipedia.org/wiki/%C4%90%E1%BA%AFk_N%C3%B4ng_province,Đắk Nông,Vietnam,,8f8551
+179,,Môndól Kiri,Cambodia,,8f5329
+180,,Đắk Lắk,Vietnam,,"045117"
+181,,Gia Lai,Vietnam,,fc2213
+182,,Bình Phước,Vietnam,,4c5bde
+183,,Krâchéh,Cambodia,,cedebb
+184,,Tây Ninh,Vietnam,,6cdd60
+185,,Kâmpóng Cham,Cambodia,,eecca5
+186,,Svay Rieng,Cambodia,,9872ed
+187,,Prey Vêng,Cambodia,,31fefc
+188,,Long An,Vietnam,,9dcb88
+189,,Ðong Tháp,Vietnam,,a2557a
+190,,An Giang,Vietnam,,cfecdb
+191,,Kândal,Cambodia,,"0aa188"
+192,,Takêv,Cambodia,,58a2fc
+193,,Kiên Giang,Vietnam,,bd686f
+194,,Kâmpôt,Cambodia,,a597e5
+195,,Rheinprovinz,Germany,,"0336dc"
+196,,Diekirch,Luxembourg,,"084b6f"
+197,,Grevenmacher,Luxembourg,,85d8ce
+198,,Saarland,League of Nations Mandate,,"0e6597"
+199,,Nord,France,,84d9ee
+200,,West Flanders,Belgium,,3644a6
+201,,Hainaut,Belgium,,757b50
+202,,Ardennes,France,,854d6f
+203,,Namur,Belgium,,e2c0be
+204,,Aisne,France,,274ad4
+205,,Luxembourg,Belgium,,eae27d
+206,,Meuse,France,,7eabe3
+207,,Meurthe-et-Moselle,France,,69adc1
+208,,Liege,Belgium,,"091d58"
+209,,Luxembourg,Luxembourg,,b1d10e
+210,,Krasnodar,Russia,,6f3ef7
+211,,Abkhazia,Georgia,,eb1637
+212,,Karachay-Cherkess,Russia,,1534b7
+213,,Kabardin-Balkar,Russia,,"979d47"
+214,,Samegrelo-Zemo Svaneti,Georgia,,ca46c1
+215,,North Ossetia,Russia,,3b8a61
+216,,Shida Kartli,Georgia,,45fbc6
+217,,Racha-Lechkhumi-Kvemo Svaneti,Georgia,,63dc7e
+218,,Ingush,Russia,,e96ed4
+219,,Mtskheta-Mtianeti,Georgia,,c0e190
+220,,Chechnya,Russia,,ec8ce6
+221,,Kakheti,Georgia,,"060ad9"
+222,,Dagestan,Russia,,bcbe33
+223,http://en.wikipedia.org/wiki/Municipality_of_Struga,Struga,Macedonia,,115f89
+224,,Dibër,Albania,,13fe9d
+225,,Centar župa,Macedonia,,d1c38a
+226,,Debar,Macedonia,,9cfdf1
+227,,Mavrovo and Rostusa,Macedonia,,705f21
+228,,Gostivar,Macedonia,,74db12
+229,,Kukës,Albania,,57aeee
+230,,Korçë,Albania,,6da900
+231,,Elbasan,Albania,,9b04d1
+232,http://en.wikipedia.org/wiki/Vev%C4%8Dani_Municipality,Vevčani,Macedonia,,be83ab
+233,,Ohrid,Macedonia,,e16542
+234,,Debarca,Macedonia,,289dff
+235,,Resen,Macedonia,,577ef1
+236,,Qazax,Azerbaijan,,"01161a"
+237,,Dečani,Kosovo,,539fd5
+238,,Đakovica,Kosovo,,ac1dd2
+239,,Dragaš,Kosovo,,"555d67"
+240,,Prizren,Kosovo,,335f53
+241,http://en.wikipedia.org/wiki/Ardahan_Province,Ardahan,Turkey,,f340f1
+242,,Samtskhe-Javakheti,Georgia,,e4a622
+243,,Artvin,Turkey,,cb70ab
+244,,Ajaria,Georgia,,"918890"
+245,,Moselle,France,,"0266e3"
+246,,Ceuta,Spain,,38db3a
+247,,Tanger - Tétouan,Morocco,,3cec07
+248,,Phôngsali,Laos,,621bf6
+249,,Yunnan,China,,"077e29"
+250,,Oudômxai,Laos,,6c9882
+251,,Louang Namtha,Laos,,19f3cd
+252,,Ysyk-Köl,Kyrgyzstan,,"03c6b0"
+253,,Naryn,Kyrgyzstan,,c24cd7
+254,,Osh,Kyrgyzstan,,c52f1b
+255,,Tavush,Armenia,,fe131d
+256,,Kvemo Kartli,Georgia,,f71849
+257,,Lori,Armenia,,d96409
+258,,Shirak,Armenia,,502e4a
+259,,Zhambyl,Kazakhstan,,cfa086
+260,,Chuy,Kyrgyzstan,,a4f236
+261,,Talas,Kyrgyzstan,,b1a59b
+262,,South Kazakhstan,Kazakhstan,,36660e
+263,,Pomeroon-Supenaam,Guyana,,8c19f5
+264,,Roraima,Brazil,,d6baf6
+265,,Potaro-Siparuni,Guyana,,e56954
+266,,Upper Demerara-Berbice,Guyana,,f76640
+267,,Pará,Brazil,,eda80a
+268,,Schleswig-Holstein,Germany,,8f121c
+269,,Syddanmark,Denmark,,"06138b"
+270,,Madre de Dios,Peru,,"390597"
+271,,Acre,Brazil,,7f100b
+272,,Ghadamis,Libya,,7a614f
+273,,Tataouine,Tunisia,,4734ba
+274,,Médenine,Tunisia,,d947bf
+275,,An Nuqat al Khams,Libya,,63923f
+276,,Ağstafa,Azerbaijan,,db8e1a
+277,,Tovuz,Azerbaijan,,20f075
+278,,Gədəbəy,Azerbaijan,,"07cdfd"
+279,,Gegharkunik,Armenia,,d39577
+280,,Daşkəsən,Azerbaijan,,92c8c9
+281,,Kəlbəcər,Azerbaijan,,e3796a
+282,,Vayots Dzor,Armenia,,6a9aed
+283,,Syunik,Armenia,,"0f49c8"
+284,,Lankaran,Azerbaijan,,46ba9f
+285,,Qubadli,Azerbaijan,,"0e0193"
+286,,Zəngilan,Azerbaijan,,16a5cd
+287,,Şərur,Azerbaijan,,"918317"
+288,,Ararat,Armenia,,48aedb
+289,,Sədərək,Azerbaijan,,839ab4
+290,,Kangarli,Azerbaijan,,f90f2a
+291,,Babək,Azerbaijan,,9c838d
+292,,Şahbuz,Azerbaijan,,"170000"
+293,,Culfa,Azerbaijan,,53c3bc
+294,,Ordubad,Azerbaijan,,"688396"
+295,,Satu Mare,Romania,,49182f
+296,http://en.wikipedia.org/wiki/Szabolcs-Szatm%C3%A1r-Bereg_County,Szabolcs-Szatmár-Bereg,Hungary,,d296c1
+297,,Arad,Romania,,9fd818
+298,http://en.wikipedia.org/wiki/B%C3%A9k%C3%A9s_County,Békés,Hungary,,"26e359"
+299,,Bihor,Romania,,ef0d39
+300,http://en.wikipedia.org/wiki/Hajd%C3%BA-Bihar_County,Hajdú-Bihar,Hungary,,94f6d7
+301,http://en.wikipedia.org/wiki/Csongr%C3%A1d_County,Csongrád,Hungary,,34ed06
+302,,Timis,Romania,,577bcc
+303,,Jalal-Abad,Kyrgyzstan,,11b984
+304,http://en.wikipedia.org/wiki/Tashkent_Province,Tashkent,Uzbekistan,,37bc2f
+305,,Namangan,Uzbekistan,,"496e05"
+306,,Andijon,Uzbekistan,,b2eb73
+307,,Batken,Kyrgyzstan,,8e98d8
+308,,Žilinský,Czechoslovakia,,a8c88a
+309,,Silesian,Poland,,eddea8
+310,,Lesser Poland,Poland,,"06eb61"
+311,,Prešov,Czechoslovakia,,9dfcd5
+312,,Subcarpathian,Poland,,950a41
+313,,Donegal,Ireland,,158f30
+314,,Derry,United Kingdom,,"758874"
+315,,Strabane,United Kingdom,,ad13a2
+316,,Fermanagh,United Kingdom,,3fe94a
+317,,Leitrim,Ireland,,5b8add
+318,,Cavan,Ireland,,432aca
+319,,Monaghan,Ireland,,8d3bba
+320,,Dungannon,United Kingdom,,"320722"
+321,,Armagh,United Kingdom,,caf1a3
+322,,Newry and Mourne,United Kingdom,,5737c6
+323,,Louth,Ireland,,bc6dc4
+324,,Niederschlesien,Germany,,f2fc99
+325,http://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9_Region,Královéhradecký,Czechoslovakia,,89f0fd
+326,,Oberschlesien,Germany,,a66658
+327,http://en.wikipedia.org/wiki/Olomouc_Region,Olomoucký,Czechoslovakia,,b83aac
+328,http://en.wikipedia.org/wiki/Pardubice_Region,Pardubický,Czechoslovakia,,cd0069
+329,http://en.wikipedia.org/wiki/Moravian-Silesian_Region,Moravskoslezský,Czechoslovakia,,6faa80
+330,,Tadzhikistan Territories,Tajikistan,,fe73f6
+331,,Gorno-Badakhshan,Tajikistan,,6da37d
+332,,Dytiki Makedonia,Greece,,c042f4
+333,,Ipeiros,Greece,,310dcb
+334,,Gjirokastër,Albania,,2f2b26
+335,,Vlorë,Albania,,f9b902
+336,,Chitipa,Malawi,,"685545"
+337,,Muchinga,Zambia,,357a6f
+338,,Mzimba,Malawi,,819f46
+339,,Eastern,Zambia,,"040259"
+340,,Kasungu,Malawi,,40008b
+341,,Mchinji,Malawi,,3dd48a
+342,,Transcarpathia,Czechoslovakia,,58238e
+343,,Košický,Czechoslovakia,,3ad7c2
+344,,Northern,Sierra Leone,,b3967a
+345,,Faranah,Guinea,,d81f9c
+346,,Kindia,Guinea,,13f989
+347,,Mamou,Guinea,,c5ff25
+348,,Dabola,Guinea,,"01386b"
+349,,Forécariah,Guinea,,"0bb4ae"
+350,,Guéckédou,Guinea,,9de6d1
+351,,Eastern,Sierra Leone,,efe937
+352,,Grand Cape Mount,Liberia,,371bce
+353,,Southern,Sierra Leone,,138bb0
+354,,Gbapolu,Liberia,,8dd48d
+355,,Lofa,Liberia,,82cec9
+356,,Vakaga,Central African Republic,,6c524f
+357,,Central Darfur,Sudan,,fb7b9f
+358,,Southern Darfur,Sudan,,aa942a
+359,,Haute-Kotto,Central African Republic,,c058f5
+360,,Western Bahr el Ghazal,S. Sudan,,e7b24b
+361,,Haut-Mbomou,Central African Republic,,52720e
+362,,Western Equatoria,S. Sudan,,c3e878
+363,,Orientale,Democratic Republic of the Congo,,"004114"
+364,,Central Equatoria,S. Sudan,,bac916
+365,,Ali Sabieh,Djibouti,,9be40c
+366,,Arta,Djibouti,,5ef698
+367,,Dikhil,Djibouti,,"05049e"
+368,,Afar,Ethiopia,,cf004f
+369,,Tadjourah,Djibouti,,"0c74b7"
+370,,Sud-Kivu,Democratic Republic of the Congo,,d709f3
+371,,Kigoma,United Republic of Tanzania,,41f1f1
+372,,Katanga,Democratic Republic of the Congo,,24b16f
+373,,Katavi,United Republic of Tanzania,,ffd52f
+374,,Rukwa,United Republic of Tanzania,,ad972f
+375,,Obock,Djibouti,,f61d69
+376,,Debubawi Keyih Bahri,Eritrea,,"142949"
+377,,Niederösterreich,Austria,,d34ab1
+378,http://en.wikipedia.org/wiki/South_Moravian_Region,Jihomoravský,Czechoslovakia,,8bf121
+379,,Oberösterreich,Austria,,a02ffd
+380,,Dihok,Iraq,,bca82e
+381,,Sirnak,Turkey,,"00ec53"
+382,,Hakkari,Turkey,,4f6ffe
+383,,Arbil,Iraq,,beed13
+384,http://en.wikipedia.org/wiki/Gy%C5%91r-Moson-Sopron_County,Gyor-Moson-Sopron,Hungary,,"0584ce"
+385,,Burgenland,Austria,,dc912a
+386,http://en.wikipedia.org/wiki/Sopron,Sopron,Hungary,,39461a
+387,http://en.wikipedia.org/wiki/Vas_County,Vas,Hungary,,8efb10
+388,,Aoste,Italy,,d9fc5b
+389,,Valais,Switzerland,,c86a7e
+390,,Verbano-Cusio-Ossola,Italy,,a01a03
+391,,Ticino,Switzerland,,5a4b25
+392,,Varese,Italy,,f73b76
+393,,Como,Italy,,70c639
+394,,Graubünden,Switzerland,,28f0b8
+395,,Sondrio,Italy,,"154384"
+396,,Bozen,Italy,,f8c1f2
+397,,Vorarlberg,Austria,,e46de7
+398,,Tirol,Austria,,b7b16e
+399,,West Azarbaijan,Iran,,352fe2
+400,http://en.wikipedia.org/wiki/I%C4%9Fd%C4%B1r_Province,Iğdir,Turkey,,"18d804"
+401,,Agri,Turkey,,816b11
+402,,Van,Turkey,,69cb3e
+403,,Marijampoles,Lithuania,,bbf94b
+404,,Podlachian,Poland,,4f4adc
+405,,Northern,Zambia,,bbcbff
+406,,Groningen,Netherlands,,8cb22b
+407,,Hannover,Germany,,f4f6dc
+408,,Drenthe,Netherlands,,"0d0fd7"
+409,,Overijssel,Netherlands,,a96b65
+410,,Provinz Westfallen,Germany,,1068c6
+411,,Gelderland,Netherlands,,17d63b
+412,,Limburg,Netherlands,,b9228e
+413,,Triesen,Liechtenstein,,"0deb1c"
+414,,Schaan,Liechtenstein,,66808e
+415,,Triesenberg,Liechtenstein,,42e7aa
+416,,Balzers,Liechtenstein,,8fe009
+417,,Planken,Liechtenstein,,41ae36
+418,,Eschen,Liechtenstein,,d1f255
+419,,Mauren,Liechtenstein,,7eacb5
+420,,Schellenberg,Liechtenstein,,b6f047
+421,,Ruggell,Liechtenstein,,e0c641
+422,,Denguélé,Ivory Coast,,f85454
+423,,Kankan,Guinea,,faa9af
+424,,Mandiana,Guinea,,3c7781
+425,,Beyla,Guinea,,25b282
+426,,Bafing,Ivory Coast,,6ecbdd
+427,,Dix-Huit Montagnes,Ivory Coast,,"189977"
+428,,Lola,Guinea,,8d7d8e
+429,,Imperia,Italy,,75fc09
+430,,Alpes-Maritimes,France,,f74909
+431,,Cuneo,Italy,,"663682"
+432,,Alpes-de-Haute-Provence,France,,"248e84"
+433,,Hautes-Alpes,France,,"019d38"
+434,,Turin,Italy,,a49e94
+435,,Savoie,France,,ddb306
+436,,Haute-Savoie,France,,2421fc
+437,,Murmansk,Russia,,fccb60
+438,,Karelia,Russia,,1651cf
+439,http://en.wikipedia.org/wiki/Northern_Ostrobothnia,Northern Ostrobothnia,Finland,,eed5af
+440,http://en.wikipedia.org/wiki/Kainuu,Kainuu,Finland,,a8abb4
+441,http://en.wikipedia.org/wiki/North_Karelia,North Karelia,Finland,,15d4e8
+442,http://en.wikipedia.org/wiki/South_Karelia,South Karelia,Finland,,c203d8
+443,,Leningrad,Russia,,13f3cf
+444,http://en.wikipedia.org/wiki/Kymenlaakso,Kymenlaakso,Finland,,550a14
+445,,Al Batnah North,Oman,,67f7fb
+446,,Dubay,United Arab Emirates,,1a5b1e
+447,,Neutral Zone,United Arab Emirates,,9a9687
+448,http://en.wikipedia.org/wiki/Al_Buraymi,Al Buraymi,Oman,,9b70e8
+449,,Neutral Zone,United Arab Emirates,,d61e4b
+450,,Abu Dhabi,United Arab Emirates,,f5f859
+451,,Al Dhahira,Oman,,941e1a
+452,,Balakən,Azerbaijan,,9431c8
+453,,Zaqatala,Azerbaijan,,49ae49
+454,,Xaçmaz,Azerbaijan,,e44fea
+455,,Qusar,Azerbaijan,,821fa7
+456,,Oğuz,Azerbaijan,,250cf8
+457,,Şəki,Azerbaijan,,42998c
+458,,Qax,Azerbaijan,,d07e70
+459,,Qəbələ,Azerbaijan,,7fe1f8
+460,,Amapá,Brazil,,98b297
+461,,Samux,Azerbaijan,,"0353ab"
+462,,Severno-Backi,Republic of Serbia,,51d92b
+463,http://en.wikipedia.org/wiki/B%C3%A1cs-Kiskun_County,Bács-Kiskun,Hungary,,428fca
+464,,Zapadno-Backi,Republic of Serbia,,f1b6f2
+465,,Severno-Banatski,Republic of Serbia,,68ce19
+466,http://en.wikipedia.org/wiki/Szeged,Szeged,Hungary,,e836d8
+467,,Kayes,Mali,,ab817c
+468,,Kédougou,Senegal,,877a9b
+469,,Tambacounda,Senegal,,dc6a64
+470,,Koundara,Guinea,,"263373"
+471,,Kolda,Senegal,,8e6b42
+472,,Mali,Guinea,,ef575e
+473,,Kebbi,Nigeria,,"2050e0"
+474,,Alibori,Benin,,25ddc0
+475,,Niger,Nigeria,,5ef0b4
+476,,Borgou,Benin,,598b3e
+477,,Kwara,Nigeria,,74071a
+478,,Ogun,Nigeria,,cfee39
+479,,Plateau,Benin,,d18f65
+480,,Collines,Benin,,6ea2ef
+481,,Oyo,Nigeria,,9461cc
+482,,Lagos,Nigeria,,f770b6
+483,,Ouémé,Benin,,e1e32e
+484,,Cabinda,Angola,,eba0dc
+485,,Kouilou,Republic of the Congo,,218a0a
+486,http://en.wikipedia.org/wiki/Zala_County,Zala,Hungary,,7d04bb
+487,,Medimurska,Croatia,,a516a8
+488,http://en.wikipedia.org/wiki/Somogy_County,Somogy,Hungary,,c3c59e
+489,,Viroviticko-Podravska,Croatia,,854d9f
+490,,Koprivničko-Križevačka,Croatia,,c41000
+491,http://en.wikipedia.org/wiki/Baranya_County,Baranya,Hungary,,559cb9
+492,,Osjecko-Baranjska,Croatia,,55a7cf
+493,,Piran,Slovenia,,2f5570
+494,,Istarska,Croatia,,1be3bc
+495,,Moravske Toplice,Slovenia,,"350510"
+496,,Šalovci,Slovenia,,b534ba
+497,,Hodoš,Slovenia,,7380ad
+498,,Gornji Petrovci,Slovenia,,"05f971"
+499,,Kuzma,Slovenia,,3cf166
+500,,Lendava,Slovenia,,cee631
+501,,Dobrovnik,Slovenia,,5b69b9
+502,,Kobilje,Slovenia,,b5b41f
+503,,Ar Rayyān,Qatar,,"285e19"
+504,,Ash Sharqiyah,Saudi Arabia,,b337e8
+505,,North-West,Botswana,,e8c065
+506,,Matabeleland North,Zimbabwe,,ff4d5f
+507,,Central,Botswana,,2d6cc4
+508,,Matabeleland South,Zimbabwe,,389bc7
+509,http://en.wikipedia.org/wiki/North-East_District_(Botswana),North-East,Botswana,,e2230b
+510,,Northern Areas,Pakistan,,"087408"
+511,,Burgas,Bulgaria,,a76088
+512,,Kirklareli,Turkey,,10a7cd
+513,,Yambol,Bulgaria,,3dc487
+514,,Edirne,Turkey,,59b90e
+515,,Haskovo,Bulgaria,,2b8a61
+516,,Otdar Mean Chey,Cambodia,,f3f27a
+517,,Surin,Thailand,,38913e
+518,,Preah Vihéar,Cambodia,,ebd962
+519,,Si Sa Ket,Thailand,,63538f
+520,,Ubon Ratchathani,Thailand,,cf6735
+521,,Siemréab,Cambodia,,"07563a"
+522,,Bântéay Méanchey,Cambodia,,53fde9
+523,,Sa Kaeo,Thailand,,2bb232
+524,,Buri Ram,Thailand,,ba2fd3
+525,,Kaôh Kong,Cambodia,,69421f
+526,,Trat,Thailand,,85422a
+527,,Pouthisat,Cambodia,,13f320
+528,,Batdâmbâng,Cambodia,,f4be00
+529,,Krong Pailin,Cambodia,,37f0e8
+530,,Chanthaburi,Thailand,,d64a34
+531,,Melilla,Spain,,"0fcbc6"
+532,,Oriental,Morocco,,298f95
+533,,Sikkim,India,,df877f
+534,,Ha,Bhutan,,c39986
+535,,Samchi,Bhutan,,"33e807"
+536,,West Bengal,India,,65658f
+537,,Chhukha,Bhutan,,5ea164
+538,,Geylegphug,Bhutan,,7bcdf7
+539,,Assam,India,,"573703"
+540,,Shemgang,Bhutan,,9b72e3
+541,,Samdrup Jongkhar,Bhutan,,16c222
+542,,Tashigang,Bhutan,,7dcd34
+543,,Perlis,Malaysia,,"814481"
+544,,Satun,Thailand,,"97e852"
+545,,Songkhla,Thailand,,647bba
+546,,Kedah,Malaysia,,ed265b
+547,,Yala,Thailand,,c75b6f
+548,,Kelantan,Malaysia,,"8d3420"
+549,,Narathiwat,Thailand,,ccb1d4
+550,,Perak,Malaysia,,"01f78b"
+551,http://en.wikipedia.org/wiki/Serravalle_(San_Marino),Serravalle,San Marino,,7f24d2
+552,,Rimini,Italy,,94c7bb
+553,http://en.wikipedia.org/wiki/Domagnano,Domagnano,San Marino,,f38762
+554,http://en.wikipedia.org/wiki/Faetano,Faetano,San Marino,,5e3881
+555,,Pesaro e Urbino,Italy,,15de21
+556,http://en.wikipedia.org/wiki/Montegiardino,Montegiardino,San Marino,,11b921
+557,http://en.wikipedia.org/wiki/Fiorentino,Fiorentino,San Marino,,6e2713
+558,http://en.wikipedia.org/wiki/Chiesanuova,Chiesanuova,San Marino,,1bb91f
+559,http://en.wikipedia.org/wiki/City_of_San_Marino,San Marino,San Marino,,3a0772
+560,http://en.wikipedia.org/wiki/Acquaviva_(San_Marino),Acquaviva,San Marino,,a9a665
+561,http://en.wikipedia.org/wiki/Borgo_Maggiore,Borgo Maggiore,San Marino,,58ae74
+562,,Nord-Est,Haiti,,4e4b5f
+563,,Monte Cristi,Dominican Republic,,8eefcf
+564,,Dajabón,Dominican Republic,,1728ef
+565,,Centre,Haiti,,cbcb58
+566,,La Estrelleta,Dominican Republic,,db85e2
+567,,Independencia,Dominican Republic,,99c5e0
+568,,Ouest,Haiti,,dd4585
+569,,Sud-Est,Haiti,,8b16eb
+570,,Pedernales,Dominican Republic,,a86c45
+571,,Lac,Chad,,c9892a
+572,,Borno,Nigeria,,e6b4b2
+573,,Al Jahrah,Kuwait,,e5f6ad
+574,,Al-Basrah,Iraq,,f0e52b
+575,,Al-Muthannia,Iraq,,ffeabd
+576,,Ahuachapán,El Salvador,,a7aeed
+577,,Jutiapa,Guatemala,,fde926
+578,,Santa Ana,El Salvador,,a8849b
+579,,Chiquimula,Guatemala,,258be1
+580,,Nusa Tenggara Timur,Indonesia,,"069d3b"
+581,,Ambeno,East Timor,,c6e19e
+582,,Bobonaro,East Timor,,46922a
+583,,Cova Lima,East Timor,,9ad6aa
+584,,Sarawak,Malaysia,,f5deae
+585,,Temburong,Brunei,,a9a1d5
+586,,Kalimantan Barat,Indonesia,,605ff7
+587,,Salzburg,Austria,,766ebc
+588,,Belluno,Italy,,daca41
+589,,Kärnten,Austria,,30bb38
+590,,Udine,Italy,,"08b255"
+591,,Monaco,Monaco,,"349389"
+592,,Timbuktu,Mali,,dbe272
+593,,Adrar,Algeria,,acc3e0
+594,,Kranjska Gora,Slovenia,,"076a0c"
+595,,Bovec,Slovenia,,"04ecb1"
+596,,Kobarid,Slovenia,,b2eeb7
+597,,Tolmin,Slovenia,,"08c543"
+598,,Kanal,Slovenia,,6aca97
+599,,Brda,Slovenia,,3435c3
+600,,Gorizia,Italy,,d490d7
+601,,Nova Goriška,Slovenia,,b2f627
+602,,Šempeter-Vrtojba,Slovenia,,c3992e
+603,,Miren-Kostanjevica,Slovenia,,d86ea6
+604,,Komen,Slovenia,,9cf81d
+605,,Trieste,Italy,,c361bc
+606,,Sežana,Slovenia,,44c4c1
+607,,Hrpelje-Kozina,Slovenia,,dc82d6
+608,,Koper,Slovenia,,996a7f
+609,,Maputo,Mozambique,,d7a728
+610,,Lubombo,Swaziland,,"00ac8e"
+611,,Muyinga,Burundi,,8ebda5
+612,,Eastern,Rwanda,,f76a89
+613,,Kirundo,Burundi,,f29c21
+614,,Southern,Rwanda,,851ddf
+615,,Ngozi,Burundi,,58d4d1
+616,,Cibitoke,Burundi,,7750ca
+617,,Western,Rwanda,,5d44ee
+618,,Kayanza,Burundi,,eb6fdc
+619,,Rakhine,Myanmar,,cdc0d6
+620,,Chittagong,Bangladesh,,b73dfe
+621,,Chin,Myanmar,,85fc37
+622,,Pyrénées-Atlantiques,France,,3871bd
+623,,Navarra,Spain,,a733fa
+624,,Gipuzkoa,Spain,,48ab2f
+625,,Huesca,Spain,,"233509"
+626,,Haute-Garonne,France,,45645a
+627,,Lérida,Spain,,185c29
+628,,Hautes-Pyrénées,France,,42e77b
+629,,Ariège,France,,"051e4e"
+630,http://en.wikipedia.org/wiki/Ordino,Ordino,Andorra,,9cc138
+631,http://en.wikipedia.org/wiki/Canillo,Canillo,Andorra,,b7bb35
+632,,Pyrénées-Orientales,France,,abd815
+633,http://en.wikipedia.org/wiki/Encamp,Encamp,Andorra,,26dd0d
+634,http://en.wikipedia.org/wiki/La_Massana,La Massana,Andorra,,6766aa
+635,,Gerona,Spain,,6a10bb
+636,http://en.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria,Sant Julià de Lòria,Andorra,,c5ab0b
+637,http://en.wikipedia.org/wiki/Escaldes-Engordany,Escaldes-Engordany,Andorra,,a53240
+638,,Badakhshan,Afghanistan,,4c27ce
+639,,Kentriki Makedonia,Greece,,"0f9661"
+640,,Novo Selo,Macedonia,,4ffce0
+641,,Dojran,Macedonia,,"67e103"
+642,,Valandovo,Macedonia,,"291597"
+643,,Strumitsa,Macedonia,,9b698e
+644,,Bogdanci,Macedonia,,8c7bbb
+645,,Gevgelija,Macedonia,,5e9f92
+646,,Kavadartsi,Macedonia,,"0ff39b"
+647,,Novaci,Macedonia,,303ed4
+648,,Prilep,Macedonia,,443cb0
+649,,Bitola,Macedonia,,55b37c
+650,,Gnjilane,Kosovo,,"884d24"
+651,,Lipkovo,Macedonia,,55743c
+652,,Vitina,Kosovo,,30ef30
+653,,Čučer Sandevo,Macedonia,,eaae33
+654,,Kačanik,Kosovo,,ab233b
+655,,Gjorče Petrov,Macedonia,,3d2d8c
+656,,Saraj,Macedonia,,26408f
+657,,Jegunovce,Macedonia,,b4288d
+658,,Štrpce,Kosovo,,2f37d1
+659,,Tearce,Macedonia,,"0ff803"
+660,,Tetovo,Macedonia,,68264b
+661,,Bogovinje,Macedonia,,3a066b
+662,,Vrapcište,Macedonia,,be3159
+663,,Pcinjski,Republic of Serbia,,"875715"
+664,http://en.wikipedia.org/wiki/Municipality_of_Kriva_Palanka,Kriva Palanka,Macedonia,,"2291d2"
+665,http://en.wikipedia.org/wiki/Municipality_of_Rankovce,Rankovce,Macedonia,,"841172"
+666,,Staro Nagoričane,Macedonia,,fae0b2
+667,,Kumanovo,Macedonia,,b5dc4e
+668,,Vidin,Bulgaria,,192fc0
+669,,Borski,Republic of Serbia,,5c0492
+670,,Zajecarski,Republic of Serbia,,17c276
+671,,Pirotski,Republic of Serbia,,5dd9db
+672,,Pernik,Bulgaria,,2dea61
+673,,Sofia,Bulgaria,,9f396f
+674,,Montana,Bulgaria,,"0d7de1"
+675,,Jablanicki,Republic of Serbia,,8fecb2
+676,,Kyustendil,Bulgaria,,dc6a70
+677,,Delčevo,Macedonia,,71a3cb
+678,,Makedonska Kamenica,Macedonia,,9fe859
+679,,Blagoevgrad,Bulgaria,,ca9c26
+680,,Berovo,Macedonia,,fccb3c
+681,,Pehčevo,Macedonia,,1595af
+682,http://en.wikipedia.org/wiki/Dubrova%C4%8Dko-neretvanska_%C5%BEupanija,Dubrovacko-Neretvanska,Croatia,,"08d986"
+683,,Herceg Novi,Montenegro,,"246819"
+684,,Herzegovina-Neretva,Bosnia and Herzegovina,,556f39
+685,,Trebinje,Bosnia and Herzegovina,,3328bd
+686,,Ntungamo,Uganda,,109a0c
+687,,Isingiro,Uganda,,7f5d04
+688,,Northern,Rwanda,,f79921
+689,,Kabale,Uganda,,"07a96b"
+690,,Kisoro,Uganda,,c06d06
+691,,Guantanamo Bay USNB,US Naval Base Guantanamo Bay,,10a5ab
+692,,Guantánamo,Cuba,,e555eb
+693,,Uttarakhand,India,,53e3a7
+694,,Leposavić,Kosovo,,"548731"
+695,,Raški,Republic of Serbia,,e4bb4c
+696,,Pomoravski,Republic of Serbia,,"0cb929"
+697,,Toplicki,Republic of Serbia,,8a0e11
+698,,Podujevo,Kosovo,,99bcfc
+699,,Zubin Potok,Kosovo,,afd483
+700,,Zvečan,Kosovo,,e5841d
+701,,Istok,Kosovo,,b4a528
+702,,Priština,Kosovo,,b1eec3
+703,,Kosovska Kamenica,Kosovo,,d6c651
+704,,Rožaje,Montenegro,,f64eac
+705,,Peć,Kosovo,,4a47d2
+706,,Berane,Montenegro,,9c82c7
+707,,Plav,Montenegro,,"500e75"
+708,,Pljevlja,Montenegro,,ae0eb3
+709,,Zlatiborski,Republic of Serbia,,1ecfb4
+710,,Bijelo Polje,Montenegro,,e70611
+711,,Ocotepeque,Honduras,,"608159"
+712,,Chalatenango,El Salvador,,19bc91
+713,,Lempira,Honduras,,"07c580"
+714,,Cabañas,El Salvador,,d14220
+715,,Intibucá,Honduras,,8df707
+716,,Morazán,El Salvador,,e7f8a7
+717,,La Paz,Honduras,,"788d98"
+718,,San Miguel,El Salvador,,50c3d7
+719,,La Unión,El Salvador,,2afe45
+720,,Valle,Honduras,,5f2c22
+721,,Atlántico Norte,Nicaragua,,aba3b6
+722,,Olancho,Honduras,,c8ed21
+723,,Gracias a Dios,Honduras,,"08419b"
+724,,Jinotega,Nicaragua,,7f1171
+725,,El Paraíso,Honduras,,82f2b3
+726,,Nueva Segovia,Nicaragua,,"0d3180"
+727,,Chinandega,Nicaragua,,fb8970
+728,,Choluteca,Honduras,,d4c2e4
+729,,Madriz,Nicaragua,,5751ec
+730,,Esmeraldas,Ecuador,,d5cfea
+731,,Nariño,Colombia,,59c330
+732,,Carchi,Ecuador,,ba3866
+733,,Sucumbios,Ecuador,,6c2979
+734,,Putumayo,Colombia,,e995f9
+735,,Nickerie,Suriname,,6cd67d
+736,,Marowijne,Suriname,,6bc24f
+737,,Tarija,Bolivia,,a5cdd4
+738,,Boquerón,Paraguay,,217eed
+739,,Formosa,Argentina,,df263d
+740,,Presidente Hayes,Paraguay,,edfbe1
+741,http://en.wikipedia.org/wiki/Central_Department,Central,Paraguay,,2e65f2
+742,http://en.wikipedia.org/wiki/Asunci%C3%B3n,Asunción,Paraguay,,e94550
+743,,Alto Paraná,Paraguay,,5c572e
+744,,Misiones,Argentina,,"0537fb"
+745,,Itapúa,Paraguay,,5f0f5e
+746,,Ñeembucú,Paraguay,,"185e65"
+747,,Chaco,Argentina,,8d317b
+748,,Corrientes,Argentina,,e49b8b
+749,,Misiones,Paraguay,,b056eb
+750,,Santa Cruz,Bolivia,,b137fd
+751,,Mato Grosso do Sul,Brazil,,912d2b
+752,,Alto Paraguay,Paraguay,,a1d33d
+753,,Concepción,Paraguay,,6f2268
+754,,Amambay,Paraguay,,"872488"
+755,,Canindeyú,Paraguay,,ccb098
+756,,Paraná,Brazil,,2823f4
+757,,Santa Catarina,Brazil,,470e7a
+758,,Zeeland,Netherlands,,bf6276
+759,,East Flanders,Belgium,,fa14d4
+760,,Noord-Brabant,Netherlands,,2ca65f
+761,,Antwerp,Belgium,,88ae63
+762,,Limburg,Belgium,,"06997f"
+763,,Württemberg,Germany,,eefc9e
+764,,Schaffhausen,Switzerland,,5807a6
+765,,Thurgau,Switzerland,,d840cc
+766,,Zürich,Switzerland,,959a55
+767,,Aargau,Switzerland,,f2201f
+768,,Basel-Stadt,Switzerland,,3a835d
+769,,Basel-Landschaft,Switzerland,,288cc0
+770,,Bas-Rhin,France,,4ea06f
+771,,Haute-Rhin,France,,b7ee6f
+772,,Sankt Gallen,Switzerland,,e57c6b
+773,,Vaduz,Liechtenstein,,86b122
+774,,Gamprin,Liechtenstein,,4e0928
+775,,Solothurn,Switzerland,,c0f168
+776,,Jura,Switzerland,,8c6744
+777,http://en.wikipedia.org/wiki/Territoire_de_Belfort,Territoire de Belfort,France,,f1c159
+778,,Doubs,France,,e07413
+779,,Genève,Switzerland,,67d96d
+780,,Ain,France,,a8e864
+781,,Vaud,Switzerland,,"7143d7"
+782,,Jura,France,,72da7f
+783,,Neuchâtel,Switzerland,,6e0721
+784,,Badajoz,Spain,,fc8001
+785,,Évora,Portugal,,4b04a6
+786,,Portalegre,Portugal,,61b4a6
+787,,Rogašovci,Slovenia,,3621f1
+788,,Steiermark,Austria,,c15da1
+789,,Cankova,Slovenia,,68053a
+790,,Gornja Radgona,Slovenia,,2dace7
+791,,Apace,Slovenia,,df7f28
+792,,Šentilj,Slovenia,,96ea64
+793,,Kungota,Slovenia,,da8ce5
+794,,Maribor,Slovenia,,82489c
+795,,Selnica ob Dravi,Slovenia,,7c590f
+796,,Radlje ob Dravi,Slovenia,,35cf86
+797,,Muta,Slovenia,,beb22f
+798,,Dravograd,Slovenia,,9e3cfc
+799,,Podvelka,Slovenia,,28267a
+800,,Ravne na Koroškem,Slovenia,,7a5392
+801,,Prevalje,Slovenia,,1905ae
+802,,Mežica,Slovenia,,"114193"
+803,,Črna na Koroškem,Slovenia,,1aa48f
+804,,Tržič,Slovenia,,dc5689
+805,,Žirovnica,Slovenia,,846c26
+806,,Jesenice,Slovenia,,d58072
+807,,Solcava,Slovenia,,6e7b33
+808,,Jezersko,Slovenia,,a8ecba
+809,,Foča,Bosnia and Herzegovina,,32b30a
+810,,Žabljak,Montenegro,,b6edc1
+811,,Plužine,Montenegro,,670e8a
+812,,Nikšic,Montenegro,,81e74d
+813,,Kotor,Montenegro,,e0cf1f
+814,,Sisacko-Moslavacka,Croatia,,96b9bf
+815,,Banja Luka,Bosnia and Herzegovina,,71ad16
+816,,Brodsko-Posavska,Croatia,,43fa7f
+817,,Una-Sana,Bosnia and Herzegovina,,31839b
+818,,Karlovacka,Croatia,,f0adc8
+819,,Zadarska,Croatia,,3b5dca
+820,,Doboj,Bosnia and Herzegovina,,e2a2dc
+821,,Posavina,Bosnia and Herzegovina,,4558db
+822,,Vukovarsko-Srijemska,Croatia,,afda33
+823,,Brčko Distrikt,Bosnia and Herzegovina,,632cee
+824,,Bijeljina,Bosnia and Herzegovina,,"677e09"
+825,,West Bosnia,Bosnia and Herzegovina,,d554f7
+826,,Splitsko-Dalmatinska,Croatia,,795c7a
+827,,West Herzegovina,Bosnia and Herzegovina,,fa3a3c
+828,,Sremski,Republic of Serbia,,c2626d
+829,,Macvanski,Republic of Serbia,,ce78d1
+830,,Vlasenica,Bosnia and Herzegovina,,8e82ab
+831,,Južno-Backi,Republic of Serbia,,e0ec45
+832,,Bratislavský,Czechoslovakia,,7250eb
+833,,Trnavský,Czechoslovakia,,"013a00"
+834,,Trenciansky,Czechoslovakia,,301ad0
+835,http://en.wikipedia.org/wiki/Zl%C3%ADn_Region,Zlínský,Czechoslovakia,,4d5b99
+836,http://en.wikipedia.org/wiki/Borsod-Aba%C3%BAj-Zempl%C3%A9n_County,Borsod-Abaúj-Zemplén,Hungary,,ab88b1
+837,,Banskobystrický,Czechoslovakia,,b0b183
+838,http://en.wikipedia.org/wiki/N%C3%B3gr%C3%A1d_County,Nógrád,Hungary,,f9028f
+839,http://en.wikipedia.org/wiki/Salg%C3%B3tarj%C3%A1n,Salgótarján,Hungary,,8f7d80
+840,,Nitriansky,Czechoslovakia,,fa83a1
+841,http://en.wikipedia.org/wiki/Kom%C3%A1rom-Esztergom_County,Komárom-Esztergom,Hungary,,"02a32a"
+842,http://en.wikipedia.org/wiki/Pest_County,Pest,Hungary,,fc3cf4
+843,,Brandenburg,Germany,,3d8e28
+844,,Pommern,Germany,,e97ee2
+845,,Mecklenburg-Lübeck,Germany,,b86e8d
+846,,Mehedinti,Romania,,84f7e6
+847,,Dolj,Romania,,f45526
+848,,Silistra,Bulgaria,,"362e80"
+849,,Calarasi,Romania,,fe8c15
+850,,Ruse,Bulgaria,,1efa39
+851,,Teleorman,Romania,,92fb0c
+852,,Giurgiu,Romania,,22ac3c
+853,,Constanta,Romania,,aff162
+854,,Dobrich,Bulgaria,,f7e905
+855,,Vratsa,Bulgaria,,addfa9
+856,,Olt,Romania,,8c235f
+857,,Pleven,Bulgaria,,847cc5
+858,,Veliko Tarnovo,Bulgaria,,a67f09
+859,,Srednje-Banatski,Republic of Serbia,,2a084e
+860,,Južno-Banatski,Republic of Serbia,,fc4930
+861,,Caras-Severin,Romania,,f9a40a
+862,,Branicevski,Republic of Serbia,,5ec91a
+863,,Anatoliki Makedonia kai Thraki,Greece,,19b650
+864,,Kardzhali,Bulgaria,,1fc214
+865,,Smolyan,Bulgaria,,3b3dba
+866,,Shkodër,Albania,,ca8155
+867,,Andrijevica,Montenegro,,ede7e2
+868,,Podgorica,Montenegro,,dd4504
+869,,Bar,Montenegro,,49c9ad
+870,,Ulcinj,Montenegro,,22fb0c
+871,,Botosani,Romania,,aeb313
+872,,Briceni,Romania,,43feae
+873,,Edineţ,Romania,,98d6f5
+874,,Rîşcani,Romania,,51ef18
+875,,Glodeni,Romania,,4b0a59
+876,,Făleşti,Romania,,67d16d
+877,,Iasi,Romania,,"352407"
+878,,Ungheni,Romania,,dd8eb9
+879,,Nisporeni,Romania,,d516b1
+880,,Hîncesti,Romania,,1f5089
+881,,Vaslui,Romania,,7504ad
+882,,Leova,Romania,,6c3cf7
+883,,Cantemir,Romania,,210f76
+884,,Cahul,Romania,,170c94
+885,,Galati,Romania,,"0efe32"
+886,,Chernivtsi,Ukraine,,704afe
+887,,Suceava,Romania,,7ce328
+888,,Maramures,Romania,,"0a113e"
+889,,Ivano-Frankivs'k,Ukraine,,"078719"
+890,,Odessa,Ukraine,,"024d7f"
+891,http://en.wikipedia.org/wiki/Tulcea_County,Tulcea,Romania,,cfbce4
+892,,Ocniţa,Romania,,c2aee8
+893,,Vinnytsya,Ukraine,,d56b9f
+894,,Donduseni,Romania,,4b0250
+895,,Soroca,Romania,,20aee3
+896,,Camenca,Romania,,"061412"
+897,,Rezina,Romania,,"5705e1"
+898,,Stîngă Nistrului,Romania,,a64c94
+899,,Grigoriopol,Romania,,"018825"
+900,,Bender,Romania,,acf4b8
+901,,Ștefan Vodă,Romania,,892c91
+902,,Causeni,Romania,,b6a108
+903,,Cimişlia,Romania,,aa169b
+904,,Basarabeasca,Romania,,f47d0a
+905,,Taraclia,Romania,,f57a2f
+906,,Comrat,Romania,,c8fbbc
+907,,Lublin,Poland,,"621461"
+908,,L'viv,Ukraine,,8b6dd7
+909,,Dagdas,Latvia,,a4300b
+910,,Kraslavas,Latvia,,e205ee
+911,,Taurages,Lithuania,,b56a18
+912,,Smolensk,Russia,,2a9d12
+913,http://en.wikipedia.org/wiki/Mogilev_Region,Mogilev,Belarus,,8b5040
+914,,Bryansk,Russia,,7634ea
+915,,Sumy,Ukraine,,24896e
+916,,Kursk,Russia,,23ce18
+917,,Belgorod,Russia,,da0d11
+918,,Kharkiv,Ukraine,,1e056d
+919,,Luhans'k,Ukraine,,3e89eb
+920,,Voronezh,Russia,,6d0f84
+921,,Rostov,Russia,,430c36
+922,,Donets'k,Ukraine,,ccc0aa
+923,,East Azarbaijan,Iran,,c4015b
+924,http://en.wikipedia.org/wiki/Kars_Province,Kars,Turkey,,bea595
+925,,Aragatsotn,Armenia,,7fa732
+926,,Armavir,Armenia,,cbb6a3
+927,,Ardebil,Iran,,1f4477
+928,,İmişli,Azerbaijan,,d045c5
+929,,Biləsuvar,Azerbaijan,,"0d0871"
+930,,Cəlilabad,Azerbaijan,,1cc363
+931,,Yardımlı,Azerbaijan,,9f53d8
+932,,Lerik,Azerbaijan,,d2ed45
+933,,Cəbrayıl,Azerbaijan,,"043c3d"
+934,,Füzuli,Azerbaijan,,4daa3d
+935,,Beyləqan,Azerbaijan,,e820a4
+936,,Astara,Azerbaijan,,90794e
+937,,Gilan,Iran,,b7892f
+938,,Buryat,Russia,,74bba2
+939,,Hövsgöl,Mongolia,,3df1d4
+940,,Tuva,Russia,,8d6dc3
+941,,Bulgan,Mongolia,,92262b
+942,,Uvs,Mongolia,,b55ec2
+943,,Selenge,Mongolia,,2f885d
+944,,Chita,Russia,,64223c
+945,,Dzavhan,Mongolia,,4b6538
+946,,Hentiy,Mongolia,,c8c41c
+947,,Heilongjiang,China,,c4b31c
+948,,Amur,Russia,,58e4d4
+949,,Yevrey,Russia,,3cef96
+950,,Khabarovsk,Russia,,a3d68b
+951,,Primor'ye,Russia,,1c1d4d
+952,,Jilin,China,,e6cb2a
+953,,Hamgyŏng-bukto,North Korea,,9232fe
+954,http://en.wikipedia.org/wiki/Rason,Rasŏn,North Korea,,6395eb
+955,,Ryanggang,North Korea,,ef4e3b
+956,,Chagang-do,North Korea,,"168908"
+957,,Liaoning,China,,2ba596
+958,,P'yŏngan-bukto,North Korea,,d240e3
+959,,Sirdaryo,Uzbekistan,,"0f840b"
+960,,Jizzakh,Uzbekistan,,437d7d
+961,,Samarkand,Uzbekistan,,d70732
+962,,Kashkadarya,Uzbekistan,,5c9362
+963,,Surkhandarya,Uzbekistan,,1ce927
+964,,Khatlon,Tajikistan,,"8065d0"
+965,,Takhar,Afghanistan,,eeb69a
+966,,Kunduz,Afghanistan,,4e0cb6
+967,,Balkh,Afghanistan,,6cfe0e
+968,,Chardzhou,Turkmenistan,,8f468c
+969,,Jawzjan,Afghanistan,,e744f9
+970,,Faryab,Afghanistan,,89fcd0
+971,,Mary,Turkmenistan,,"660229"
+972,,Badghis,Afghanistan,,c22abf
+973,,Hirat,Afghanistan,,ca7591
+974,,Ahal,Turkmenistan,,"431135"
+975,,Hasaka (Al Haksa),Syria,,92977a
+976,,Mardin,Turkey,,9c0180
+977,,Ar Raqqah,Syria,,cc1aa4
+978,,Sanliurfa,Turkey,,2ab564
+979,,Aleppo,Syria,,c32d9b
+980,http://en.wikipedia.org/wiki/Kilis_Province,Kilis,Turkey,,d79aac
+981,http://en.wikipedia.org/wiki/Gaziantep_Province,Gaziantep,Turkey,,"287e03"
+982,http://en.wikipedia.org/wiki/Hatay_Province,Hatay,Turkey,,fec8d4
+983,,Idlib,Syria,,6aab12
+984,,Lattakia,Syria,,d93ed5
+985,,As-Sulaymaniyah,Iraq,,54a367
+986,,Kordestan,Iran,,fe7ee8
+987,,Kermanshah,Iran,,df6d23
+988,,Diyala,Iraq,,"990827"
+989,,Ilam,Iran,,a1140a
+990,,Wasit,Iraq,,4fac9b
+991,,Maysan,Iraq,,692f93
+992,,Khuzestan,Iran,,"860320"
+993,,Irbid,Jordan,,7b13b2
+994,,Madaba,Jordan,,"934815"
+995,,Karak,Jordan,,2bcab9
+996,,Tafilah,Jordan,,"0b8aff"
+997,,Aqaba,Jordan,,ec5aa0
+998,,Balqa,Jordan,,9ab0d8
+999,,Karnali,Nepal,,b70683
+1000,,Mahakali,Nepal,,a9b7ba
+1001,,Seti,Nepal,,b8c37e
+1002,,Dhawalagiri,Nepal,,fba9d8
+1003,,Gandaki,Nepal,,aa68c7
+1004,,Bagmati,Nepal,,fed333
+1005,,Janakpur,Nepal,,"238733"
+1006,,Sagarmatha,Nepal,,"924644"
+1007,,Bhojpur,Nepal,,d7322e
+1008,,Mechi,Nepal,,"158796"
+1009,,Kachin,Myanmar,,31b3b3
+1010,,Sagaing,Myanmar,,1e48c4
+1011,,Nagaland,India,,7f975a
+1012,,Manipur,India,,f33ba1
+1013,,Mizoram,India,,6b1800
+1014,,Chiang Rai,Thailand,,"766d85"
+1015,,Shan,Myanmar,,"298923"
+1016,,Chiang Mai,Thailand,,"08fe26"
+1017,,Mae Hong Son,Thailand,,5d616d
+1018,,Kayah,Myanmar,,ef50c3
+1019,,Kayin,Myanmar,,"03e070"
+1020,,Tak,Thailand,,65cc2c
+1021,,Kanchanaburi,Thailand,,"076828"
+1022,,Mon,Myanmar,,"93d656"
+1023,,Tanintharyi,Myanmar,,ce5140
+1024,,Prachuap Khiri Khan,Thailand,,"021bbc"
+1025,,Phetchaburi,Thailand,,82b8a3
+1026,,Ratchaburi,Thailand,,24146d
+1027,,Chumphon,Thailand,,"883e88"
+1028,,Ranong,Thailand,,"380673"
+1029,,Bokeo,Laos,,"84d200"
+1030,,Xaignabouri,Laos,,e515df
+1031,,Phayao,Thailand,,afdec7
+1032,,Nan,Thailand,,995e1f
+1033,,Uttaradit,Thailand,,e17184
+1034,,Phitsanulok,Thailand,,bdb106
+1035,,Loei,Thailand,,a34bac
+1036,http://en.wikipedia.org/wiki/Bueng_Kan_Province,Bueng Kan,Thailand,,83fa5a
+1037,,Bolikhamxai,Laos,,eddb90
+1038,,Nong Khai,Thailand,,6d70cb
+1039,,Nakhon Phanom,Thailand,,27ed0f
+1040,,Khammouan,Laos,,537d9b
+1041,,Savannakhét,Laos,,d736bb
+1042,,Mukdahan,Thailand,,9ac403
+1043,,Amnat Charoen,Thailand,,b9141a
+1044,,Saravan,Laos,,1019c8
+1045,,Vientiane [prefecture],Laos,,a0e2a2
+1046,,Vientiane,Laos,,"157977"
+1047,,Champasak,Laos,,20b5e1
+1048,,Điện Biên,Vietnam,,7cce53
+1049,,Louangphrabang,Laos,,58c548
+1050,,Houaphan,Laos,,5055cb
+1051,,Son La,Vietnam,,456ac9
+1052,,Thanh Hóa,Vietnam,,f4dd76
+1053,,Nghệ An,Vietnam,,7fec30
+1054,,Xiangkhoang,Laos,,db576a
+1055,,Ha Tinh,Vietnam,,53c041
+1056,,Quảng Bình,Vietnam,,4ca827
+1057,,Quảng Trị,Vietnam,,d8700c
+1058,,Thừa Thiên - Huế,Vietnam,,b4d168
+1059,,Xékong,Laos,,4a0814
+1060,,Quàng Nam,Vietnam,,299a23
+1061,,Attapu,Laos,,a89cf5
+1062,,KwaZulu-Natal,South Africa,,cd89fe
+1063,,Mokhotlong,Lesotho,,6c340f
+1064,,Free State,South Africa,,2290a7
+1065,,Butha-Buthe,Lesotho,,a2137a
+1066,,Leribe,Lesotho,,43dd49
+1067,,Eastern Cape,South Africa,,31857b
+1068,,Qacha's Nek,Lesotho,,53adaf
+1069,,Thaba-Tseka,Lesotho,,fc2c7c
+1070,,Berea,Lesotho,,dc58e3
+1071,,Maseru,Lesotho,,1b0114
+1072,,Mafeteng,Lesotho,,a1519d
+1073,,Mohale's Hoek,Lesotho,,"390e98"
+1074,,Quthing,Lesotho,,708f3c
+1075,,Limpopo,South Africa,,"460726"
+1076,,Kgatleng,Botswana,,8a1e80
+1077,,North West,South Africa,,"062ddb"
+1078,,South-East,Botswana,,522a9a
+1079,,Southern,Botswana,,43baa6
+1080,,Kgalagadi,Botswana,,731c83
+1081,,Masvingo,Zimbabwe,,36a16a
+1082,,Lusaka,Zambia,,818f46
+1083,,Mashonaland West,Zimbabwe,,e5e63d
+1084,,Mashonaland Central,Zimbabwe,,9f3640
+1085,,Southern,Zambia,,4f16c8
+1086,,Kémo,Central African Republic,,d91d1b
+1087,,Ouaka,Central African Republic,,a26398
+1088,,Basse-Kotto,Central African Republic,,b1563a
+1089,,Mbomou,Central African Republic,,"03f544"
+1090,http://en.wikipedia.org/wiki/Ombella-M%27Poko,Ombella-M'Poko,Central African Republic,,8b4066
+1091,,Bangui,Central African Republic,,754dda
+1092,,Lobaye,Central African Republic,,6a2fee
+1093,,Kagera,United Republic of Tanzania,,68b1fb
+1094,,Cankuzo,Burundi,,41bfd2
+1095,,Ruyigi,Burundi,,d6723e
+1096,,Rutana,Burundi,,4e2545
+1097,,Makamba,Burundi,,db2b41
+1098,,Bubanza,Burundi,,a5e0ff
+1099,http://en.wikipedia.org/wiki/Bujumbura_Rural_Province,Bujumbura Rural,Burundi,,a01607
+1100,http://en.wikipedia.org/wiki/Bujumbura_Mairie_Province,Bujumbura Mairie,Burundi,,1e6e0a
+1101,,Bururi,Burundi,,c6bff6
+1102,,Nord-Kivu,Democratic Republic of the Congo,,c667d5
+1103,,Amhara,Ethiopia,,aace49
+1104,,Gedarif,Sudan,,4da040
+1105,,Tigray,Ethiopia,,af21d0
+1106,,Benshangul-Gumaz,Ethiopia,,c9f95a
+1107,,Blue Nile,Sudan,,e58cc5
+1108,,Sennar,Sudan,,b9d487
+1109,,Gambela Peoples,Ethiopia,,8f1d43
+1110,,Upper Nile,S. Sudan,,2cbca4
+1111,,Oromiya,Ethiopia,,b59c67
+1112,,Jonglei,S. Sudan,,"20d135"
+1113,http://en.wikipedia.org/wiki/Sila_Region,Sila,Chad,,9c3b18
+1114,,Salamat,Chad,,d6ef5f
+1115,,Bamingui-Bangoran,Central African Republic,,e19347
+1116,http://en.wikipedia.org/wiki/Moyen-Chari_Region,Moyen-Chari,Chad,,dd7727
+1117,,Ouham,Central African Republic,,"0eec27"
+1118,,Mandoul,Chad,,c60d06
+1119,,Logone Oriental,Chad,,8597a6
+1120,,Ouham-Pendé,Central African Republic,,c6036a
+1121,,Sud,Cameroon,,3a15c7
+1122,,Wouleu-Ntem,Gabon,,3b712d
+1123,,Sangha,Republic of the Congo,,2cfd45
+1124,,Ogooué-Ivindo,Gabon,,c7635b
+1125,,Cuvette-Ouest,Republic of the Congo,,c21002
+1126,,Haut-Ogooué,Gabon,,ffeed8
+1127,,Ogooué-Lolo,Gabon,,678a14
+1128,,Ngounié,Gabon,,3fe78a
+1129,,Lékoumou,Republic of the Congo,,69a5b5
+1130,,Nyanga,Gabon,,4a213d
+1131,http://en.wikipedia.org/wiki/Hadjer-Lamis_Region,Hadjer-Lamis,Chad,,fe709c
+1132,,Extrême-Nord,Cameroon,,571e0f
+1133,http://en.wikipedia.org/wiki/Chari-Baguirmi_Region,Chari-Baguirmi,Chad,,fd06b8
+1134,,Ville de N'Djamena,Chad,,7c9d0b
+1135,http://en.wikipedia.org/wiki/Mayo-Kebbi_Est_Region,Mayo-Kebbi Est,Chad,,fd2c5e
+1136,http://en.wikipedia.org/wiki/Mayo-Kebbi_Ouest_Region,Mayo-Kebbi Ouest,Chad,,47a658
+1137,,Nord,Cameroon,,801c14
+1138,,Adamawa,Nigeria,,c3e0c6
+1139,,Adamaoua,Cameroon,,"184260"
+1140,,Taraba,Nigeria,,8248a9
+1141,,Nord-Ouest,Cameroon,,f7f580
+1142,,Sud-Ouest,Cameroon,,8ce679
+1143,,Benue,Nigeria,,"208e43"
+1144,,Cross River,Nigeria,,"4588e6"
+1145,,Sokoto,Nigeria,,feab05
+1146,,Tahoua,Niger,,8a3363
+1147,,Dosso,Niger,,a1d501
+1148,,Diffa,Niger,,df0aab
+1149,,Maradi,Niger,,"09c6c3"
+1150,,Zamfara,Nigeria,,2b38c2
+1151,,Yobe,Nigeria,,f19700
+1152,,Zinder,Niger,,45f31d
+1153,,Katsina,Nigeria,,55b192
+1154,,Jigawa,Nigeria,,e8b1cb
+1155,http://en.wikipedia.org/wiki/Tillab%C3%A9ri_Region,Tillabéri,Niger,,285f89
+1156,,Tapoa,Burkina Faso,,e22312
+1157,,Atakora,Benin,,a8240c
+1158,,Kompienga,Burkina Faso,,"0c048b"
+1159,,Savanes,Togo,,16e6a3
+1160,,Upper East,Ghana,,"884d79"
+1161,,Northern,Ghana,,38ca89
+1162,,Kara,Togo,,abea47
+1163,,Centre,Togo,,6e7d2d
+1164,,Plateaux,Togo,,"00e26a"
+1165,,Volta,Ghana,,a3fb4f
+1166,,Maritime,Togo,,"0f2c9a"
+1167,,Zanzan,Ivory Coast,,9da187
+1168,,Brong Ahafo,Ghana,,2f29b6
+1169,,Comoe,Ivory Coast,,1e1d18
+1170,,Western,Ghana,,3eb71f
+1171,,Sud-Comoé,Ivory Coast,,a113c1
+1172,,Léraba,Burkina Faso,,36a169
+1173,,Savanes,Ivory Coast,,"0a0a0c"
+1174,,Komoé,Burkina Faso,,3473de
+1175,,Poni,Burkina Faso,,1896a3
+1176,,Noumbiel,Burkina Faso,,a7d8ae
+1177,,Oudalan,Burkina Faso,,83f97f
+1178,,Gao,Mali,,7d771e
+1179,,Soum,Burkina Faso,,dabd8d
+1180,,Mopti,Mali,,6eb6e7
+1181,,Loroum,Burkina Faso,,2ac240
+1182,,Yatenga,Burkina Faso,,f47330
+1183,,Sourou,Burkina Faso,,"0e095e"
+1184,,Kossi,Burkina Faso,,97af4f
+1185,,Ségou,Mali,,"568052"
+1186,,Banwa,Burkina Faso,,2b6d65
+1187,,Sikasso,Mali,,4f2848
+1188,,Houet,Burkina Faso,,c44e50
+1189,,Kénédougou,Burkina Faso,,82c255
+1190,,Nimba,Liberia,,160c88
+1191,,Cavally,Ivory Coast,,b20bb9
+1192,,Grand Gedeh,Liberia,,52292e
+1193,,Bas-Sassandra,Ivory Coast,,9a3d45
+1194,,River Gee,Liberia,,a42a59
+1195,,Maryland,Liberia,,"0188e8"
+1196,,Macenta,Guinea,,9adeb8
+1197,,Yomou,Guinea,,ae5e3c
+1198,,Bong,Liberia,,c54e78
+1199,,Nzérékoré,Guinea,,4d2e7b
+1200,,Gaoual,Guinea,,fe2d01
+1201,,Gabú,Guinea Bissau,,"7501e5"
+1202,,Boke,Guinea,,"147702"
+1203,,Tombali,Guinea Bissau,,"491442"
+1204,,Siguiri,Guinea,,fb2fcd
+1205,http://en.wikipedia.org/wiki/Koulikoro_Region,Koulikoro,Mali,,b571ec
+1206,,Koubia,Guinea,,144a3f
+1207,,Tougué,Guinea,,4e4e53
+1208,,Dinguiraye,Guinea,,a58149
+1209,,Stœng Trêng,Cambodia,,7e7e69
+1210,,Hà Giang,Vietnam,,f7cade
+1211,,Guangxi,China,,285ab9
+1212,,Cao Bằng,Vietnam,,a01610
+1213,,Lào Cai,Vietnam,,33ceb0
+1214,http://en.wikipedia.org/wiki/Lai_Chau_Province,Lai Chau,Vietnam,,c8ba76
+1215,,Lạng Sơn,Vietnam,,a4d2f0
+1216,,Quảng Ninh,Vietnam,,3948ea
+1217,,Brunei and Muara,Brunei,,6a61d4
+1218,,Tutong,Brunei,,3f67fd
+1219,,Belait,Brunei,,"271551"
+1220,,Tripura,India,,b24d51
+1221,,Sylhet,Bangladesh,,"1d7231"
+1222,,Meghalaya,India,,3a029f
+1223,,Dhaka,Bangladesh,,43cca4
+1224,,Rangpur,Bangladesh,,68d13c
+1225,,Rajshahi,Bangladesh,,25df35
+1226,,Khulna,Bangladesh,,3210dd
+1227,,Cabo Delgado,Mozambique,,c4851e
+1228,,Mtwara,United Republic of Tanzania,,eb86d5
+1229,,Niassa,Mozambique,,310ce6
+1230,,Gibraltar,Gibraltar,,4122cb
+1231,,Cádiz,Spain,,6c14da
+1232,http://en.wikipedia.org/wiki/Washington_(state),Washington,United States of America,,e53a0a
+1233,http://en.wikipedia.org/wiki/British_Columbia,British Columbia,Canada,,e034fb
+1234,http://en.wikipedia.org/wiki/Idaho,Idaho,United States of America,,81dc9b
+1235,http://en.wikipedia.org/wiki/Montana,Montana,United States of America,,"999653"
+1236,http://en.wikipedia.org/wiki/Alberta,Alberta,Canada,,7bccfd
+1237,http://en.wikipedia.org/wiki/Saskatchewan,Saskatchewan,Canada,,a9eb81
+1238,http://en.wikipedia.org/wiki/North_Dakota,North Dakota,United States of America,,d38901
+1239,http://en.wikipedia.org/wiki/Manitoba,Manitoba,Canada,,b3ba8f
+1240,http://en.wikipedia.org/wiki/Minnesota,Minnesota,United States of America,,a9078e
+1241,http://en.wikipedia.org/wiki/Ontario,Ontario,Canada,,1c65ce
+1242,http://en.wikipedia.org/wiki/Michigan,Michigan,United States of America,,2de5d1
+1243,http://en.wikipedia.org/wiki/Ohio,Ohio,United States of America,,e1d5be
+1244,http://en.wikipedia.org/wiki/Pennsylvania,Pennsylvania,United States of America,,2c8910
+1245,http://en.wikipedia.org/wiki/New_York,New York,United States of America,,5eac43
+1246,http://en.wikipedia.org/wiki/Quebec,Québec,Canada,,"905056"
+1247,http://en.wikipedia.org/wiki/Vermont,Vermont,United States of America,,e6d854
+1248,http://en.wikipedia.org/wiki/New_Hampshire,New Hampshire,United States of America,,"39e497"
+1249,http://en.wikipedia.org/wiki/Maine,Maine,United States of America,,2ba869
+1250,http://en.wikipedia.org/wiki/New_Brunswick,New Brunswick,Canada,,81e5f8
+1251,http://en.wikipedia.org/wiki/Arizona,Arizona,United States of America,,838e8a
+1252,,Sonora,Mexico,,a284df
+1253,,Baja California,Mexico,,b495ce
+1254,http://en.wikipedia.org/wiki/California,California,United States of America,,884ce4
+1255,http://en.wikipedia.org/wiki/New_Mexico,New Mexico,United States of America,,3bf55b
+1256,,Chihuahua,Mexico,,e32510
+1257,http://en.wikipedia.org/wiki/Texas,Texas,United States of America,,cd758e
+1258,,Coahuila,Mexico,,26588e
+1259,,Tamaulipas,Mexico,,68a83e
+1260,,Nuevo León,Mexico,,f4573f
+1261,,Cayo,Belize,,17326d
+1262,,Petén,Guatemala,,dc4c44
+1263,,Orange Walk,Belize,,7eb3c8
+1264,,Corozal,Belize,,6c8dba
+1265,,Quintana Roo,Mexico,,"0ce2ff"
+1266,,Campeche,Mexico,,8e2cfd
+1267,,Tabasco,Mexico,,b51a15
+1268,,Chiapas,Mexico,,"193002"
+1269,,San Marcos,Guatemala,,e00406
+1270,,Huehuetenango,Guatemala,,c85037
+1271,,Quiché,Guatemala,,c1e39d
+1272,,Alta Verapaz,Guatemala,,7810cc
+1273,,Guanacaste,Costa Rica,,f91e24
+1274,,Rivas,Nicaragua,,e702e5
+1275,,Izabal,Guatemala,,bb04af
+1276,,Cortés,Honduras,,fb60d4
+1277,,Santa Bárbara,Honduras,,d75917
+1278,,Copán,Honduras,,ab1a4d
+1279,,Zacapa,Guatemala,,"995665"
+1280,,Bocas del Toro,Panama,,da11e8
+1281,,Limón,Costa Rica,,d94e18
+1282,,Puntarenas,Costa Rica,,1cecc7
+1283,,Chiriquí,Panama,,"018b59"
+1284,,Kuna Yala,Panama,,242c10
+1285,,Chocó,Colombia,,944bdd
+1286,,Emberá,Panama,,c0a271
+1287,,Darién,Panama,,"407901"
+1288,,Barima-Waini,Guyana,,"0e9fa1"
+1289,,Delta Amacuro,Venezuela,,"082942"
+1290,,Bolívar,Venezuela,,"702229"
+1291,,Amazonas,Brazil,,71f627
+1292,,Guainía,Colombia,,459a4d
+1293,,Vaupés,Colombia,,7c82fa
+1294,,Amazonas,Colombia,,84438b
+1295,,Loreto,Peru,,dc87c1
+1296,,Orellana,Ecuador,,"2812e5"
+1297,,Pastaza,Ecuador,,"286674"
+1298,,Morona Santiago,Ecuador,,a51fb9
+1299,,Amazonas,Peru,,a0833c
+1300,,Zamora Chinchipe,Ecuador,,6f3e29
+1301,,Cajamarca,Peru,,2df452
+1302,,Loja,Ecuador,,"996009"
+1303,,Tumbes,Peru,,d282ef
+1304,,El Oro,Ecuador,,5caf41
+1305,,Piura,Peru,,fd5c90
+1306,,Amazonas,Venezuela,,7940ab
+1307,,Chuquisaca,Bolivia,,f93882
+1308,,Ucayali,Peru,,a0872c
+1309,,Pando,Bolivia,,4476b9
+1310,,Rondônia,Brazil,,535ab7
+1311,,El Beni,Bolivia,,7bb060
+1312,,Mato Grosso,Brazil,,f29b38
+1313,,Puno,Peru,,f09696
+1314,,Catamarca,Argentina,,50905d
+1315,,Atacama,Chile,,dfd746
+1316,,La Rioja,Argentina,,f3f1b7
+1317,,San Juan,Argentina,,93fb9d
+1318,,Coquimbo,Chile,,76cf99
+1319,,Mendoza,Argentina,,1ee3df
+1320,,Región Metropolitana de Santiago,Chile,,2a50e9
+1321,,Valparaíso,Chile,,f9be31
+1322,,Maule,Chile,,dc960c
+1323,,Libertador General Bernardo O'Higgins,Chile,,4671ae
+1324,,Neuquén,Argentina,,bb7946
+1325,,Ñuble,Chile,,3546ab
+1326,,La Araucanía,Chile,,c70daf
+1327,,Bío-Bío,Chile,,17fafe
+1328,,Los Ríos,Chile,,4c22bd
+1329,,Chubut,Argentina,,"01e956"
+1330,,Los Lagos,Chile,,fe5151
+1331,,Río Negro,Argentina,,e077e1
+1332,,Aisén del General Carlos Ibáñez del Campo,Chile,,"28e209"
+1333,,Santa Cruz,Argentina,,ff49cc
+1334,,Magallanes y Antártica Chilena,Chile,,8edd72
+1335,,Tierra del Fuego,Argentina,,9cb67f
+1336,,Zulia,Venezuela,,3d779c
+1337,,La Guajira,Colombia,,e48e13
+1338,,Cesar,Colombia,,"053116"
+1339,,Norte de Santander,Colombia,,d10ec7
+1340,,Táchira,Venezuela,,4f8765
+1341,,Apure,Venezuela,,33ebd5
+1342,,Arauca,Colombia,,5e1b18
+1343,,Boyacá,Colombia,,674bfc
+1344,,Vichada,Colombia,,a50abb
+1345,,Pomeranian,Poland,,86109d
+1346,,Papua,Indonesia,,82965d
+1347,,Sandaun,Papua New Guinea,,"0e5566"
+1348,,Western,Papua New Guinea,,c73dfe
+1349,,Balkan,Turkmenistan,,bcc0d4
+1350,,Mangghystau,Kazakhstan,,861dc9
+1351,,Qyzylorda,Kazakhstan,,3e313b
+1352,,Karakalpakstan,Uzbekistan,,8b0dc6
+1353,,Aqtöbe,Kazakhstan,,ee8374
+1354,,Navoi,Uzbekistan,,af4732
+1355,,Tashauz,Turkmenistan,,b8c27b
+1356,,Khorezm,Uzbekistan,,980ecd
+1357,,Bukhoro,Uzbekistan,,c26820
+1358,,North Khorasan,Iran,,83adc9
+1359,,Golestan,Iran,,"8d3369"
+1360,,Razavi Khorasan,Iran,,fb508e
+1361,,South Khorasan,Iran,,cf9a24
+1362,,Nimroz,Afghanistan,,a9be4c
+1363,,Sistan and Baluchestan,Iran,,9683cc
+1364,,Farah,Afghanistan,,effc29
+1365,,K.P.,Pakistan,,cf1f78
+1366,,F.A.T.A.,Pakistan,,6a5889
+1367,,Kunar,Afghanistan,,a223c6
+1368,,Nuristan,Afghanistan,,6c1da8
+1369,,Nangarhar,Afghanistan,,"0e3a37"
+1370,,Khost,Afghanistan,,d1ee59
+1371,,Paktya,Afghanistan,,81ca02
+1372,,Baluchistan,Pakistan,,f3bd5a
+1373,,Paktika,Afghanistan,,e56b06
+1374,,Zabul,Afghanistan,,792c7b
+1375,,Kandahar,Afghanistan,,70feb6
+1376,,Hilmand,Afghanistan,,79a49b
+1377,,North Kazakhstan,Kazakhstan,,f52378
+1378,,Tyumen',Russia,,8d9a0a
+1379,,Kurgan,Russia,,bad5f3
+1380,,Omsk,Russia,,ea8fcd
+1381,,Qostanay,Kazakhstan,,d82118
+1382,,Pavlodar,Kazakhstan,,4e0d67
+1383,,Novosibirsk,Russia,,cd0dce
+1384,,Chelyabinsk,Russia,,5ca3e9
+1385,,Altay,Russia,,86e8f7
+1386,,Orenburg,Russia,,"363763"
+1387,,West Kazakhstan,Kazakhstan,,4fa7c6
+1388,,Saratov,Russia,,"0c0a75"
+1389,,Astrakhan',Russia,,2bd7f9
+1390,,Stalingrad,Russia,,359f38
+1391,,Atyrau,Kazakhstan,,7f53f8
+1392,,Mafraq,Jordan,,c08268
+1393,,As Suwayda',Syria,,ad3019
+1394,,Dar`a,Syria,,f016e5
+1395,,Shamal Sina',Egypt,,14d9e8
+1396,,Al Hudud ash Shamaliyah,Saudi Arabia,,"096628"
+1397,,Al-Anbar,Iraq,,215a71
+1398,,An-Najaf,Iraq,,d97313
+1399,,Al Jawf,Saudi Arabia,,"602d13"
+1400,,Ma`an,Jordan,,f0dd4a
+1401,,Amman,Jordan,,9701a1
+1402,,Zarqa,Jordan,,28fc27
+1403,,Al Ahmadi,Kuwait,,4edaa1
+1404,,Ninawa,Iraq,,186a15
+1405,,Dayr Az Zawr,Syria,,3de233
+1406,,Hadramawt,Yemen,,b7087c
+1407,,Dhofar,Oman,,46771d
+1408,,Al Mahrah,Yemen,,6d9c54
+1409,,Al Wusta,Oman,,7b5b23
+1410,,Najran,Saudi Arabia,,512c5c
+1411,,Sa`dah,Yemen,,54072f
+1412,,`Asir,Saudi Arabia,,"0e4e94"
+1413,,Hajjah,Yemen,,59f51f
+1414,,Jizan,Saudi Arabia,,7a6741
+1415,,Al Jawf,Yemen,,a60937
+1416,,Al Kufrah,Libya,,23ad3e
+1417,http://en.wikipedia.org/wiki/Ennedi_Region,Ennedi,Chad,,9a1756
+1418,http://en.wikipedia.org/wiki/Borkou_Region,Borkou,Chad,,"309928"
+1419,,Murzuq,Libya,,30c8e1
+1420,http://en.wikipedia.org/wiki/Tibesti_Region,Tibesti,Chad,,90db9d
+1421,,Agadez,Niger,,9aa42b
+1422,,Tamanghasset,Algeria,,"0ed942"
+1423,,Tiris Zemmour,Mauritania,,856fc8
+1424,,Tindouf,Algeria,,"489d03"
+1425,http://en.wikipedia.org/wiki/Kanem_Region,Kanem,Chad,,a424ed
+1426,,Northern,Sudan,,299fb2
+1427,,Aswan,Egypt,,970af3
+1428,,Al Bahr al Ahmar,Egypt,,"0663a4"
+1429,,River Nile,Sudan,,"563527"
+1430,,Eastern,Kenya,,411ae1
+1431,,North-Eastern,Kenya,,e11943
+1432,,Béchar,Algeria,,56468d
+1433,,Meknès - Tafilalet,Morocco,,b069b3
+1434,,Souss - Massa - Draâ,Morocco,,7895fc
+1435,,Dakhlet Nouadhibou,Mauritania,,1f3202
+1436,,Adrar,Mauritania,,eaa32c
+1437,,Jendouba,Tunisia,,a8f8f6
+1438,,El Tarf,Algeria,,db6ebd
+1439,,Kebili,Tunisia,,540ae6
+1440,,El Oued,Algeria,,f4a331
+1441,,Tozeur,Tunisia,,b197ff
+1442,,Tébessa,Algeria,,f69e50
+1443,,Gafsa,Tunisia,,8fb5f8
+1444,,Kassérine,Tunisia,,afe434
+1445,,Le Kef,Tunisia,,b265ce
+1446,,Souk Ahras,Algeria,,8fb21e
+1447,,Ouargla,Algeria,,c930ee
+1448,,Kidal,Mali,,e94f63
+1449,,North Darfur,Sudan,,2dffbc
+1450,,Western Darfur,Sudan,,c5cc17
+1451,http://en.wikipedia.org/wiki/Ouadda%C3%AF_Region,Ouaddaï,Chad,,80a815
+1452,,Wadi Fira,Chad,,6786f3
+1453,,Al Butnan,Libya,,536a76
+1454,,Matruh,Egypt,,3bbfdd
+1455,,Ajdabiya,Libya,,"0a1bf9"
+1456,,Al Wadi at Jadid,Egypt,,5e76be
+1457,,Bafatá,Guinea Bissau,,"01d8ba"
+1458,,Oio,Guinea Bissau,,4dcae3
+1459,,Sédhiou,Senegal,,1abb1e
+1460,,Cacheu,Guinea Bissau,,"07042a"
+1461,,Ziguinchor,Senegal,,"951514"
+1462,,Jubbada Hoose,Somalia,,ad71c8
+1463,,Coast,Kenya,,fe70c3
+1464,,Mara,United Republic of Tanzania,,c91330
+1465,,Nyanza,Kenya,,372d3f
+1466,,Arusha,United Republic of Tanzania,,6d9cb7
+1467,,Kilimanjaro,United Republic of Tanzania,,"024595"
+1468,,Tanga,United Republic of Tanzania,,cec6f6
+1469,,Rakai,Uganda,,991de2
+1470,,Kalangala,Uganda,,42ffcf
+1471,,Buvuma,Uganda,,8b0d26
+1472,,Mayuge,Uganda,,daa96d
+1473,,Namayingo,Uganda,,ac796a
+1474,,Litoral,Equatorial Guinea,,"7d6044"
+1475,,Kié-Ntem,Equatorial Guinea,,571d3a
+1476,,Centro Sur,Equatorial Guinea,,97275a
+1477,,Wele-Nzás,Equatorial Guinea,,78b9ca
+1478,,Estuaire,Gabon,,83cdce
+1479,,Brakna,Mauritania,,dc09c9
+1480,,Saint-Louis,Senegal,,e816c6
+1481,,Trarza,Mauritania,,4e8412
+1482,,Gorgol,Mauritania,,ab541d
+1483,,Matam,Senegal,,bffc98
+1484,,Guidimaka,Mauritania,,729c68
+1485,,Hodh ech Chargui,Mauritania,,7fb8ce
+1486,,Hodh el Gharbi,Mauritania,,86df7d
+1487,,Assaba,Mauritania,,6d3a1e
+1488,,Western,Zambia,,8a146f
+1489,,Cuando Cubango,Angola,,1baff7
+1490,,Moxico,Angola,,f187a2
+1491,,North-Western,Zambia,,226d1f
+1492,,Namibe,Angola,,e655c7
+1493,,Kunene,Namibia,,"171472"
+1494,,Cunene,Angola,,fcdf25
+1495,,Omusati,Namibia,,fa1e9c
+1496,,Ohangwena,Namibia,,1415db
+1497,,Kavango,Namibia,,55c567
+1498,,Caprivi,Namibia,,ced556
+1499,,Tete,Mozambique,,"649079"
+1500,,Mashonaland East,Zimbabwe,,cfa530
+1501,,Manica,Mozambique,,5cbdfd
+1502,,Manicaland,Zimbabwe,,77f959
+1503,,Gaza,Mozambique,,"0c8ce5"
+1504,,Zaire,Angola,,49b8b4
+1505,,Uíge,Angola,,"0c9ebb"
+1506,,Kasaï-Occidental,Democratic Republic of the Congo,,b5488a
+1507,,Lunda Norte,Angola,,4dcf43
+1508,,Malanje,Angola,,ebd6d2
+1509,,Lunda Sul,Angola,,1cd388
+1510,,Hardap,Namibia,,41a603
+1511,,Otjozondjupa,Namibia,,ebb710
+1512,,Omaheke,Namibia,,"0f3d01"
+1513,,Ghanzi,Botswana,,2b3bf3
+1514,http://en.wikipedia.org/wiki/Central_River_Division,Central River,Gambia,,83f255
+1515,,Kaffrine,Senegal,,bc7316
+1516,http://en.wikipedia.org/wiki/North_Bank_Division,North Bank,Gambia,,"490640"
+1517,,Kaolack,Senegal,,81c872
+1518,http://en.wikipedia.org/wiki/Upper_River_Division,Upper River,Gambia,,42d6c7
+1519,http://en.wikipedia.org/wiki/Lower_River_Division,Lower River,Gambia,,5607fe
+1520,,Fatick,Senegal,,db1915
+1521,http://en.wikipedia.org/wiki/Western_Division_(Gambia),West Coast,Gambia,,253f7b
+1522,,Illizi,Algeria,,3fb451
+1523,,Ash Shati',Libya,,df12ec
+1524,,Ghat,Libya,,471c75
+1525,,Séno,Burkina Faso,,8c00de
+1526,,Yagha,Burkina Faso,,e60e81
+1527,,Komondjari,Burkina Faso,,5cce8d
+1528,,Sangha-Mbaéré,Central African Republic,,109d2d
+1529,,Est,Cameroon,,aa486f
+1530,,Nana-Mambéré,Central African Republic,,cb8acb
+1531,,Mambéré-Kadéï,Central African Republic,,99adff
+1532,,Kaabong,Uganda,,"080408"
+1533,,Kitgum,Uganda,,"353092"
+1534,,Lamwo,Uganda,,d63fbf
+1535,,Amuru,Uganda,,748ba6
+1536,,Adjumani,Uganda,,b5a1fc
+1537,,Moyo,Uganda,,d1a696
+1538,,Yumbe,Uganda,,b60c5a
+1539,,Koboko,Uganda,,17e23e
+1540,,Mpumalanga,South Africa,,cda721
+1541,,Hhohho,Swaziland,,1373b2
+1542,,Manzini,Swaziland,,d01039
+1543,,Shiselweni,Swaziland,,819c9f
+1544,,Luapula,Zambia,,f337d9
+1545,,Copperbelt,Zambia,,89ae0f
+1546,,Central,Zambia,,aff0a6
+1547,,Koulpélogo,Burkina Faso,,204da2
+1548,,Boulgou,Burkina Faso,,35464c
+1549,,Donga,Benin,,c88d8d
+1550,,Zou,Benin,,6b8eba
+1551,,Kouffo,Benin,,4e6cd9
+1552,,Mono,Benin,,351b33
+1553,,Nahouri,Burkina Faso,,18ead4
+1554,,Sissili,Burkina Faso,,98986c
+1555,,Upper West,Ghana,,b2dd14
+1556,,Ioba,Burkina Faso,,4e9cec
+1557,,Nkhotakota,Malawi,,596f71
+1558,,Salima,Malawi,,"299210"
+1559,,Mangochi,Malawi,,"020c8b"
+1560,,Machinga,Malawi,,3a20f6
+1561,,Dedza,Malawi,,b132ec
+1562,,Lilongwe,Malawi,,92af93
+1563,,Nsanje,Malawi,,4d6e47
+1564,,Chikwawa,Malawi,,facf9f
+1565,,Mwanza,Malawi,,d961e9
+1566,,Neno,Malawi,,be53ee
+1567,,Ntcheu,Malawi,,18d10d
+1568,,Zomba,Malawi,,dfa92d
+1569,,Zambezia,Mozambique,,655ea4
+1570,,Phalombe,Malawi,,"7949e4"
+1571,,Mulanje,Malawi,,7bd28f
+1572,,Thyolo,Malawi,,452bf2
+1573,,Moroto,Uganda,,a1afc5
+1574,,Western,Kenya,,"0d4f48"
+1575,,Kapchorwa,Uganda,,70efba
+1576,,Bukwa,Uganda,,af5afd
+1577,,Amudat,Uganda,,7e1d84
+1578,,Busia,Uganda,,"95d309"
+1579,,Tororo,Uganda,,ed4227
+1580,,Manafwa,Uganda,,dc5c76
+1581,,Bududa,Uganda,,88a199
+1582,,Maracha,Uganda,,b71091
+1583,,Arua,Uganda,,"076023"
+1584,,Zombo,Uganda,,"277281"
+1585,,Nebbi,Uganda,,"228499"
+1586,,Buliisa,Uganda,,8f1979
+1587,,Hoima,Uganda,,49af6c
+1588,,Ntoroko,Uganda,,894b77
+1589,,Bundibugyo,Uganda,,dca567
+1590,,Kabarole,Uganda,,bcb41c
+1591,,Kasese,Uganda,,5129a5
+1592,,Rubirizi,Uganda,,d72fbb
+1593,,Rukungiri,Uganda,,"06a81a"
+1594,,Kanungu,Uganda,,"0ebcc7"
+1595,,Debub,Eritrea,,d88518
+1596,,Red Sea,Sudan,,309fee
+1597,,Semenawi Keyih Bahri,Eritrea,,87ec2f
+1598,,Gash Barka,Eritrea,,9c19a2
+1599,,Kassala,Sudan,,83e8ef
+1600,,Maekel,Eritrea,,9e984c
+1601,,Ida-Viru,Estonia,,c559da
+1602,,Põlva,Estonia,,1bc024
+1603,,Tartu,Estonia,,f31739
+1604,,Jõgeva,Estonia,,a368b0
+1605,,Punjab,Pakistan,,f18a6d
+1606,,Punjab,India,,495dab
+1607,,Rajasthan,India,,"959735"
+1608,,Sind,Pakistan,,faafda
+1609,,Gujarat,India,,a2cc63
+1610,http://en.wikipedia.org/wiki/Alaska,Alaska,United States of America,,a14ac5
+1611,http://en.wikipedia.org/wiki/Yukon,Yukon,Canada,,7a6a74
+1612,,White Nile,Sudan,,52947e
+1613,,South Kordufan,Sudan,,"69d658"
+1614,,Unity,S. Sudan,,e9fd7c
+1615,,North,Hong Kong S.A.R.,,71a58e
+1616,,Guangdong,China,,"962e56"
+1617,,Vatican,Vatican,,297fa7
+1618,,Northern Bahr el Ghazal,S. Sudan,,f60bb6
+1619,,Eastern Darfur,Sudan,,d1dc3a
+1620,,Naâma,Algeria,,806bea
+1621,,Tlemcen,Algeria,,4462bf
+1622,,Himachal Pradesh,India,,c7af09
+1623,,Northern Cyprus,Northern Cyprus,,fc5285
+1624,,Famagusta,Cyprus,,"932796"
+1625,,Nicosia,Cyprus,,a981f2
+1626,,Kashmir,Siachen Glacier,,bc5738
+1627,,Baykonur lease in Qyzylorda,Baykonur Cosmodrome,,"97d014"
+1628,,Quneitra,Syria,,efb76c
+1629,,Akrotiri,Akrotiri Sovereign Base Area,,5c50b4
+1630,,Limassol,Cyprus,,46031b
+1631,,Toledo,Belize,,6ba3af
+1632,,Thimphu,Bhutan,,"0771fc"
+1633,,Paro,Bhutan,,21fe5b
+1634,,Gasa,Bhutan,,6dd4e1
+1635,,Jammu and Kashmir,India,,42a396
+1636,,Crimea,Russia,,1c5498
+1637,http://en.wikipedia.org/wiki/Kherson_Oblast,Kherson,Ukraine,,52c518
+1638,,Bihar,India,,7e2305
+1639,,Narayani,Nepal,,3c1e4b
+1640,,Lumbini,Nepal,,84f0f2
+1641,,Uttar Pradesh,India,,10c272
+1642,,Rapti,Nepal,,81c650
+1643,,Bheri,Nepal,,f670ef
+1644,,Salto,Uruguay,,89f03f
+1645,,Rivera,Uruguay,,c1fea2
+1646,,Rocha,Uruguay,,e4873a
+1647,,Treinta y Tres,Uruguay,,8d420f
+1648,,Cerro Largo,Uruguay,,"7437d1"
+1649,,Heredia,Costa Rica,,96de25
+1650,,Črenšovci,Slovenia,,973a5f
+1651,,Ljutomer,Slovenia,,be3e9d
+1652,,Razkrižje,Slovenia,,207f88
+1653,,Ormož,Slovenia,,b147a6
+1654,,Varaždinska,Croatia,,"9d2682"
+1655,,Zavrc,Slovenia,,cc42ac
+1656,,Gorišnica,Slovenia,,712a3c
+1657,,Videm,Slovenia,,a40511
+1658,,Podlehnik,Slovenia,,c05607
+1659,,Žetale,Slovenia,,e16960
+1660,,Krapinsko-Zagorska,Croatia,,9a4400
+1661,,Rogatec,Slovenia,,7d12b6
+1662,,Rogaška Slatina,Slovenia,,b2531e
+1663,,Bistrica ob Sotli,Slovenia,,e449b9
+1664,,Podcetrtek,Slovenia,,4f398c
+1665,,Brežice,Slovenia,,e8d92f
+1666,,Zagrebacka,Croatia,,86d7c8
+1667,,Krško,Slovenia,,158fc2
+1668,,Šentjernej,Slovenia,,b0f2ad
+1669,,Novo Mesto,Slovenia,,cdf103
+1670,,Metlika,Slovenia,,"148510"
+1671,,Crnomelj,Slovenia,,647c72
+1672,,Primorsko-Goranska,Croatia,,"245104"
+1673,,Kocevje,Slovenia,,a0f360
+1674,,Kostel,Slovenia,,757f84
+1675,,Loški Potok,Slovenia,,64f1f2
+1676,,Loška dolina,Slovenia,,831c2f
+1677,,Ilirska Bistrica,Slovenia,,"08e6be"
+1678,,Jerusalem,Israel,,2cb6b1
+1679,,Azad Kashmir,Pakistan,,e63847
+1680,,Orense,Spain,,11d0e6
+1681,,Viana do Castelo,Portugal,,f50a6c
+1682,,Cáceres,Spain,,6a8168
+1683,,Castelo Branco,Portugal,,fddd79
+1684,,Guarda,Portugal,,1ef91c
+1685,,Salamanca,Spain,,"5d7909"
+1686,,Bragança,Portugal,,b618c3
+1687,,Zamora,Spain,,7fea63
+1688,,Vila Real,Portugal,,ae614c
+1689,,Braga,Portugal,,7c4ede
+1690,,Pontevedra,Spain,,d43ab1
+1691,,Huelva,Spain,,8303a7
+1692,,Faro,Portugal,,4921f9
+1693,,Beja,Portugal,,b59a51
+1694,,Flintshire,United Kingdom,,26751b
+1695,,Cheshire West and Chester,United Kingdom,,e721a5
+1696,,Wrexham,United Kingdom,,5cf21c
+1697,,Shropshire,United Kingdom,,"673271"
+1698,,Powys,United Kingdom,,9fe97f
+1699,,Herefordshire,United Kingdom,,ef2a4b
+1700,,Monmouthshire,United Kingdom,,"01e00f"
+1701,,Gloucestershire,United Kingdom,,15231a
+1702,,Scottish Borders,United Kingdom,,b9f94c
+1703,,Northumberland,United Kingdom,,375c71
+1704,,Cumbria,United Kingdom,,a588a6
+1705,,Dumfries and Galloway,United Kingdom,,2a27b8
+1706,,Brussels,Belgium,,8bb88f
+1707,,Flemish Brabant,Belgium,,"02f039"
+1708,,Walloon Brabant,Belgium,,c59b46
+1709,,Central Bosnia,Bosnia and Herzegovina,,"52d080"
+1710,,Zenica-Doboj,Bosnia and Herzegovina,,5a142a
+1711,,Tuzla,Bosnia and Herzegovina,,a94149
+1712,,Sarajevo-romanija,Bosnia and Herzegovina,,a51c89
+1713,,Sarajevo,Bosnia and Herzegovina,,"464d82"
+1714,,Bosnian Podrinje,Bosnia and Herzegovina,,798ed7
+1715,,Grad Beograd,Republic of Serbia,,"0efbe9"
+1716,,Podunavski,Republic of Serbia,,66be31
+1717,,Guria,Georgia,,8b5700
+1718,,Sala ad-Din,Iraq,,fc6709
+1719,,At-Ta'mim,Iraq,,f3144c
+1720,,Antarctica,Antarctica,,acab01
+1721,,Auckland Islands,New Zealand,,28dc6b
+1722,http://en.wikipedia.org/wiki/Buenos_Aires_Province,Buenos Aires,Argentina,,404dcc
+1723,,Maranhão,Brazil,,8725fb
+1724,,Piauí,Brazil,,62889e
+1725,,Ceará,Brazil,,3e7e02
+1726,,Rio Grande do Norte,Brazil,,74563b
+1727,,Paraíba,Brazil,,515ab2
+1728,,Pernambuco,Brazil,,7137de
+1729,,Alagoas,Brazil,,25e2a3
+1730,,Sergipe,Brazil,,"851300"
+1731,,Bahia,Brazil,,b29eed
+1732,,Espírito Santo,Brazil,,270edd
+1733,,Rio de Janeiro,Brazil,,4fa53b
+1734,,São Paulo,Brazil,,ab2b41
+1735,,Maldonado,Uruguay,,c4492c
+1736,,Canelones,Uruguay,,c0d0e4
+1737,,Montevideo,Uruguay,,70ece1
+1738,,San José,Uruguay,,84c649
+1739,,Colonia,Uruguay,,"752d25"
+1740,,Soriano,Uruguay,,54f5f4
+1741,,Río Negro,Uruguay,,b3b43a
+1742,http://en.wikipedia.org/wiki/Buenos_Aires,Ciudad de Buenos Aires,Argentina,,6e62a9
+1743,,Nord,New Caledonia,,955a15
+1744,,Western Australia,Australia,,418ef6
+1745,,Northern Territory,Australia,,"97d981"
+1746,,Boeny,Madagascar,,442cde
+1747,,Sofia,Madagascar,,3e15cc
+1748,,Diana,Madagascar,,54e36c
+1749,,Sava,Madagascar,,fc9b00
+1750,,Analanjirofo,Madagascar,,6a5dfa
+1751,,Atsinanana,Madagascar,,b3bbcc
+1752,,Vatovavy-Fitovinany,Madagascar,,11c484
+1753,,Atsimo-Atsinanana,Madagascar,,a63fc8
+1754,,Anosy,Madagascar,,"231141"
+1755,,Androy,Madagascar,,d8d31b
+1756,,Atsimo-Andrefana,Madagascar,,cefab4
+1757,,Menabe,Madagascar,,d2cdf0
+1758,,Melaky,Madagascar,,2612aa
+1759,,South Australia,Australia,,ba1b3e
+1760,,Queensland,Australia,,e22dd5
+1761,,New South Wales,Australia,,"728351"
+1762,,Jervis Bay Territory,Australia,,17ed8a
+1763,,Victoria,Australia,,df9028
+1764,,Cuanza Sul,Angola,,"94e445"
+1765,,Benguela,Angola,,8698ff
+1766,,Erongo,Namibia,,96a93b
+1767,,Western Cape,South Africa,,e8fd4a
+1768,,Maputo,Mozambique,,db2945
+1769,,Inhambane,Mozambique,,7eb7ea
+1770,,Sofala,Mozambique,,e5a4d6
+1771,,Nampula,Mozambique,,21be9a
+1772,,Lindi,United Republic of Tanzania,,"299570"
+1773,,Pwani,United Republic of Tanzania,,4abe17
+1774,,Dar-Es-Salaam,United Republic of Tanzania,,f0bda0
+1775,,Jawa Timur,Indonesia,,"36d753"
+1776,,Maluku,Indonesia,,7dd024
+1777,,Nusa Tenggara Barat,Indonesia,,e9b73b
+1778,,Sulawesi Selatan,Indonesia,,"6709e8"
+1779,,Jawa Tengah,Indonesia,,8c01a7
+1780,,Jawa Barat,Indonesia,,f63f65
+1781,,Jakarta Raya,Indonesia,,8b6a80
+1782,,Banten,Indonesia,,4a2ddf
+1783,,Yogyakarta,Indonesia,,b86536
+1784,,Sulawesi Tenggara,Indonesia,,"365d17"
+1785,,Papua Barat,Indonesia,,393c55
+1786,,Guayas,Ecuador,,6449f4
+1787,,Sulawesi Tengah,Indonesia,,d860bd
+1788,,Maluku Utara,Indonesia,,db957c
+1789,,Galápagos,Ecuador,,ecd62d
+1790,,East Sepik,Papua New Guinea,,d25414
+1791,,Madang,Papua New Guinea,,bf201d
+1792,,Morobe,Papua New Guinea,,"052335"
+1793,,Northern,Papua New Guinea,,c8cbd6
+1794,,Milne Bay,Papua New Guinea,,59e0b2
+1795,,Central,Papua New Guinea,,"073146"
+1796,,National Capital District,Papua New Guinea,,90599c
+1797,,Gulf,Papua New Guinea,,8d9fc2
+1798,,Kepulauan Riau,Indonesia,,ac5dab
+1799,,Riau,Indonesia,,"0533a8"
+1800,,Gorontalo,Indonesia,,f39ae9
+1801,,Sulawesi Utara,Indonesia,,cd1482
+1802,,Sulawesi Barat,Indonesia,,dc40b7
+1803,,Cauca,Colombia,,3fab58
+1804,,Moquegua,Peru,,"90e135"
+1805,,Arequipa,Peru,,7ffd85
+1806,,Ica,Peru,,d1e946
+1807,,Lima,Peru,,1f1baa
+1808,,Lima Province,Peru,,39027d
+1809,,Callao,Peru,,"645098"
+1810,,Áncash,Peru,,6e79ed
+1811,,La Libertad,Peru,,"09b15d"
+1812,,Lambayeque,Peru,,5b6ba1
+1813,http://en.wikipedia.org/wiki/Santa_Elena_Province,Santa Elena,Ecuador,,f542ea
+1814,,Manabi,Ecuador,,155fa0
+1815,,Valle del Cauca,Colombia,,f0bbac
+1816,,Panama,Panama,,faacbc
+1817,,Coclé,Panama,,f4a4da
+1818,http://en.wikipedia.org/wiki/Sulu_(province),Sulu,Philippines,,f5c3dd
+1819,,Jambi,Indonesia,,17c343
+1820,,Sumatera Selatan,Indonesia,,f2d887
+1821,,Lampung,Indonesia,,596ded
+1822,,Bengkulu,Indonesia,,"0e087e"
+1823,,Sumatera Barat,Indonesia,,14cfdb
+1824,,Sumatera Utara,Indonesia,,2647c1
+1825,,Aceh,Indonesia,,ed519d
+1826,,Demerara-Mahaica,Guyana,,f442d3
+1827,,Kalimantan Tengah,Indonesia,,fface8
+1828,,Kalimantan Selatan,Indonesia,,4496bf
+1829,http://en.wikipedia.org/wiki/Davao_del_Norte,Davao del Norte,Philippines,,aa2a77
+1830,,Veraguas,Panama,,"069654"
+1831,http://en.wikipedia.org/wiki/Zamboanga_Sibugay,Zamboanga Sibugay,Philippines,,e0ab53
+1832,http://en.wikipedia.org/wiki/Palawan,Palawan,Philippines,,61b1fb
+1833,,Sóc Trăng,Vietnam,,9a1de0
+1834,http://en.wikipedia.org/wiki/Surigao_del_Norte,Surigao del Norte,Philippines,,d75771
+1835,http://en.wikipedia.org/wiki/Surigao_del_Sur,Surigao del Sur,Philippines,,dfce06
+1836,http://en.wikipedia.org/wiki/Agusan_del_Norte,Agusan del Norte,Philippines,,f26dab
+1837,,Butuan,Philippines,,85f007
+1838,http://en.wikipedia.org/wiki/Misamis_Oriental,Misamis Oriental,Philippines,,d76575
+1839,,Cagayan de Oro,Philippines,,728f20
+1840,,Iligan,Philippines,,"201d72"
+1841,http://en.wikipedia.org/wiki/Lanao_del_Norte,Lanao del Norte,Philippines,,e8dfff
+1842,http://en.wikipedia.org/wiki/Zamboanga_del_Sur,Zamboanga del Sur,Philippines,,57c053
+1843,http://en.wikipedia.org/wiki/Misamis_Occidental,Misamis Occidental,Philippines,,"488824"
+1844,http://en.wikipedia.org/wiki/Zamboanga_del_Norte,Zamboanga del Norte,Philippines,,"06a15e"
+1845,,Zamboanga,Philippines,,59bcda
+1846,http://en.wikipedia.org/wiki/Lanao_del_Sur,Lanao del Sur,Philippines,,f45a10
+1847,http://en.wikipedia.org/wiki/Maguindanao,Maguindanao,Philippines,,82cadb
+1848,http://en.wikipedia.org/wiki/Cotabato_City,Cotabato,Philippines,,7385db
+1849,http://en.wikipedia.org/wiki/Sultan_Kudarat,Sultan Kudarat,Philippines,,cd63a3
+1850,http://en.wikipedia.org/wiki/Sarangani,Sarangani,Philippines,,8c3039
+1851,,General Santos,Philippines,,ff1418
+1852,http://en.wikipedia.org/wiki/Davao_del_Sur,Davao del Sur,Philippines,,eb1e78
+1853,,Davao,Philippines,,7503cf
+1854,http://en.wikipedia.org/wiki/Compostela_Valley,Compostela Valley,Philippines,,49ad23
+1855,http://en.wikipedia.org/wiki/Davao_Oriental,Davao Oriental,Philippines,,6ae07d
+1856,,Trikuṇāmalaya,Sri Lanka,,3c947b
+1857,,Mulativ,Sri Lanka,,a3545b
+1858,,Yāpanaya,Sri Lanka,,d7fd11
+1859,,Kilinŏchchi,Sri Lanka,,537de3
+1860,,Mannārama,Sri Lanka,,96c5c2
+1861,,Puttalama,Sri Lanka,,f9d115
+1862,,Gampaha,Sri Lanka,,4e8733
+1863,,Kŏḷamba,Sri Lanka,,"09fb05"
+1864,,Kaḷutara,Sri Lanka,,d07267
+1865,,Gālla,Sri Lanka,,69d1fc
+1866,,Mātara,Sri Lanka,,19de10
+1867,,Hambantŏṭa,Sri Lanka,,a19acd
+1868,,Ampāra,Sri Lanka,,c164bb
+1869,,Maḍakalapuva,Sri Lanka,,68c694
+1870,http://en.wikipedia.org/wiki/Southern_Leyte,Southern Leyte,Philippines,,d30528
+1871,http://en.wikipedia.org/wiki/Tien_Giang_Province,Tiền Giang,Vietnam,,fb8fef
+1872,,Bà Rịa - Vũng Tàu,Vietnam,,2f25f6
+1873,,Krong Preah Sihanouk,Cambodia,,d4b2ae
+1874,,Hồ Chí Minh city,Vietnam,,958adb
+1875,http://en.wikipedia.org/wiki/Leyte_(province),Leyte,Philippines,,7e9e34
+1876,http://en.wikipedia.org/wiki/Eastern_Samar,Eastern Samar,Philippines,,ba9a56
+1877,http://en.wikipedia.org/wiki/Biliran,Biliran,Philippines,,f31b20
+1878,http://en.wikipedia.org/wiki/Samar,Samar,Philippines,,dc5d63
+1879,,Khánh Hòa,Vietnam,,44a2e0
+1880,,Curaçao,Curaçao,,3214a6
+1881,,Colón,Panama,,b4568d
+1882,,Antioquia,Colombia,,e1314f
+1883,,Córdoba,Colombia,,c45008
+1884,,Sucre,Colombia,,f0fcf3
+1885,,Bolívar,Colombia,,d52377
+1886,,Atlántico,Colombia,,c366c2
+1887,,Magdalena,Colombia,,"7302e3"
+1888,,Mérida,Venezuela,,2d1b2a
+1889,,Trujillo,Venezuela,,"681485"
+1890,,Falcón,Venezuela,,865dfb
+1891,,Yaracuy,Venezuela,,13168e
+1892,,Carabobo,Venezuela,,ca4603
+1893,,Aragua,Venezuela,,56f9f8
+1894,,Vargas,Venezuela,,5fa9e4
+1895,,Miranda,Venezuela,,"059fdc"
+1896,,Anzoátegui,Venezuela,,e06f96
+1897,,Sucre,Venezuela,,af3303
+1898,,Monagas,Venezuela,,11f524
+1899,,Cuyuni-Mazaruni,Guyana,,6be533
+1900,,Upper Takutu-Upper Essequibo,Guyana,,9fdb62
+1901,,East Berbice-Corentyne,Guyana,,d54e99
+1902,,Essequibo Islands-West Demerara,Guyana,,fc4ddc
+1903,,Coronie,Suriname,,"944626"
+1904,,Saramacca,Suriname,,c91591
+1905,,Wanica,Suriname,,73e0f7
+1906,,Paramaribo,Suriname,,dea9dd
+1907,,Commewijne,Suriname,,77369e
+1908,,Aruba,Aruba,,"656997"
+1909,,Andhra Pradesh,India,,"060915"
+1910,,Sud,Haiti,,ab7314
+1911,,Ondo,Nigeria,,"04df4d"
+1912,,Delta,Nigeria,,ff7d0f
+1913,,Bayelsa,Nigeria,,c44799
+1914,,Rivers,Nigeria,,"07a4e2"
+1915,,Akwa Ibom,Nigeria,,b432f3
+1916,,Littoral,Cameroon,,65fc52
+1917,,Ogooué-Maritime,Gabon,,cb79f8
+1918,,Pointe Noire,Republic of the Congo,,e74c0d
+1919,,Bengo,Angola,,8c8a58
+1920,,Luanda,Angola,,44968a
+1921,,Surt,Libya,,9f6992
+1922,,Misratah,Libya,,"333222"
+1923,,Al Marqab,Libya,,"414e77"
+1924,,Tajura' wa an Nawahi al Arba,Libya,,b139e1
+1925,,Az Zawiyah,Libya,,"0950ca"
+1926,,Gabès,Tunisia,,5103c3
+1927,,Sfax,Tunisia,,e5b294
+1928,,Mahdia,Tunisia,,5bce84
+1929,,Monastir,Tunisia,,139f08
+1930,,Sousse,Tunisia,,29530d
+1931,,Nabeul,Tunisia,,"15d185"
+1932,,Ben Arous (Tunis Sud),Tunisia,,"52d275"
+1933,,Tunis,Tunisia,,1e913e
+1934,,Manubah,Tunisia,,8562ae
+1935,,Bizerte,Tunisia,,8d55a2
+1936,,Béja,Tunisia,,11108a
+1937,,Annaba,Algeria,,136f95
+1938,,Skikda,Algeria,,ad4cc1
+1939,,Jijel,Algeria,,f22e47
+1940,,Béjaïa,Algeria,,"95e683"
+1941,,Tizi Ouzou,Algeria,,7af626
+1942,,Boumerdès,Algeria,,519c84
+1943,,Alger,Algeria,,c3395d
+1944,,Tipaza,Algeria,,6f2688
+1945,,Chlef,Algeria,,2d00f4
+1946,,Mostaganem,Algeria,,1f71e3
+1947,,Oran,Algeria,,de03be
+1948,,Aïn Témouchent,Algeria,,7ca57a
+1949,,Taza - Al Hoceima - Taounate,Morocco,,36ac8e
+1950,,Gharb - Chrarda - Béni Hssen,Morocco,,"03e7d2"
+1951,,Rabat - Salé - Zemmour - Zaer,Morocco,,6a508a
+1952,,Chaouia - Ouardigha,Morocco,,"1113d7"
+1953,,Grand Casablanca,Morocco,,a38b16
+1954,,Doukkala - Abda,Morocco,,5a7f96
+1955,,Marrakech - Tensift - Al Haouz,Morocco,,378a06
+1956,,Inchiri,Mauritania,,e34084
+1957,,Nouakchott,Mauritania,,277a78
+1958,,Louga,Senegal,,d77f00
+1959,,Thiès,Senegal,,e4dd55
+1960,,Dakar,Senegal,,7f1610
+1961,http://en.wikipedia.org/wiki/Banjul,Banjul,Gambia,,f106b7
+1962,http://en.wikipedia.org/wiki/Biombo_Region,Biombo,Guinea Bissau,,95f687
+1963,,Bissau,Guinea Bissau,,c215b4
+1964,,Quinara,Guinea Bissau,,39dcaf
+1965,,Bolama,Guinea Bissau,,d46e1f
+1966,,Boffa,Guinea,,3683af
+1967,,Dubréka,Guinea,,a82d92
+1968,,Conakry,Guinea,,98c724
+1969,,Coyah,Guinea,,"4d8556"
+1970,,Western,Sierra Leone,,"0004d0"
+1971,,Bomi,Liberia,,de7399
+1972,,Montserrado,Liberia,,c4de8c
+1973,,Margibi,Liberia,,deb54f
+1974,,Grand Bassa,Liberia,,3d863b
+1975,,River Cess,Liberia,,7d2b92
+1976,,Sinoe,Liberia,,dd055f
+1977,,Grand Kru,Liberia,,4afd52
+1978,,Sud-Bandama,Ivory Coast,,"405e28"
+1979,,Lagunes,Ivory Coast,,798ceb
+1980,,Central,Ghana,,f80bf0
+1981,,Greater Accra,Ghana,,b3b4d2
+1982,,Atlantique,Benin,,fb8758
+1983,,Littoral,Benin,,1e4d36
+1984,,Colima,Mexico,,1b36ea
+1985,,Grand'Anse,Haiti,,1f36c1
+1986,http://en.wikipedia.org/wiki/Aurora_(province),Aurora,Philippines,,8c2496
+1987,http://en.wikipedia.org/wiki/Quezon,Quezon,Philippines,,d68a18
+1988,http://en.wikipedia.org/wiki/Camarines_Norte,Camarines Norte,Philippines,,"9d7311"
+1989,http://en.wikipedia.org/wiki/Camarines_Sur,Camarines Sur,Philippines,,4a3e00
+1990,http://en.wikipedia.org/wiki/Albay,Albay,Philippines,,dc513e
+1991,http://en.wikipedia.org/wiki/Sorsogon,Sorsogon,Philippines,,96055f
+1992,,Lucena,Philippines,,d5c186
+1993,http://en.wikipedia.org/wiki/Batangas,Batangas,Philippines,,c5a4e7
+1994,http://en.wikipedia.org/wiki/Cavite,Cavite,Philippines,,"008bd5"
+1995,,Las Pinas,Philippines,,3f088e
+1996,,Paranaque,Philippines,,6351bf
+1997,,Pasay,Philippines,,"06964d"
+1998,,Manila,Philippines,,c5b2ce
+1999,,Navotas,Philippines,,5ec829
+2000,http://en.wikipedia.org/wiki/Bulacan,Bulacan,Philippines,,"08f90c"
+2001,http://en.wikipedia.org/wiki/Pampanga,Pampanga,Philippines,,d0fb96
+2002,http://en.wikipedia.org/wiki/Bataan,Bataan,Philippines,,4ba29b
+2003,,Olongapo,Philippines,,a59102
+2004,http://en.wikipedia.org/wiki/Zambales,Zambales,Philippines,,b8b4b7
+2005,http://en.wikipedia.org/wiki/Pangasinan,Pangasinan,Philippines,,d47268
+2006,http://en.wikipedia.org/wiki/Dagupan,Dagupan,Philippines,,ea5a48
+2007,http://en.wikipedia.org/wiki/La_Union,La Union,Philippines,,a00e5e
+2008,http://en.wikipedia.org/wiki/Ilocos_Sur,Ilocos Sur,Philippines,,ef8446
+2009,http://en.wikipedia.org/wiki/Ilocos_Norte,Ilocos Norte,Philippines,,f1981e
+2010,http://en.wikipedia.org/wiki/Cagayan,Cagayan,Philippines,,d7a846
+2011,http://en.wikipedia.org/wiki/Isabela_(province),Isabela,Philippines,,c8758b
+2012,,Nord-Ouest,Haiti,,"253614"
+2013,,Hainan,China,,8038da
+2014,,Nayarit,Mexico,,cee8d6
+2015,http://en.wikipedia.org/wiki/Inagua,Inagua,The Bahamas,,65d2ea
+2016,http://en.wikipedia.org/wiki/Providenciales,Providenciales and West Caicos,Turks and Caicos Islands,,95192c
+2017,http://en.wikipedia.org/wiki/South_Caicos,South Caicos and East Caicos,Turks and Caicos Islands,,"8d8818"
+2018,http://en.wikipedia.org/wiki/Middle_Caicos,Middle Caicos,Turks and Caicos Islands,,84ddfb
+2019,http://en.wikipedia.org/wiki/North_Caicos,North Caicos,Turks and Caicos Islands,,ea6b2e
+2020,http://en.wikipedia.org/wiki/Mayaguana,Mayaguana,The Bahamas,,7b7a53
+2021,http://en.wikipedia.org/wiki/Acklins,Acklins,The Bahamas,,"05a5cf"
+2022,,Fujian,China,,3a8241
+2023,,Baja California Sur,Mexico,,5531a5
+2024,,Jubbada Dhexe,Somalia,,"07811d"
+2025,,Shabeellaha Hoose,Somalia,,"312351"
+2026,,Banaadir,Somalia,,c92a10
+2027,,Shabeellaha Dhexe,Somalia,,9f62b8
+2028,,Djibouti,Djibouti,,d860ed
+2029,,As Suways,Egypt,,"093b60"
+2030,,Janub Sina',Egypt,,2d579d
+2031,,Tabuk,Saudi Arabia,,88ef51
+2032,,Al Madinah,Saudi Arabia,,"535269"
+2033,,Makkah,Saudi Arabia,,a5a617
+2034,,Al Hudaydah,Yemen,,d198bd
+2035,,Ta`izz,Yemen,,2b0f65
+2036,,Lahij,Yemen,,f48c04
+2037,,`Adan,Yemen,,23d2e1
+2038,,Abyan,Yemen,,"255791"
+2039,,Shabwah,Yemen,,a48564
+2040,,Ash Sharqiyah South,Oman,,4c144c
+2041,,Ash Sharqiyah North,Oman,,89885f
+2042,,Muscat,Oman,,71e09b
+2043,,Al Batnah South,Oman,,d79c62
+2044,,Umm Al Qaywayn,United Arab Emirates,,d8330f
+2045,,Ajman,United Arab Emirates,,"0189ca"
+2046,,Al Wakrah,Qatar,,"387511"
+2047,,Ad Dawhah,Qatar,,a501be
+2048,,Al Daayen,Qatar,,"051928"
+2049,,Al Khawr,Qatar,,"06b133"
+2050,,Madinat ach Shamal,Qatar,,aebf77
+2051,,Mubarak Al-Kabeer,Kuwait,,a9813e
+2052,,Hawalli,Kuwait,,584b98
+2053,,Al Asimah,Kuwait,,f3e52c
+2054,,Taoyuan,Taiwan,,955cb5
+2055,,Hsinchu,Taiwan,,9afefc
+2056,,Hsinchu City,Taiwan,,a96d3a
+2057,,Miaoli,Taiwan,,df4fe8
+2058,,Taichung City,Taiwan,,1359aa
+2059,,Changhua,Taiwan,,2eace5
+2060,,Yunlin,Taiwan,,f8c0c9
+2061,,Chiayi,Taiwan,,52dbb0
+2062,,Tainan City,Taiwan,,2d405b
+2063,,Kaohsiung City,Taiwan,,16ba72
+2064,,Pingtung,Taiwan,,f8bf09
+2065,,Taitung,Taiwan,,"0ae3f7"
+2066,,Hualien,Taiwan,,6f4920
+2067,,Yilan,Taiwan,,b5f1e8
+2068,,New Taipei City,Taiwan,,814a9c
+2069,,Keelung City,Taiwan,,"325995"
+2070,,Sinaloa,Mexico,,"296472"
+2071,http://en.wikipedia.org/wiki/Louisiana,Louisiana,United States of America,,fb2e20
+2072,http://en.wikipedia.org/wiki/Mississippi,Mississippi,United States of America,,"07cb5f"
+2073,http://en.wikipedia.org/wiki/Alabama,Alabama,United States of America,,4b86ab
+2074,http://en.wikipedia.org/wiki/Florida,Florida,United States of America,,1f4fe6
+2075,http://en.wikipedia.org/wiki/Georgia_(U.S._state),Georgia,United States of America,,cbef46
+2076,http://en.wikipedia.org/wiki/South_Carolina,South Carolina,United States of America,,"6492d3"
+2077,http://en.wikipedia.org/wiki/North_Carolina,North Carolina,United States of America,,819e3d
+2078,http://en.wikipedia.org/wiki/Virginia,Virginia,United States of America,,f41058
+2079,"http://en.wikipedia.org/wiki/Washington,_D.C.",District of Columbia,United States of America,,654ad6
+2080,http://en.wikipedia.org/wiki/Maryland,Maryland,United States of America,,54ff9e
+2081,http://en.wikipedia.org/wiki/Delaware,Delaware,United States of America,,"0070d2"
+2082,http://en.wikipedia.org/wiki/New_Jersey,New Jersey,United States of America,,850af9
+2083,http://en.wikipedia.org/wiki/Connecticut,Connecticut,United States of America,,3e9e39
+2084,http://en.wikipedia.org/wiki/Rhode_Island,Rhode Island,United States of America,,a088ea
+2085,http://en.wikipedia.org/wiki/Massachusetts,Massachusetts,United States of America,,e0a209
+2086,,Ngöbe Buglé,Panama,,f80ff3
+2087,,Atlántico Sur,Nicaragua,,4d6b3e
+2088,,Colón,Honduras,,d3a7f4
+2089,,Atlántida,Honduras,,bf424c
+2090,,Stann Creek,Belize,,26f5bd
+2091,,Belize,Belize,,"0b1ec3"
+2092,,Yucatán,Mexico,,"801272"
+2093,,Veracruz,Mexico,,b2ab00
+2094,,Jalisco,Mexico,,cf2226
+2095,,Michoacán,Mexico,,2cd4e8
+2096,,Guerrero,Mexico,,194cf6
+2097,,Oaxaca,Mexico,,a03fa3
+2098,,Retalhuleu,Guatemala,,a1d731
+2099,,Suchitepéquez,Guatemala,,"978d76"
+2100,,Escuintla,Guatemala,,2cad8f
+2101,,Santa Rosa,Guatemala,,c5866e
+2102,,Sonsonate,El Salvador,,"8232e1"
+2103,,La Libertad,El Salvador,,7b1ce3
+2104,,La Paz,El Salvador,,e7e236
+2105,,San Vicente,El Salvador,,24f0d2
+2106,,Usulután,El Salvador,,c63357
+2107,,León,Nicaragua,,9185f3
+2108,,Managua,Nicaragua,,931af5
+2109,,Carazo,Nicaragua,,"05546b"
+2110,,Los Santos,Panama,,c3535f
+2111,,Herrera,Panama,,1a0a28
+2112,,Zhejiang,China,,a29d15
+2113,,Shanghai,China,,"01931a"
+2114,,Kagoshima,Japan,,51174a
+2115,,Jiangsu,China,,bdc462
+2116,,Bushehr,Iran,,4ba3c1
+2117,,Hormozgan,Iran,,"393723"
+2118,,Tel Aviv,Israel,,92bbd3
+2119,,Bur Sa`id,Egypt,,1b5230
+2120,,Ad Daqahliyah,Egypt,,44cd7a
+2121,,Ash Sharqiyah,Egypt,,"02b1be"
+2122,,Al Isma`iliyah,Egypt,,abdbeb
+2123,,Dumyat,Egypt,,5a1e3a
+2124,,Kafr ash Shaykh,Egypt,,ef41d4
+2125,,Al Buhayrah,Egypt,,a01286
+2126,,Al Iskandariyah,Egypt,,3b92d1
+2127,,Al Qubbah,Libya,,5227b6
+2128,,Al Jabal al Akhdar,Libya,,bd5af7
+2129,,Al Marj,Libya,,cd4bb3
+2130,,Benghazi,Libya,,f15d33
+2131,,Ōita,Japan,,a869cc
+2132,,Fukuoka,Japan,,f6e794
+2133,,Saga,Japan,,c902b4
+2134,,Nagasaki,Japan,,fca078
+2135,,Kumamoto,Japan,,9a49a2
+2136,,Miyazaki,Japan,,4e62e7
+2137,,Tokushima,Japan,,9bb6de
+2138,,Kagawa,Japan,,"194310"
+2139,,Ehime,Japan,,"37d097"
+2140,,Kōchi,Japan,,23c97e
+2141,,Shimane,Japan,,"5d6646"
+2142,http://en.wikipedia.org/wiki/South_Chungcheong_Province,South Chungcheong,South Korea,,2a34ab
+2143,,Yamaguchi,Japan,,9f44e9
+2144,,Tottori,Japan,,7dc1c7
+2145,,Hyōgo,Japan,,c182f9
+2146,,Kyōto,Japan,,936a40
+2147,,Fukui,Japan,,"0d73a2"
+2148,,Ishikawa,Japan,,e21e4e
+2149,,Toyama,Japan,,d30960
+2150,,Niigata,Japan,,24917d
+2151,,Yamagata,Japan,,350db0
+2152,,Akita,Japan,,a486cd
+2153,,Aomori,Japan,,cb8da6
+2154,,Iwate,Japan,,1e8c39
+2155,,Miyagi,Japan,,a381c2
+2156,,Fukushima,Japan,,ee26fc
+2157,,Ibaraki,Japan,,d54259
+2158,,Chiba,Japan,,"697e38"
+2159,,Tokyo,Japan,,ddd9dd
+2160,,Kanagawa,Japan,,"181993"
+2161,,Shizuoka,Japan,,333ac5
+2162,,Aichi,Japan,,"86e784"
+2163,,Mie,Japan,,6e5025
+2164,,Wakayama,Japan,,c3e403
+2165,,Ōsaka,Japan,,8929c7
+2166,,Okayama,Japan,,"32e056"
+2167,,Hiroshima,Japan,,2596a5
+2168,http://en.wikipedia.org/wiki/Oregon,Oregon,United States of America,,"41e763"
+2169,http://en.wikipedia.org/wiki/Nunavut,Nunavut,Canada,,bd0cc8
+2170,http://en.wikipedia.org/wiki/Newfoundland_and_Labrador,Newfoundland and Labrador,Canada,,88a839
+2171,http://en.wikipedia.org/wiki/Nova_Scotia,Nova Scotia,Canada,,f8e59f
+2172,,Hokkaidō,Japan,,9978b7
+2173,"http://en.wikipedia.org/wiki/Saint-Pierre,_Saint_Pierre_and_Miquelon",Saint-Pierre,Saint Pierre and Miquelon,,7bc1ec
+2174,http://en.wikipedia.org/wiki/Miquelon-Langlade,Miquelon-Langlade,Saint Pierre and Miquelon,,d1a21d
+2175,,Odisha,India,,211c1e
+2176,,Barisal,Bangladesh,,"0234c5"
+2177,,Ayeyarwady,Myanmar,,bb1662
+2178,,Yangon,Myanmar,,"169779"
+2179,,Bago,Myanmar,,12b1e4
+2180,,Phangnga,Thailand,,3a1dd9
+2181,,Krabi,Thailand,,100d9f
+2182,,Trang,Thailand,,d51b41
+2183,,Pulau Pinang,Malaysia,,"2056d8"
+2184,,Selangor,Malaysia,,"00a03e"
+2185,,Negeri Sembilan,Malaysia,,f12ee9
+2186,,Melaka,Malaysia,,81b383
+2187,,Johor,Malaysia,,e2ad76
+2188,,Pahang,Malaysia,,b44050
+2189,,Terengganu,Malaysia,,1c6a01
+2190,,Pattani,Thailand,,"0a8725"
+2191,,Phatthalung,Thailand,,71560c
+2192,,Nakhon Si Thammarat,Thailand,,14ea0d
+2193,,Surat Thani,Thailand,,ca0dae
+2194,,Samut Songkhram,Thailand,,cdf1e2
+2195,,Samut Sakhon,Thailand,,8c5f6e
+2196,,Bangkok Metropolis,Thailand,,25db67
+2197,,Samut Prakan,Thailand,,ea119a
+2198,,Chachoengsao,Thailand,,6832a7
+2199,,Chon Buri,Thailand,,1145a3
+2200,,Rayong,Thailand,,5249ee
+2201,,Kep,Cambodia,,e45823
+2202,,Cà Mau,Vietnam,,dd28e5
+2203,,Bạc Liêu,Vietnam,,2d969e
+2204,,Hau Giang,Vietnam,,4b4edc
+2205,,Vĩnh Long,Vietnam,,"06d5ae"
+2206,,Trà Vinh,Vietnam,,fea9c1
+2207,,Bến Tre,Vietnam,,4aecfb
+2208,,Đông Nam Bộ,Vietnam,,cd3afe
+2209,,Bình Thuận,Vietnam,,db116b
+2210,,Ninh Thuận,Vietnam,,1368ba
+2211,,Phú Yên,Vietnam,,3323fe
+2212,,Bình Định,Vietnam,,"05a704"
+2213,,Quảng Ngãi,Vietnam,,"01894d"
+2214,,Đà Nẵng,Vietnam,,f3d9de
+2215,,Ninh Bình,Vietnam,,"02e656"
+2216,,Nam Định,Vietnam,,5938b4
+2217,,Thái Bình,Vietnam,,b5c015
+2218,,Hải Phòng,Vietnam,,b0df22
+2219,,Shandong,China,,13111c
+2220,,Hebei,China,,d2a27e
+2221,,Tianjin,China,,"598920"
+2222,,P'yŏngan-namdo,North Korea,,934b53
+2223,,Hwanghae-namdo,North Korea,,"04048a"
+2224,http://en.wikipedia.org/wiki/Incheon,Incheon,South Korea,,8ca8da
+2225,http://en.wikipedia.org/wiki/North_Jeolla_Province,North Jeolla,South Korea,,443dec
+2226,http://en.wikipedia.org/wiki/South_Jeolla_Province,South Jeolla,South Korea,,"01eee5"
+2227,http://en.wikipedia.org/wiki/South_Gyeongsang_Province,South Gyeongsang,South Korea,,efdf56
+2228,http://en.wikipedia.org/wiki/Busan,Busan,South Korea,,4ae67a
+2229,http://en.wikipedia.org/wiki/Ulsan,Ulsan,South Korea,,6cd931
+2230,http://en.wikipedia.org/wiki/North_Gyeongsang_Province,North Gyeongsang,South Korea,,"329e65"
+2231,,Hamgyŏng-namdo,North Korea,,2a8a81
+2232,,Maga Buryatdan,Russia,,3e6260
+2233,,Dadra and Nagar Haveli and Daman and Diu,India,,e0f7a4
+2234,,Maharashtra,India,,653ac1
+2235,,Goa,India,,b0b79d
+2236,,Karnataka,India,,3dd942
+2237,,Kerala,India,,b166b5
+2238,,Puducherry,India,,"295235"
+2239,,Tamil Nadu,India,,487d4c
+2240,,Sakhalin,Russia,,d4dd11
+2241,http://en.wikipedia.org/wiki/Dublin,Dublin,Ireland,,b6e323
+2242,http://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire%E2%80%93Rathdown,Dún Laoghaire–Rathdown,Ireland,,1a3f91
+2243,,Wicklow,Ireland,,90aef9
+2244,,Wexford,Ireland,,3147da
+2245,,Kilkenny,Ireland,,"109078"
+2246,,Waterford,Ireland,,758a06
+2247,,Cork,Ireland,,df1f1d
+2248,,Cork,Ireland,,be6c7b
+2249,,Kerry,Ireland,,243fac
+2250,,Limerick,Ireland,,a07c2f
+2251,,Clare,Ireland,,d5e2c0
+2252,,Galway,Ireland,,"635440"
+2253,,Galway,Ireland,,ce6c92
+2254,,Mayo,Ireland,,38651c
+2255,,Sligo,Ireland,,c2ba1b
+2256,,Limavady,United Kingdom,,f6c79f
+2257,,Coleraine,United Kingdom,,d62884
+2258,,Moyle,United Kingdom,,2d3acd
+2259,,Larne,United Kingdom,,"04ad56"
+2260,,Carrickfergus,United Kingdom,,4cb811
+2261,,Newtownabbey,United Kingdom,,bbaa9d
+2262,,Belfast,United Kingdom,,"0233f3"
+2263,,North Down,United Kingdom,,26505e
+2264,,Ards,United Kingdom,,ccbd8c
+2265,,Down,United Kingdom,,66e8ba
+2266,,Meath,Ireland,,eb76c0
+2267,http://en.wikipedia.org/wiki/Fingal,Fingal,Ireland,,53ed35
+2268,,Zaporizhzhya,Ukraine,,2b8eba
+2269,http://en.wikipedia.org/wiki/Sevastopol,Sevastopol,Russia,,51de85
+2270,,Mykolayiv,Ukraine,,cd0f74
+2271,,Varna,Bulgaria,,a37603
+2272,http://en.wikipedia.org/wiki/Istanbul_Province,Istanbul,Turkey,,"743394"
+2273,,Tekirdag,Turkey,,"074177"
+2274,,Çanakkale,Turkey,,95f8d9
+2275,,Clackmannanshire,United Kingdom,,cd0cbc
+2276,,Stirling,United Kingdom,,6150cc
+2277,,Falkirk,United Kingdom,,fe40fb
+2278,,West Lothian,United Kingdom,,cc7e2b
+2279,,Edinburgh,United Kingdom,,"966715"
+2280,,Midlothian,United Kingdom,,dc1662
+2281,,East Lothian,United Kingdom,,"0f46c6"
+2282,,North Tyneside,United Kingdom,,d6bcb4
+2283,,South Tyneside,United Kingdom,,716e1b
+2284,,Sunderland,United Kingdom,,80537a
+2285,,Durham,United Kingdom,,ae1eaa
+2286,,Hartlepool,United Kingdom,,fa2431
+2287,,Redcar and Cleveland,United Kingdom,,5b8e4f
+2288,,North Yorkshire,United Kingdom,,c36142
+2289,,East Riding of Yorkshire,United Kingdom,,43351f
+2290,,Kingston upon Hull,United Kingdom,,"117796"
+2291,,North Lincolnshire,United Kingdom,,98e6f1
+2292,,North East Lincolnshire,United Kingdom,,47810f
+2293,,Lincolnshire,United Kingdom,,5f6371
+2294,,Norfolk,United Kingdom,,"229754"
+2295,,Suffolk,United Kingdom,,16026d
+2296,,Essex,United Kingdom,,130f1a
+2297,,Southend-on-Sea,United Kingdom,,e069ea
+2298,,Thurrock,United Kingdom,,3de568
+2299,,Kent,United Kingdom,,40b5f2
+2300,,Medway,United Kingdom,,46a558
+2301,,East Sussex,United Kingdom,,2b45c6
+2302,,Brighton and Hove,United Kingdom,,ffedf5
+2303,,West Sussex,United Kingdom,,d827f1
+2304,,Hampshire,United Kingdom,,e6c2dc
+2305,,Portsmouth,United Kingdom,,2d2ca7
+2306,,Southampton,United Kingdom,,f976b5
+2307,,Dorset,United Kingdom,,"621108"
+2308,,Bournemouth,United Kingdom,,e58aea
+2309,,Poole,United Kingdom,,f516df
+2310,,Devon,United Kingdom,,49c0b9
+2311,,Torbay,United Kingdom,,"046ddf"
+2312,,Plymouth,United Kingdom,,69dafe
+2313,,Cornwall,United Kingdom,,f3ac63
+2314,,Somerset,United Kingdom,,db9eeb
+2315,,Carmarthenshire,United Kingdom,,88bfcf
+2316,,Pembrokeshire,United Kingdom,,"778609"
+2317,,Ceredigion,United Kingdom,,"68d309"
+2318,,Gwynedd,United Kingdom,,426f99
+2319,,Conwy,United Kingdom,,a11f9e
+2320,,Denbighshire,United Kingdom,,a70dc4
+2321,,Halton,United Kingdom,,761c79
+2322,,Halton,United Kingdom,,228bbc
+2323,,Knowsley,United Kingdom,,"149815"
+2324,,Liverpool,United Kingdom,,d5e2fb
+2325,,Sefton,United Kingdom,,6c97cd
+2326,,Lancashire,United Kingdom,,f1e2b2
+2327,,Blackpool,United Kingdom,,"032550"
+2328,,South Ayrshire,United Kingdom,,fd69db
+2329,,North Ayshire,United Kingdom,,be53d2
+2330,,Inverclyde,United Kingdom,,"619205"
+2331,,Renfrewshire,United Kingdom,,"273448"
+2332,,West Dunbartonshire,United Kingdom,,e77dba
+2333,,Argyll and Bute,United Kingdom,,f7e0b9
+2334,,Highland,United Kingdom,,7e3b7a
+2335,,Moray,United Kingdom,,7b4773
+2336,,Aberdeenshire,United Kingdom,,a3eb04
+2337,,Aberdeen,United Kingdom,,806fec
+2338,,Angus,United Kingdom,,b6cda1
+2339,,Dundee,United Kingdom,,"359365"
+2340,,Perthshire and Kinross,United Kingdom,,43e4e6
+2341,,Fife,United Kingdom,,c8dfec
+2342,,Chukchi Autonomous Okrug,Russia,,"232199"
+2343,,Austurland,Iceland,,7cc532
+2344,,Suðurland,Iceland,,f52854
+2345,,Suðurnes,Iceland,,81b073
+2346,,Reykjavík,Iceland,,"777669"
+2347,,Höfuðborgarsvæði,Iceland,,b23975
+2348,,Vesturland,Iceland,,20c9f5
+2349,,Vestfirðir,Iceland,,70fcb7
+2350,,Norðurland vestra,Iceland,,326a8c
+2351,,Norðurland eystra,Iceland,,"0abdc5"
+2352,,Yamal-Nenets,Russia,,92049d
+2353,,Nenets,Russia,,23af4b
+2354,http://en.wikipedia.org/wiki/Northwest_Territories,Northwest Territories,Canada,,d254c8
+2355,,Sakha (Yakutia),Russia,,3f53d7
+2356,,Nicas,Latvia,,ea2043
+2357,,Liepāja,Latvia,,d095a9
+2358,,Grobinas,Latvia,,d20be7
+2359,,Pavilostas,Latvia,,d69116
+2360,,Ventspils,Latvia,,4ebd44
+2361,,Ventspils,Latvia,,"794288"
+2362,,Dundagas,Latvia,,8aec51
+2363,,Rojas,Latvia,,"505259"
+2364,,Talsi,Latvia,,f7e2b2
+2365,,Mersraga,Latvia,,9fb7b0
+2366,,Engures,Latvia,,d3b1fb
+2367,,Jurmala,Latvia,,"300891"
+2368,,Riga,Latvia,,466acc
+2369,,Carnikavas,Latvia,,ab8aa0
+2370,,Saulkrastu,Latvia,,ca4310
+2371,,Limbaži,Latvia,,"0a65e1"
+2372,,Lääne,Estonia,,4c5bcf
+2373,,Harju,Estonia,,5f1461
+2374,,Lääne-Viru,Estonia,,8cbd00
+2375,,Leningrad,Russia,,123b7f
+2376,http://en.wikipedia.org/wiki/Uusimaa_(region),Uusimaa,Finland,,6ee69d
+2377,http://en.wikipedia.org/wiki/Finland_Proper,Finland Proper,Finland,,"269d83"
+2378,http://en.wikipedia.org/wiki/Satakunta_(region),Satakunta,Finland,,3837a4
+2379,http://en.wikipedia.org/wiki/Ostrobothnia_(region),Ostrobothnia,Finland,,add217
+2380,http://en.wikipedia.org/wiki/Central_Ostrobothnia,Central Ostrobothnia,Finland,,da4902
+2381,,Västernorrland,Sweden,,7b66b4
+2382,,Gävleborg,Sweden,,ee8fe9
+2383,,Uppsala,Sweden,,3baa27
+2384,,Stockholm,Sweden,,ea159d
+2385,,Södermanland,Sweden,,1a68e5
+2386,,Östergötland,Sweden,,99f59c
+2387,,Kalmar,Sweden,,8b4224
+2388,,Blekinge,Sweden,,d04863
+2389,,Skåne,Sweden,,"063e26"
+2390,,Halland,Sweden,,"999600"
+2391,,Oslo,Norway,,102f0b
+2392,,Buskerud,Norway,,a554f8
+2393,,Vestfold,Norway,,52cf49
+2394,,Telemark,Norway,,d0921d
+2395,,Aust-Agder,Norway,,b09040
+2396,,Vest-Agder,Norway,,dcf607
+2397,,Rogaland,Norway,,"878d56"
+2398,,Hordaland,Norway,,"565030"
+2399,,Sogn og Fjordane,Norway,,bc7f62
+2400,,Møre og Romsdal,Norway,,"03cf87"
+2401,,Rize,Turkey,,959ef4
+2402,,Trabzon,Turkey,,4dd9ce
+2403,,Giresun,Turkey,,bd7db7
+2404,,Ordu,Turkey,,"820897"
+2405,,Samsun,Turkey,,b53477
+2406,,Sinop,Turkey,,de7092
+2407,,Kastamonu,Turkey,,97416a
+2408,http://en.wikipedia.org/wiki/Bart%C4%B1n_Province,Bartın,Turkey,,7cac11
+2409,,Zinguldak,Turkey,,b3f611
+2410,http://en.wikipedia.org/wiki/D%C3%BCzce_Province,Düzce,Turkey,,a6ea84
+2411,,Sakarya,Turkey,,ddeebd
+2412,,Kocaeli,Turkey,,186fb2
+2413,http://en.wikipedia.org/wiki/Yalova_Province,Yalova,Turkey,,72e6d3
+2414,,Bursa,Turkey,,cb2c20
+2415,,Balikesir,Turkey,,e3ca04
+2416,,Izmir,Turkey,,5dec70
+2417,,Aydin,Turkey,,ac1ad9
+2418,,Mugla,Turkey,,db60b9
+2419,,Antalya,Turkey,,"020bf2"
+2420,,Mersin,Turkey,,"7993e1"
+2421,http://en.wikipedia.org/wiki/Adana_Province,Adana,Turkey,,e139c4
+2422,,Mount Lebanon,Lebanon,,be1df9
+2423,,Beirut,Lebanon,,af5d5e
+2424,,Arkhangel'sk,Russia,,4a06d8
+2425,,Krasnoyarsk,Russia,,f83630
+2426,,Ayion Oros,Greece,,c65d7b
+2427,,Thessalia,Greece,,2aaadd
+2428,,Stereá Elláda,Greece,,cc0991
+2429,,Attiki,Greece,,a9365b
+2430,,Peloponnisos,Greece,,1fb2a1
+2431,,Dytiki Ellada,Greece,,cbf871
+2432,,Fier,Albania,,d16509
+2433,,Tiranë,Albania,,"0fe473"
+2434,,Durrës,Albania,,f708f0
+2435,,Lezhë,Albania,,b13011
+2436,,Budva,Montenegro,,5314b9
+2437,,Tivat,Montenegro,,"654788"
+2438,,Šibensko-Kninska,Croatia,,3cf255
+2439,,Licko-Senjska,Croatia,,fc7925
+2440,,Izola,Slovenia,,feecee
+2441,,Venezia,Italy,,7a6844
+2442,,Padova,Italy,,6048ff
+2443,,Rovigo,Italy,,24e27b
+2444,,Ferrara,Italy,,7fd804
+2445,,Ravenna,Italy,,9ed932
+2446,,Forlì-Cesena,Italy,,2f4fe0
+2447,,Ancona,Italy,,2c3ddf
+2448,,Macerata,Italy,,"07a9d3"
+2449,,Fermo,Italy,,"61d776"
+2450,,Ascoli Piceno,Italy,,49d4b2
+2451,,Teramo,Italy,,2dbf21
+2452,,Pescara,Italy,,28b60a
+2453,,Chieti,Italy,,8c9f32
+2454,,Campobasso,Italy,,"03e7ef"
+2455,,Foggia,Italy,,b42742
+2456,,Barletta-Andria Trani,Italy,,7cf643
+2457,,Bari,Italy,,7e05d6
+2458,,Brindisi,Italy,,54b2b2
+2459,,Lecce,Italy,,8bdb50
+2460,,Taranto,Italy,,e9412e
+2461,,Matera,Italy,,cf0596
+2462,,Cosenza,Italy,,10c660
+2463,,Crotene,Italy,,"1843e3"
+2464,,Catanzaro,Italy,,70c445
+2465,,Reggio Calabria,Italy,,1e0a84
+2466,,Vibo Valentia,Italy,,7b41bf
+2467,,Potenza,Italy,,"250413"
+2468,,Salerno,Italy,,e82c4b
+2469,,Napoli,Italy,,57bafb
+2470,,Caserta,Italy,,7cc234
+2471,,Latina,Italy,,d9ff90
+2472,,Roma,Italy,,73f490
+2473,,Viterbo,Italy,,5e6bd7
+2474,,Grosseto,Italy,,"0bf727"
+2475,,Livorno,Italy,,fec87a
+2476,,Pisa,Italy,,c8067a
+2477,,Lucca,Italy,,4c8c76
+2478,,Massa-Carrara,Italy,,53f0d7
+2479,,La Spezia,Italy,,1f3400
+2480,,Genova,Italy,,b06b55
+2481,,Savona,Italy,,6b5754
+2482,,Var,France,,f55cad
+2483,,Bouches-du-Rhône,France,,2c6ae4
+2484,,Gard,France,,b4baaf
+2485,,Hérault,France,,ea4eb4
+2486,,Aude,France,,bb03e4
+2487,,Barcelona,Spain,,6a4cbd
+2488,,Tarragona,Spain,,7989ed
+2489,,Castellón,Spain,,"343009"
+2490,,Valencia,Spain,,"347665"
+2491,,Alicante,Spain,,"01a068"
+2492,,Murcia,Spain,,46515d
+2493,,Almería,Spain,,8a20a8
+2494,,Granada,Spain,,c30fb4
+2495,,Málaga,Spain,,33bb83
+2496,,Sevilla,Spain,,12ffb0
+2497,http://en.wikipedia.org/wiki/Set%C3%BAbal_District,Setúbal,Portugal,,d9fc0c
+2498,,Lisboa,Portugal,,9af763
+2499,,Santarém,Portugal,,cd10c7
+2500,,Leiria,Portugal,,f7696a
+2501,,Coimbra,Portugal,,3f998e
+2502,,Aveiro,Portugal,,696b35
+2503,,Porto,Portugal,,e71e5c
+2504,,La Coruña,Spain,,7884a9
+2505,,Lugo,Spain,,8c1b6f
+2506,,Asturias,Spain,,"876828"
+2507,,Cantabria,Spain,,"836917"
+2508,,Bizkaia,Spain,,30aaf3
+2509,,Landes,France,,8db926
+2510,,Gironde,France,,"4e0223"
+2511,,Charente-Maritime,France,,f8b932
+2512,,Vendée,France,,831caa
+2513,,Loire-Atlantique,France,,84b20b
+2514,,Morbihan,France,,b06f50
+2515,,Finistère,France,,415e1a
+2516,,Côtes-d'Armor,France,,8d09e4
+2517,,Ille-et-Vilaine,France,,c5dc3e
+2518,,Manche,France,,6ef80b
+2519,,Calvados,France,,4a8423
+2520,,Eure,France,,"070dbb"
+2521,,Seine-Maritime,France,,4a1590
+2522,,Somme,France,,"0d7363"
+2523,,Pas-de-Calais,France,,a6d259
+2524,,Zuid-Holland,Netherlands,,31c97c
+2525,,Noord-Holland,Netherlands,,9407c8
+2526,,Friesland,Netherlands,,"234833"
+2527,,Bremen,Germany,,ba3e9b
+2528,,Hamburg,Germany,,6be93f
+2529,,Midtjylland,Denmark,,82ca5d
+2530,,Nordjylland,Denmark,,55a988
+2531,,Kommuneqarfik Sermersooq,Greenland,,217c0e
+2532,,Nationalparken,Greenland,,9824f9
+2533,,Qaasuitsup Kommunia,Greenland,,4de754
+2534,,Pituffik,Greenland,,"7827d1"
+2535,,Qeqqata Kommunia,Greenland,,"0747b9"
+2536,,Kommune Kujalleq,Greenland,,f7ac67
+2537,,,Antarctica,,40c48d
+2538,,Pitcairn Islands,Pitcairn Islands,,1bf0c5
+2539,http://en.wikipedia.org/wiki/%C3%8Eles_Tuamotu-Gambier,Tuamotu-Gambier,French Polynesia,,2aedcb
+2540,http://en.wikipedia.org/wiki/Windward_Islands_(Society_Islands),Windward Islands,French Polynesia,,9657c1
+2541,,Iles Eparses de l'ocean Indien,French Southern and Antarctic Lands,,e92d74
+2542,http://en.wikipedia.org/wiki/Leeward_Islands_(Society_Islands),Leeward Islands,French Polynesia,,c3a690
+2543,,Outer Islands,Seychelles,,1b1132
+2544,,La Digue and Inner Islands,Seychelles,,f0f6ba
+2545,,Kiribati,Kiribati,,9d28de
+2546,http://en.wikipedia.org/wiki/Ralik_chain,Railik Chain,Marshall Islands,,92a0e7
+2547,http://en.wikipedia.org/wiki/Ratak_chain,Ratak Chain,Marshall Islands,,86ecfc
+2548,,Lakshadweep,India,,"0e4a2c"
+2549,,Nueva Esparta,Venezuela,,b21f9f
+2550,,Tunapuna/Piarco,Trinidad and Tobago,,85353d
+2551,,San Juan-Laventille,Trinidad and Tobago,,921c2d
+2552,,Diego Martin,Trinidad and Tobago,,4be5a3
+2553,,Port of Spain,Trinidad and Tobago,,d7619b
+2554,,Chaguanas,Trinidad and Tobago,,8c59fd
+2555,,Couva-Tabaquite-Talparo,Trinidad and Tobago,,5acdc9
+2556,,San Fernando,Trinidad and Tobago,,"1d9410"
+2557,,Penal-Debe,Trinidad and Tobago,,"168082"
+2558,,Siparia,Trinidad and Tobago,,2288f6
+2559,,Point Fortin,Trinidad and Tobago,,b5baa9
+2560,,Princes Town,Trinidad and Tobago,,eb0ecd
+2561,,Rio Claro-Mayaro,Trinidad and Tobago,,59eb5d
+2562,,Sangre Grande,Trinidad and Tobago,,dbab2a
+2563,,Dependencias Federales,Venezuela,,dbd22b
+2564,,Eastern Tobago,Trinidad and Tobago,,"8169e0"
+2565,,Western Tobago,Trinidad and Tobago,,e6acf4
+2566,,Saint George,Grenada,,42fe88
+2567,,Saint David,Grenada,,dda04f
+2568,,Saint Andrew,Grenada,,48c3ec
+2569,,Saint Patrick,Grenada,,"02f657"
+2570,,Saint Mark,Grenada,,852c44
+2571,,Saint John,Grenada,,"283085"
+2572,,Andaman and Nicobar,India,,c0e905
+2573,http://en.wikipedia.org/wiki/Bonaire,Bonaire,Caribbean Netherlands,,60519c
+2574,,Carriacou and Petite Martinique,Grenada,,8f125d
+2575,,San Andrés y Providencia,Colombia,,fecf2c
+2576,http://en.wikipedia.org/wiki/Grenadines_Parish,Grenadines,Saint Vincent and the Grenadines,,ef1e49
+2577,,Saint Joseph,Barbados,,"749345"
+2578,,Saint Andrew,Barbados,,9457fc
+2579,,Saint Peter,Barbados,,5b168f
+2580,,Saint Lucy,Barbados,,17b3c7
+2581,,Saint James,Barbados,,309a8e
+2582,,Saint Michael,Barbados,,7e8372
+2583,,Christ Church,Barbados,,eaa52f
+2584,,Saint Philip,Barbados,,92426b
+2585,,Saint John,Barbados,,"36e729"
+2586,http://en.wikipedia.org/wiki/Saint_Andrew_Parish_(Saint_Vincent_and_the_Grenadines),Saint Andrew,Saint Vincent and the Grenadines,,c57168
+2587,http://en.wikipedia.org/wiki/Saint_George_Parish_(Saint_Vincent_and_the_Grenadines),Saint George,Saint Vincent and the Grenadines,,ef0917
+2588,http://en.wikipedia.org/wiki/Charlotte_Parish_(Saint_Vincent_and_the_Grenadines),Charlotte,Saint Vincent and the Grenadines,,fb89fd
+2589,http://en.wikipedia.org/wiki/Saint_David_Parish_(Saint_Vincent_and_the_Grenadines),Saint David,Saint Vincent and the Grenadines,,743c41
+2590,http://en.wikipedia.org/wiki/Saint_Patrick_Parish_(Saint_Vincent_and_the_Grenadines),Saint Patrick,Saint Vincent and the Grenadines,,7876ac
+2591,http://en.wikipedia.org/wiki/Gros_Islet_Quarter,Gros Islet,Saint Lucia,,978fce
+2592,http://en.wikipedia.org/wiki/Castries_Quarter,Castries,Saint Lucia,,18bb68
+2593,http://en.wikipedia.org/wiki/Anse_la_Raye_Quarter,Anse-la-Raye,Saint Lucia,,"026a39"
+2594,http://en.wikipedia.org/wiki/Soufri%C3%A8re_Quarter,Soufrière,Saint Lucia,,ce7584
+2595,http://en.wikipedia.org/wiki/Choiseul_Quarter,Choiseul,Saint Lucia,,453fad
+2596,http://en.wikipedia.org/wiki/Laborie_Quarter,Laborie,Saint Lucia,,bd7036
+2597,http://en.wikipedia.org/wiki/Vieux_Fort_Quarter,Vieux Fort,Saint Lucia,,ed5784
+2598,http://en.wikipedia.org/wiki/Micoud_Quarter,Micoud,Saint Lucia,,4ebccf
+2599,http://en.wikipedia.org/wiki/Praslin_Quarter,Praslin,Saint Lucia,,50abc3
+2600,http://en.wikipedia.org/wiki/Dennery_Quarter,Dennery,Saint Lucia,,32b991
+2601,http://en.wikipedia.org/wiki/Dauphin_Quarter,Dauphin,Saint Lucia,,e02e27
+2602,,Martinique,France,,"640367"
+2603,,Saint Patrick,Dominica,,92f549
+2604,,Saint David,Dominica,,"880610"
+2605,,Saint Andrew,Dominica,,d3fad7
+2606,,Saint John,Dominica,,a431d7
+2607,,Saint Peter,Dominica,,53c6de
+2608,,Saint Joseph,Dominica,,d756d3
+2609,,Saint Paul,Dominica,,339a18
+2610,,Saint George,Dominica,,8dc598
+2611,,Saint Luke,Dominica,,321cf8
+2612,,Saint Mark,Dominica,,1175de
+2613,,Guadeloupe,France,,6aed00
+2614,,Islas de la Bahía,Honduras,,5df07e
+2615,,Johnston Atoll,United States Minor Outlying Islands,,c4f796
+2616,http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes,Saint Peter,Montserrat,,a3d06d
+2617,http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes,Saint Anthony,Montserrat,,75e33d
+2618,http://en.wikipedia.org/wiki/Subdivisions_of_Montserrat#Parishes,Saint Georges,Montserrat,,17f98d
+2619,http://en.wikipedia.org/wiki/Saint_Paul_Parish_(Antigua_and_Barbuda),Saint Paul,Antigua and Barbuda,,40173e
+2620,http://en.wikipedia.org/wiki/Saint_Philip_Parish_(Antigua_and_Barbuda),Saint Philip,Antigua and Barbuda,,8bd39e
+2621,http://en.wikipedia.org/wiki/Saint_Peter_Parish_(Antigua_and_Barbuda),Saint Peter,Antigua and Barbuda,,cc7090
+2622,http://en.wikipedia.org/wiki/Saint_George_Parish_(Antigua_and_Barbuda),Saint George,Antigua and Barbuda,,"06fe1c"
+2623,http://en.wikipedia.org/wiki/Saint_John_Parish_(Antigua_and_Barbuda),Saint John,Antigua and Barbuda,,8e68c3
+2624,http://en.wikipedia.org/wiki/Saint_Mary_Parish_(Antigua_and_Barbuda),Saint Mary,Antigua and Barbuda,,f1748d
+2625,,Saint Paul Charlestown,Saint Kitts and Nevis,,6412fe
+2626,,Saint John Figtree,Saint Kitts and Nevis,,e354fd
+2627,,Saint George Gingerland,Saint Kitts and Nevis,,4de81d
+2628,,Saint James Windward,Saint Kitts and Nevis,,8e0651
+2629,,Saint Thomas Lowland,Saint Kitts and Nevis,,8cff9b
+2630,,Saint Paul Capesterre,Saint Kitts and Nevis,,dd17e6
+2631,,Saint Anne Sandy Point,Saint Kitts and Nevis,,e113bb
+2632,,Saint Thomas Middle Island,Saint Kitts and Nevis,,75455e
+2633,,Trinity Palmetto Point,Saint Kitts and Nevis,,fc03d4
+2634,,Saint George Basseterre,Saint Kitts and Nevis,,b75bd2
+2635,,Saint Peter Basseterre,Saint Kitts and Nevis,,ed2779
+2636,,Saint Mary Cayon,Saint Kitts and Nevis,,c61fbe
+2637,,Christ Church Nichola Town,Saint Kitts and Nevis,,c60d87
+2638,,Saint John Capesterre,Saint Kitts and Nevis,,"06c284"
+2639,http://en.wikipedia.org/wiki/Sint_Eustatius,St. Eustatius,Netherlands,,"09a5e2"
+2640,http://en.wikipedia.org/wiki/Barbuda,Barbuda,Antigua and Barbuda,,9a5748
+2641,"http://en.wikipedia.org/wiki/Saint_Croix,_U.S._Virgin_Islands",Saint Croix,United States Virgin Islands,,f21e25
+2642,http://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy,Saint Barthélemy,Saint Barthelemy,,f12f2b
+2643,http://en.wikipedia.org/wiki/Subdivisions_of_Puerto_Rico,Puerto Rico,Puerto Rico,,38181d
+2644,,La Altagracia,Dominican Republic,,f35a2b
+2645,"http://en.wikipedia.org/wiki/East_End,_Anguilla",East End,Anguilla,,a7789e
+2646,http://en.wikipedia.org/wiki/Stoney_Ground,Stoney Ground,Anguilla,,f2e43f
+2647,"http://en.wikipedia.org/wiki/North_Side,_Anguilla",North Side,Anguilla,,"0b7e92"
+2648,"http://en.wikipedia.org/wiki/The_Valley,_Anguilla",The Valley,Anguilla,,eb06b9
+2649,"http://en.wikipedia.org/wiki/North_Hill,_Anguilla",North Hill,Anguilla,,30f8f6
+2650,"http://en.wikipedia.org/wiki/Sandy_Ground,_Anguilla",Sandy Ground,Anguilla,,d8bf84
+2651,"http://en.wikipedia.org/wiki/South_Hill,_Anguilla",South Hill,Anguilla,,"148260"
+2652,"http://en.wikipedia.org/wiki/West_End,_Anguilla",West End,Anguilla,,"0c215f"
+2653,http://en.wikipedia.org/wiki/Blowing_Point,Blowing Point,Anguilla,,"217e34"
+2654,http://en.wikipedia.org/wiki/The_Farrington,The Farrington,Anguilla,,7180cf
+2655,"http://en.wikipedia.org/wiki/Sandy_Hill,_Anguilla",Sandy Hill,Anguilla,,e0688d
+2656,"http://en.wikipedia.org/wiki/Island_Harbour,_Anguilla",Island Harbour,Anguilla,,"1680e9"
+2657,"http://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands",Saint John,United States Virgin Islands,,b09657
+2658,"http://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",Saint Thomas,United States Virgin Islands,,18ad98
+2659,,British Virgin Islands,British Virgin Islands,,358aee
+2660,,Saint Ann,Jamaica,,1b9812
+2661,,Trelawny,Jamaica,,2417dc
+2662,,Saint James,Jamaica,,98b418
+2663,,Hanover,Jamaica,,908a6f
+2664,,Westmoreland,Jamaica,,daaaf1
+2665,,Saint Elizabeth,Jamaica,,e727fa
+2666,,Manchester,Jamaica,,1102a3
+2667,,Clarendon,Jamaica,,7edccc
+2668,,Saint Catherine,Jamaica,,5ac8bb
+2669,,Saint Andrew,Jamaica,,"0bed45"
+2670,,Kingston,Jamaica,,"028ee7"
+2671,,Saint Thomas,Jamaica,,f8da71
+2672,,Portland,Jamaica,,"0e900a"
+2673,,Saint Mary,Jamaica,,88fee0
+2674,,Cayman Islands,Cayman Islands,,a8345c
+2675,,El Seybo,Dominican Republic,,a8aa68
+2676,,Hato Mayor,Dominican Republic,,d89a66
+2677,,Samaná,Dominican Republic,,e97c86
+2678,,María Trinidad Sánchez,Dominican Republic,,94aef3
+2679,,Espaillat,Dominican Republic,,9813b2
+2680,,Puerto Plata,Dominican Republic,,220a7f
+2681,,Nord,Haiti,,dcda54
+2682,,L'Artibonite,Haiti,,f15eda
+2683,http://en.wikipedia.org/wiki/Nippes_Department,Nippes,Haiti,,"8420d3"
+2684,,Barahona,Dominican Republic,,7c4bf5
+2685,,Azua,Dominican Republic,,41ab1b
+2686,,Peravia,Dominican Republic,,3a0844
+2687,,San Cristóbal,Dominican Republic,,573eec
+2688,,Santo Domingo,Dominican Republic,,b38e5f
+2689,,Distrito Nacional,Dominican Republic,,577fd6
+2690,,San Pedro de Macorís,Dominican Republic,,f6185f
+2691,,La Romana,Dominican Republic,,110eec
+2692,,Camagüey,Cuba,,d790c9
+2693,,Ciego de Ávila,Cuba,,3bd401
+2694,,Holguín,Cuba,,cf9b2d
+2695,http://en.wikipedia.org/wiki/Grand_Turk_Island,Grand Turk,Turks and Caicos Islands,,dbbf60
+2696,,Isla de la Juventud,Cuba,,dc2b69
+2697,http://en.wikipedia.org/wiki/Crooked_Island_and_Long_Cay,Crooked Island and Long Cay,The Bahamas,,ab4525
+2698,,Sancti Spíritus,Cuba,,fb4ab5
+2699,,Villa Clara,Cuba,,"041574"
+2700,,Matanzas,Cuba,,f1b077
+2701,http://en.wikipedia.org/wiki/Exuma,Exuma,The Bahamas,,df0e09
+2702,http://en.wikipedia.org/wiki/Long_Island_(Bahamas),Long Island,The Bahamas,,2e7cee
+2703,http://en.wikipedia.org/wiki/Rum_Cay,Rum Cay,The Bahamas,,220c77
+2704,http://en.wikipedia.org/wiki/Black_Point_(Bahamas),Black Point,The Bahamas,,81c2f8
+2705,http://en.wikipedia.org/wiki/San_Salvador_(Bahamas),San Salvador,The Bahamas,,825f9c
+2706,http://en.wikipedia.org/wiki/Central_Andros,Central Andros,The Bahamas,,2e74c2
+2707,http://en.wikipedia.org/wiki/Mangrove_Cay,Mangrove Cay,The Bahamas,,65f2a9
+2708,http://en.wikipedia.org/wiki/South_Andros,South Andros,The Bahamas,,"03fa2f"
+2709,http://en.wikipedia.org/wiki/Cat_Island_(Bahamas),Cat Island,The Bahamas,,5a9915
+2710,http://en.wikipedia.org/wiki/New_Providence,New Providence,The Bahamas,,de594e
+2711,http://en.wikipedia.org/wiki/North_Andros,North Andros,The Bahamas,,65fc9f
+2712,http://en.wikipedia.org/wiki/Central_Eleuthera,Central Eleuthera,The Bahamas,,bbeb0c
+2713,http://en.wikipedia.org/wiki/North_Eleuthera,North Eleuthera,The Bahamas,,403ea2
+2714,http://en.wikipedia.org/wiki/South_Eleuthera,South Eleuthera,The Bahamas,,b62838
+2715,http://en.wikipedia.org/wiki/Berry_Islands,Berry Islands,The Bahamas,,ff2cc3
+2716,http://en.wikipedia.org/wiki/Moore%27s_Island,Moore's Island,The Bahamas,,cdd96e
+2717,http://en.wikipedia.org/wiki/City_of_Freeport,City of Freeport,The Bahamas,,"058d6f"
+2718,http://en.wikipedia.org/wiki/West_Grand_Bahama,West Grand Bahama,The Bahamas,,ad47a0
+2719,http://en.wikipedia.org/wiki/East_Grand_Bahama,East Grand Bahama,The Bahamas,,7aee26
+2720,http://en.wikipedia.org/wiki/Central_Abaco,Central Abaco,The Bahamas,,fa2e8c
+2721,http://en.wikipedia.org/wiki/South_Abaco,South Abaco,The Bahamas,,"362387"
+2722,http://en.wikipedia.org/wiki/North_Abaco,North Abaco,The Bahamas,,33267e
+2723,,Hamilton,Bermuda,,c315f0
+2724,,Smith's,Bermuda,,64a08e
+2725,,Devonshire,Bermuda,,4bbdcc
+2726,,Pembroke,Bermuda,,b1c00b
+2727,,City of Hamilton,Bermuda,,23fc4c
+2728,,Paget,Bermuda,,5e7518
+2729,,Warwick,Bermuda,,b7f1f2
+2730,,Southampton,Bermuda,,421b3a
+2731,,Sandys,Bermuda,,"08f38e"
+2732,,Saint George's,Bermuda,,"361440"
+2733,,Kalmyk,Russia,,ec1f85
+2734,,Dəvəçi,Azerbaijan,,7f7c35
+2735,,Siyəzən,Azerbaijan,,"1d4978"
+2736,,Xizı,Azerbaijan,,47fd3c
+2737,,Sumqayıt,Azerbaijan,,9ff7c9
+2738,,Bakı,Azerbaijan,,a4613e
+2739,,Salyan,Azerbaijan,,"565847"
+2740,,Neftçala,Azerbaijan,,96f2b5
+2741,,Lankaran,Azerbaijan,,cdcb2f
+2742,,Masallı,Azerbaijan,,78f7d9
+2743,,Lankaran,Azerbaijan,,22b1f2
+2744,,Mazandaran,Iran,,5a4582
+2745,,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,531db9
+2746,,Archipel des Kerguelen,French Southern and Antarctic Lands,,d37124
+2747,,Archipel des Crozet,French Southern and Antarctic Lands,,868b7d
+2748,http://en.wikipedia.org/wiki/Tristan_da_Cunha,Tristan da Cunha,Saint Helena,,1006ff
+2749,,La Réunion,France,,d37b3c
+2750,http://en.wikipedia.org/wiki/Rivi%C3%A8re_du_Rempart_District,Rivière du Rempart,Mauritius,,fc192b
+2751,http://en.wikipedia.org/wiki/Pamplemousses_District,Pamplemousses,Mauritius,,"030e65"
+2752,http://en.wikipedia.org/wiki/Port_Louis,Port Louis city,Mauritius,,b2ea5e
+2753,http://en.wikipedia.org/wiki/Rivi%C3%A8re_Noire_District,Rivière Noire,Mauritius,,9dc372
+2754,http://en.wikipedia.org/wiki/Savanne_District,Savanne,Mauritius,,"044a23"
+2755,http://en.wikipedia.org/wiki/Grand_Port_District,Grand Port,Mauritius,,17693c
+2756,http://en.wikipedia.org/wiki/Flacq_District,Flacq,Mauritius,,9a1188
+2757,http://en.wikipedia.org/wiki/Saint_Helena,Saint Helena,Saint Helena,,d58e2f
+2758,,Mayotte,France,,7f141c
+2759,,Moûhîlî,Comoros,,35c5a2
+2760,,Andjouân,Comoros,,b0bef4
+2761,,Andjazîdja,Comoros,,566a99
+2762,http://en.wikipedia.org/wiki/Agal%C3%A9ga,Agaléga,Mauritius,,2b6921
+2763,http://en.wikipedia.org/wiki/Ascension_Island,Ascension,Saint Helena,,f804d2
+2764,,Zanzibar South and Central,United Republic of Tanzania,,98d8a2
+2765,,Kaskazini-Unguja,United Republic of Tanzania,,370bfb
+2766,,Zanzibar West,United Republic of Tanzania,,"045cf8"
+2767,,Kusini-Pemba,United Republic of Tanzania,,f75526
+2768,,Kaskazini-Pemba,United Republic of Tanzania,,f499d3
+2769,,Grand'Anse,Seychelles,,44ac09
+2770,,Anse Boileau,Seychelles,,a7a3d7
+2771,,Baie Lazare,Seychelles,,d8e134
+2772,,Takamaka,Seychelles,,92bf5e
+2773,,Anse Royale,Seychelles,,f565bb
+2774,,Au Cap,Seychelles,,1cd138
+2775,,Anse aux Pins,Seychelles,,4a5876
+2776,,Pointe La Rue,Seychelles,,6244b2
+2777,,Cascade,Seychelles,,b4a721
+2778,,Roche Caïman,Seychelles,,fd4f21
+2779,,Plaisance,Seychelles,,b13002
+2780,,Mont Fleuri,Seychelles,,d47844
+2781,,Bel Air,Seychelles,,ae587c
+2782,,English River,Seychelles,,60243f
+2783,,Anse Etoile,Seychelles,,ccd450
+2784,,Glacis,Seychelles,,aeefb0
+2785,,Beau Vallon,Seychelles,,5be278
+2786,,Bel Ombre,Seychelles,,fb3f76
+2787,,Port Glaud,Seychelles,,2e0bff
+2788,,Baie Sainte Anne,Seychelles,,d210cf
+2789,,Grand'Anse Praslin,Seychelles,,b19aa2
+2790,,Annobón,Equatorial Guinea,,ec0bfd
+2791,http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_Province,São Tomé,Sao Tome and Principe,,ad8214
+2792,http://en.wikipedia.org/wiki/Pr%C3%ADncipe_Province,Príncipe,Sao Tome and Principe,,1264a0
+2793,,Bioko Norte,Equatorial Guinea,,4191ef
+2794,,Bioko Sur,Equatorial Guinea,,e465ae
+2795,http://en.wikipedia.org/wiki/Brava_(Cape_Verde),Brava,Cape Verde,,a7f592
+2796,http://en.wikipedia.org/wiki/Santa_Catarina_do_Fogo,Santa Catarina do Fogo,Cape Verde,,e27a94
+2797,http://en.wikipedia.org/wiki/Mosteiros_(municipality),Mosteiros,Cape Verde,,74378a
+2798,http://en.wikipedia.org/wiki/S%C3%A3o_Filipe_(municipality),São Filipe,Cape Verde,,952c3f
+2799,http://en.wikipedia.org/wiki/Tarrafal_(municipality),Tarrafal,Cape Verde,,"0d9095"
+2800,http://en.wikipedia.org/wiki/Santa_Catarina_(Cape_Verde),Santa Catarina,Cape Verde,,"0fc170"
+2801,http://en.wikipedia.org/wiki/Ribeira_Grande_de_Santiago,Ribeira Grande de Santiago,Cape Verde,,a3788c
+2802,http://en.wikipedia.org/wiki/Praia_(municipality),Praia,Cape Verde,,2eb565
+2803,http://en.wikipedia.org/wiki/S%C3%A3o_Domingos_(Cape_Verdean_municipality),São Domingos,Cape Verde,,64c318
+2804,http://en.wikipedia.org/wiki/Santa_Cruz_(Cape_Verde),Santa Cruz,Cape Verde,,4ab523
+2805,http://en.wikipedia.org/wiki/S%C3%A3o_Miguel_(Cape_Verde),São Miguel,Cape Verde,,"564645"
+2806,http://en.wikipedia.org/wiki/Maio_(Cape_Verde),Maio,Cape Verde,,c0f971
+2807,http://en.wikipedia.org/wiki/Boa_Vista_(Cape_Verde),Boa Vista,Cape Verde,,765d5f
+2808,http://en.wikipedia.org/wiki/Ribeira_Brava_(municipality),Ribeira Brava,Cape Verde,,d0010a
+2809,http://en.wikipedia.org/wiki/Tarrafal_de_S%C3%A3o_Nicolau_(municipality),Tarrafal de São Nicolau,Cape Verde,,b4fd1d
+2810,http://en.wikipedia.org/wiki/Sal_(Cape_Verde),Sal,Cape Verde,,"663772"
+2811,"http://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde_(municipality)",São Vicente,Cape Verde,,227f6a
+2812,http://en.wikipedia.org/wiki/Ribeira_Grande_(Cape_Verdean_municipality),Ribeira Grande,Cape Verde,,f3b7e5
+2813,http://en.wikipedia.org/wiki/Porto_Novo_(Cape_Verdean_municipality),Porto Novo,Cape Verde,,"39d352"
+2814,http://en.wikipedia.org/wiki/Paul_(Cape_Verde),Paul,Cape Verde,,8e987c
+2815,,Santa Cruz de Tenerife,Spain,,f5b1b8
+2816,,Las Palmas,Spain,,4e2a63
+2817,,Madeira,Portugal,,182e6c
+2818,,Kriti,Greece,,d53697
+2819,,Notio Aigaio,Greece,,28acfe
+2820,,Paphos,Cyprus,,aee92f
+2821,,Kalkara,Malta,,56cb94
+2822,,Valletta,Malta,,"0172d2"
+2823,,Sliema,Malta,,46f76a
+2824,,San Giljan,Malta,,b030af
+2825,,Pembroke,Malta,,3fc2c6
+2826,,Naxxar,Malta,,12311d
+2827,,San Pawl il-Bahar,Malta,,"09b69a"
+2828,,Mellieħa,Malta,,b139ae
+2829,,Mġarr,Malta,,46b264
+2830,,Rabat,Malta,,"073806"
+2831,,Dingli,Malta,,4ea6a5
+2832,,Siġġiewi,Malta,,2bc8ae
+2833,,Qrendi,Malta,,ade554
+2834,,Żurrieq,Malta,,"9752d8"
+2835,,Birżebbuġa,Malta,,6775a0
+2836,,Marsaxlokk,Malta,,6e0e24
+2837,,Marsaskala,Malta,,353de2
+2838,,Żabbar,Malta,,d0bb82
+2839,,Xgħajra,Malta,,5d75b9
+2840,,San Lawrenz,Malta,,a78482
+2841,,Kerċem,Malta,,d71fa3
+2842,,Munxar,Malta,,3812f9
+2843,,Sannat,Malta,,bf2fb7
+2844,,Għajnsielem,Malta,,6f1d07
+2845,,Qala,Malta,,4b29fa
+2846,,Nadur,Malta,,eb9fc3
+2847,,Xagħra,Malta,,fdf1bc
+2848,,Żebbuġ,Malta,,5a2756
+2849,,Għasri,Malta,,2217ad
+2850,,Għarb,Malta,,e833e0
+2851,,Trapani,Italy,,d3d80b
+2852,,Azores,Portugal,,881c6e
+2853,,Voreio Aigaio,Greece,,d3aeec
+2854,,Ionioi Nisoi,Greece,,"3070e6"
+2855,,Messina,Italy,,1a6727
+2856,,Palermo,Italy,,"139738"
+2857,,Agrigento,Italy,,"449177"
+2858,,Caltanissetta,Italy,,42a684
+2859,,Ragusa,Italy,,a226e4
+2860,,Siracusa,Italy,,894db6
+2861,,Catania,Italy,,bd1354
+2862,,Baleares,Spain,,1ec3e7
+2863,,Carbonia-Iglesias,Italy,,e6cbc6
+2864,,Sassari,Italy,,ef0d17
+2865,,Nuoro,Italy,,85690f
+2866,,Olbia-Tempio,Italy,,801fd8
+2867,,Oristrano,Italy,,1a99f6
+2868,,Medio Campidano,Italy,,8b3bac
+2869,,Cagliari,Italy,,e2c619
+2870,,Ogliastra,Italy,,"327708"
+2871,,Haute-Corse,France,,"2650d6"
+2872,,Corse-du-Sud,France,,7e0a02
+2873,,Jersey,Jersey,,efd7e9
+2874,,Sark,Guernsey,,e6af40
+2875,,Isle of Wight,United Kingdom,,4f1f29
+2876,,Anglesey,United Kingdom,,12a1d0
+2877,,Isle of Man,Isle of Man,,f07607
+2878,,Sjaælland,Denmark,,a6db4e
+2879,,Hovedstaden,Denmark,,ec8b57
+2880,,Eilean Siar,United Kingdom,,c61f57
+2881,,Gotland,Sweden,,"445e10"
+2882,,Orkney,United Kingdom,,2ef35a
+2883,,Shetland Islands,United Kingdom,,c3008b
+2884,http://en.wikipedia.org/wiki/Lumparland,Lumparland,Sweden,,"780965"
+2885,http://en.wikipedia.org/wiki/Ecker%C3%B6,Eckerö,Sweden,,e98741
+2886,http://en.wikipedia.org/wiki/V%C3%A5rd%C3%B6,Vårdö,Sweden,,15cf76
+2887,http://en.wikipedia.org/wiki/Kumlinge,Kumlinge,Sweden,,1dba5e
+2888,http://en.wikipedia.org/wiki/Jomala,Jomala,Sweden,,488c1e
+2889,http://en.wikipedia.org/wiki/Mariehamn,Mariehamn,Sweden,,7f018e
+2890,,Eysturoyar,Faroe Islands,,b49449
+2891,,Tasmania,Australia,,7a0069
+2892,,Cocos (Keeling) Islands,Indian Ocean Territories,,6fe131
+2893,,Bali,Indonesia,,9719a0
+2894,,British Indian Ocean Territory,British Indian Ocean Territory,,5b4130
+2895,http://en.wikipedia.org/wiki/South_West_Community_Development_Council,South West,Singapore,,6b8b8e
+2896,http://en.wikipedia.org/wiki/Central_Singapore_Community_Development_Council,Central Singapore,Singapore,,e8f277
+2897,http://en.wikipedia.org/wiki/South_East_Community_Development_Council,South East,Singapore,,6e3197
+2898,http://en.wikipedia.org/wiki/North_East_Community_Development_Council,North East,Singapore,,25ef0d
+2899,http://en.wikipedia.org/wiki/North_West_Community_Development_Council,North West,Singapore,,"332647"
+2900,http://en.wikipedia.org/wiki/Labuan,Labuan,Malaysia,,f9fd26
+2901,,Phuket,Thailand,,a57e89
+2902,http://en.wikipedia.org/wiki/Hawaii,Hawaii,United States of America,,379a7b
+2903,,Okinawa,Japan,,3c333a
+2904,,Kinmen,Taiwan,,b8b9c7
+2905,http://en.wikipedia.org/wiki/Jeju_Province,Jeju,South Korea,,"314450"
+2906,,Kamchatka,Russia,,9e8275
+2907,,Saare,Estonia,,c7558e
+2908,,Hiiu,Estonia,,73b817
+2909,http://en.wikipedia.org/wiki/K%C3%B6kar,Kökar,Sweden,,b5b03f
+2910,http://en.wikipedia.org/wiki/F%C3%B6gl%C3%B6,Föglö,Sweden,,dba31b
+2911,http://en.wikipedia.org/wiki/Sottunga,Sottunga,Sweden,,ef67f7
+2912,,Svalbard,Norway,,c68c9c
+2913,,Macquarie Island,Australia,,b31df1
+2914,,Campbell Islands,New Zealand,,17eb7e
+2915,,Antipodes Islands,New Zealand,,e92451
+2916,,Chatham Islands Territory,New Zealand,,340a39
+2917,,Lord Howe Island,Australia,,dfb84a
+2918,,Kermadec Islands,New Zealand,,f6c9dc
+2919,,Norfolk Island,Norfolk Island,,6271fa
+2920,http://en.wikipedia.org/wiki/Austral_Islands,Austral Islands,French Polynesia,,"465636"
+2921,http://en.wikipedia.org/wiki/Mangaia,Mangaia,Cook Islands,,17d8da
+2922,http://en.wikipedia.org/wiki/Mitiaro,Mitiaro,Cook Islands,,6d19c1
+2923,,Eastern,Fiji,,a4666c
+2924,http://en.wikipedia.org/wiki/Vava%27u,Vava'u,Tonga,,"395363"
+2925,http://en.wikipedia.org/wiki/Sigave,Sigave,Wallis and Futuna,,ac34ae
+2926,http://en.wikipedia.org/wiki/Alo_(Wallis_and_Futuna),Alo,Wallis and Futuna,,56c82c
+2927,http://en.wikipedia.org/wiki/Gaga%27emauga,Gaga'emauga,Samoa,,2b64c2
+2928,http://en.wikipedia.org/wiki/Gaga%27ifomauga,Gaga'ifomauga,Samoa,,9087b0
+2929,http://en.wikipedia.org/wiki/Vaisigano,Vaisigano,Samoa,,a36b0d
+2930,http://en.wikipedia.org/wiki/Satupa%27itea,Satupa'itea,Samoa,,6624b6
+2931,http://en.wikipedia.org/wiki/Palauli,Palauli,Samoa,,86c4ad
+2932,http://en.wikipedia.org/wiki/Fa%27asaleleaga,Fa'asaleleaga,Samoa,,c42942
+2933,,Rennell and Bellona,Solomon Islands,,25766f
+2934,http://en.wikipedia.org/wiki/Marquesas_Islands,Marquesas Islands,French Polynesia,,5dc126
+2935,,Makira,Solomon Islands,,b66179
+2936,,Temotu,Solomon Islands,,ec7f34
+2937,,Malaita,Solomon Islands,,8fc687
+2938,,Capital Territory (Honiara),Solomon Islands,,42853a
+2939,,Guadalcanal,Solomon Islands,,6c990b
+2940,,Central,Solomon Islands,,8e9304
+2941,http://en.wikipedia.org/wiki/Penrhyn_Island,Penrhyn,Cook Islands,,4b21cf
+2942,,Western,Solomon Islands,,2a0f97
+2943,,Tuvalu,Tuvalu,,6e8287
+2944,,Isabel,Solomon Islands,,"0c1c99"
+2945,,Ainaro,East Timor,,892c3b
+2946,,Manufahi,East Timor,,c9efe5
+2947,,Manatuto,East Timor,,ad8e88
+2948,,Viqueque,East Timor,,15c00b
+2949,,Lautém,East Timor,,e07bce
+2950,,Baucau,East Timor,,bc4e35
+2951,,Dili,East Timor,,"021807"
+2952,,Liquica,East Timor,,1b79b5
+2953,,,Kiribati,,e2f924
+2954,,North Solomons,Papua New Guinea,,dc20d1
+2955,,West New Britain,Papua New Guinea,,b44afe
+2956,,East New Britain,Papua New Guinea,,db5cea
+2957,,New Ireland,Papua New Guinea,,e22cb9
+2958,,Bangka-Belitung,Indonesia,,b91b1f
+2959,,Manus,Papua New Guinea,,779efb
+2960,,Addu,Maldives,,d1c373
+2961,http://en.wikipedia.org/wiki/Anetan_District,Anetan,Nauru,,3e60e0
+2962,http://en.wikipedia.org/wiki/Ewa_District,Ewa,Nauru,,3b2d8f
+2963,http://en.wikipedia.org/wiki/Baiti_District,Baiti,Nauru,,b887d8
+2964,http://en.wikipedia.org/wiki/Uaboe_District,Uaboe,Nauru,,60ad83
+2965,http://en.wikipedia.org/wiki/Nibok_District,Nibok,Nauru,,1c303b
+2966,http://en.wikipedia.org/wiki/Denigomodu_District,Denigomodu,Nauru,,65a31d
+2967,http://en.wikipedia.org/wiki/Aiwo_District,Aiwo,Nauru,,63f446
+2968,http://en.wikipedia.org/wiki/Boe_District,Boe,Nauru,,62da8c
+2969,http://en.wikipedia.org/wiki/Yaren_District,Yaren,Nauru,,"466473"
+2970,http://en.wikipedia.org/wiki/Meneng_District,Meneng,Nauru,,6db291
+2971,http://en.wikipedia.org/wiki/Anibare_District,Anibare,Nauru,,af44c4
+2972,http://en.wikipedia.org/wiki/Ijuw_District,Ijuw,Nauru,,"0f21f0"
+2973,http://en.wikipedia.org/wiki/Anabar_District,Anabar,Nauru,,e37b08
+2974,http://en.wikipedia.org/wiki/Gnaviyani_Atoll,Gnaviyani,Maldives,,"678807"
+2975,,Gaafu Dhaalu,Maldives,,2ef3e5
+2976,,Gaafu Alifu,Maldives,,a209ca
+2977,,Alifu Dhaalu,Maldives,,2bd2e3
+2978,,Kaafu,Maldives,,9edcc1
+2979,,Alifu Alifu,Maldives,,2d71b2
+2980,,Baa,Maldives,,aa6b7a
+2981,,Lhaviyani,Maldives,,9ff052
+2982,http://en.wikipedia.org/wiki/Tawi-Tawi,Tawi-Tawi,Philippines,,a11ce0
+2983,http://en.wikipedia.org/wiki/Kosrae,Kosrae,Federated States of Micronesia,,b1b043
+2984,,Raa,Maldives,,1c67df
+2985,,Shaviyani,Maldives,,275d7f
+2986,http://en.wikipedia.org/wiki/Basilan,Basilan,Philippines,,"769675"
+2987,http://en.wikipedia.org/wiki/Pohnpei_State,Pohnpei,Federated States of Micronesia,,ae1d2c
+2988,http://en.wikipedia.org/wiki/Chuuk_State,Chuuk,Federated States of Micronesia,,faa453
+2989,http://en.wikipedia.org/wiki/Camiguin,Camiguin,Philippines,,5848ad
+2990,http://en.wikipedia.org/wiki/Siquijor,Siquijor,Philippines,,f6b5f8
+2991,http://en.wikipedia.org/wiki/Bohol,Bohol,Philippines,,c5c1cb
+2992,http://en.wikipedia.org/wiki/Guimaras,Guimaras,Philippines,,24b43f
+2993,,Bacolod,Philippines,,58aaee
+2994,http://en.wikipedia.org/wiki/Negros_Occidental,Negros Occidental,Philippines,,ec47a5
+2995,http://en.wikipedia.org/wiki/Negros_Oriental,Negros Oriental,Philippines,,cb12d7
+2996,,Cebu,Philippines,,f40438
+2997,,Mandaue,Philippines,,a0b83c
+2998,http://en.wikipedia.org/wiki/Cebu,Cebu,Philippines,,71887f
+2999,,Puerto Princesa,Philippines,,a36e84
+3000,,Tacloban,Philippines,,e93028
+3001,http://en.wikipedia.org/wiki/Ormoc,Ormoc,Philippines,,908c9a
+3002,http://en.wikipedia.org/wiki/Aklan,Aklan,Philippines,,d806ca
+3003,http://en.wikipedia.org/wiki/Antique_(province),Antique,Philippines,,a43809
+3004,http://en.wikipedia.org/wiki/Iloilo,Iloilo,Philippines,,20479c
+3005,,Iloilo,Philippines,,3a61ed
+3006,http://en.wikipedia.org/wiki/Capiz,Capiz,Philippines,,5f268d
+3007,http://en.wikipedia.org/wiki/Romblon,Romblon,Philippines,,a724b9
+3008,http://en.wikipedia.org/wiki/Northern_Samar,Northern Samar,Philippines,,c02f9d
+3009,http://en.wikipedia.org/wiki/Masbate,Masbate,Philippines,,ee16fa
+3010,http://en.wikipedia.org/wiki/Mindoro_Occidental,Mindoro Oriental,Philippines,,22722a
+3011,http://en.wikipedia.org/wiki/Mindoro_Occidental,Mindoro Occidental,Philippines,,b1f62f
+3012,http://en.wikipedia.org/wiki/Marinduque,Marinduque,Philippines,,5a01f0
+3013,http://en.wikipedia.org/wiki/Catanduanes,Catanduanes,Philippines,,4110a1
+3014,http://en.wikipedia.org/wiki/Batanes,Batanes,Philippines,,77edbe
+3015,,South Georgia and the South Sandwich Islands,South Georgia and the Islands,,51be2f
+3016,,Bouvet Island,Norway,,53a132
+3017,,Falkland Islands,Falkland Islands,,"248024"
+3018,,Iles Saint-Paul et Nouvelle-Amsterdam,French Southern and Antarctic Lands,,9a96a2
+3019,,Sud,New Caledonia,,a74c3b
+3020,,Îles Loyauté,New Caledonia,,e4a93f
+3021,http://en.wikipedia.org/wiki/%27Eua,Eua,Tonga,,9cb9ed
+3022,http://en.wikipedia.org/wiki/Rarotonga,Rarotonga,Cook Islands,,c8862f
+3023,http://en.wikipedia.org/wiki/Tongatapu,Tongatapu,Tonga,,"09d37c"
+3024,,Tafea,Vanuatu,,e5522f
+3025,http://en.wikipedia.org/wiki/Ha%27apai,Ha'apai,Tonga,,2bd235
+3026,http://en.wikipedia.org/wiki/Rodrigues,Rodrigues,Mauritius,,"0cdf61"
+3027,,Niue,Niue,,b922ed
+3028,,Western,Fiji,,7edfd5
+3029,,Central,Fiji,,a0ba26
+3030,,Shefa,Vanuatu,,"2d9566"
+3031,,Northern,Fiji,,"0cd60e"
+3032,,Malampa,Vanuatu,,8a5625
+3033,,Sanma,Vanuatu,,"272e11"
+3034,http://en.wikipedia.org/wiki/Niuas,Niuas,Tonga,,7b66e8
+3035,,Penama,Vanuatu,,"03bfc1"
+3036,"http://en.wikipedia.org/wiki/Western_District,_American_Samoa",Western,American Samoa,,4b86ca
+3037,"http://en.wikipedia.org/wiki/Eastern_District,_American_Samoa",Eastern,American Samoa,,10ce03
+3038,"http://en.wikipedia.org/wiki/Manu%27a_District,_American_Samoa",Manu's,American Samoa,,a92c27
+3039,,Torba,Vanuatu,,f0204e
+3040,http://en.wikipedia.org/wiki/Atua_(district),Atua,Samoa,,9023ef
+3041,http://en.wikipedia.org/wiki/Va%27a-o-Fonoti,Va'a-o-Fonoti,Samoa,,9922f5
+3042,http://en.wikipedia.org/wiki/Tuamasaga,Tuamasaga,Samoa,,3fd609
+3043,http://en.wikipedia.org/wiki/A%27ana,A'ana,Samoa,,fc325d
+3044,http://en.wikipedia.org/wiki/Aiga-i-le-Tai,Aiga-i-le-Tai,Samoa,,b8af7d
+3045,http://en.wikipedia.org/wiki/Wallis_Island,`Uvea,Wallis and Futuna,,"0ebf19"
+3046,,Rotuma,Fiji,,"975e61"
+3047,,Choiseul,Solomon Islands,,8e489b
+3048,,Peleliu,Palau,,5da713
+3049,,Koror,Palau,,4fa177
+3050,,Ngeremlengui,Palau,,ef72d5
+3051,,Ngatpang,Palau,,f0b1d5
+3052,,Aimeliik,Palau,,c1b70d
+3053,,Airai,Palau,,"177540"
+3054,,Ngchesar,Palau,,d9b165
+3055,,Melekeok,Palau,,2836be
+3056,,Ngiwal,Palau,,dc6e22
+3057,,Ngaraard,Palau,,c1502a
+3058,,Ngarchelong,Palau,,3f5ee2
+3059,,Ngardmau,Palau,,cc431f
+3060,http://en.wikipedia.org/wiki/Yap_State,Yap,Federated States of Micronesia,,"0a5c79"
+3061,,Guam,Guam,,4aa0e9
+3062,http://en.wikipedia.org/wiki/Rota_(island),Rota,Northern Mariana Islands,,1aa057
+3063,http://en.wikipedia.org/wiki/Tinian,Tinian,Northern Mariana Islands,,1bd4b2
+3064,http://en.wikipedia.org/wiki/Saipan,Saipan,Northern Mariana Islands,,494ba9
+3065,,Paracel Islands,China,,6fec24
+3066,http://en.wikipedia.org/wiki/Northern_Islands_Municipality,Northern Islands,Northern Mariana Islands,,d8ab1a
+3067,,Las Tunas,Cuba,,fedf67
+3068,http://en.wikipedia.org/wiki/Mayabeque_Province,Mayabeque,Cuba,,f54962
+3069,,Ciudad de la Habana,Cuba,,bdb692
+3070,http://en.wikipedia.org/wiki/Artemisa_Province,Artemisa,Cuba,,bb073f
+3071,,Pinar del Río,Cuba,,6917ff
+3072,,Cienfuegos,Cuba,,be7672
+3073,,Granma,Cuba,,c8cd63
+3074,,Santiago de Cuba,Cuba,,"639d79"
+3075,,Penghu,Taiwan,,a2186a
+3076,http://en.wikipedia.org/wiki/Al_Man%C4%81mah_Governorate,Al Manāmah,Bahrain,,b6e710
+3077,http://en.wikipedia.org/wiki/Ash_Sham%C4%81l%C4%AByah_Governorate,Ash Shamālīyah,Bahrain,,663fd3
+3078,http://en.wikipedia.org/wiki/Al_Jan%C5%ABb%C4%AByah_Governorate_(Bahrain),Al Janūbīyah,Bahrain,,"109166"
+3079,http://en.wikipedia.org/wiki/Al_Wus%C5%A3%C3%A1_Governorate_(Bahrain),Al Wusţá,Bahrain,,f44ee2
+3080,http://en.wikipedia.org/wiki/Prince_Edward_Island,Prince Edward Island,Canada,,a9986c
+3081,,Coral Sea Islands,Coral Sea Islands,,ce60ff
+3082,http://en.wikipedia.org/wiki/Mauke,Mauke,Cook Islands,,f14bc2
+3083,http://en.wikipedia.org/wiki/Atiu,Atiu,Cook Islands,,d3157f
+3084,http://en.wikipedia.org/wiki/Aitutaki,Aitutaki,Cook Islands,,1706f1
+3085,http://en.wikipedia.org/wiki/Rose_Atoll,Rose Atoll,American Samoa,,2bb050
+3086,http://en.wikipedia.org/wiki/Swains_Island,Swain's Island,American Samoa,,a081ca
+3087,http://en.wikipedia.org/wiki/Pukapuka,Pukapuka,Cook Islands,,78bc62
+3088,,Christmas Island,Indian Ocean Territories,,dc6a7e
+3089,http://en.wikipedia.org/wiki/Manihiki,Manihiki,Cook Islands,,ccd2e3
+3090,http://en.wikipedia.org/wiki/Rakahanga,Rakahanga,Cook Islands,,748d6b
+3091,,Tokelau,New Zealand,,"05b8ca"
+3092,,Jarvis Island,United States Minor Outlying Islands,,6ad417
+3093,,Baker Island,United States Minor Outlying Islands,,"8004d6"
+3094,,Howland Island,United States Minor Outlying Islands,,512fc3
+3095,,Laamu,Maldives,,4db0f8
+3096,,Thaa,Maldives,,60792d
+3097,,Dhaalu,Maldives,,3b5020
+3098,,Meemu,Maldives,,ada5e0
+3099,,Hatobohei,Palau,,b23f52
+3100,,Faafu,Maldives,,cc3d69
+3101,,Vaavu,Maldives,,62f91c
+3102,,,Colombia,,c5d925
+3103,,Malé,Maldives,,96629f
+3104,,Sonsorol,Palau,,75b9b6
+3105,,Noonu,Maldives,,"37e789"
+3106,,Haa Dhaalu,Maldives,,4aec1b
+3107,,Haa Alifu,Maldives,,1cfead
+3108,,Angaur,Palau,,ffbd6c
+3109,,Spratly Islands,Spratly Is.,,d4a897
+3110,,,Venezuela,,e9fb2e
+3111,,,Anguilla,,9e6a92
+3112,,Wake Atoll,United States Minor Outlying Islands,,87f4d7
+3113,http://en.wikipedia.org/wiki/Bimini,Bimini,The Bahamas,,532b7c
+3114,,Midway Islands,United States Minor Outlying Islands,,bbb001
+3115,http://en.wikipedia.org/wiki/Isles_of_Scilly,Isles of Scilly,United Kingdom,,366f0b
+3116,http://en.wikipedia.org/wiki/Palmerston_Island,Palmerston,Cook Islands,,58191d
+3117,,Clipperton Island,Clipperton Island,,8b313c
+3118,http://en.wikipedia.org/wiki/Saba,Saba,Netherlands,,f0031c
+3119,,Navassa Island,United States Minor Outlying Islands,,f42c7f
+3120,"http://en.wikipedia.org/wiki/Salt_Cay,_Turks_Islands",Salt Cay,Turks and Caicos Islands,,f231f2
+3121,,Macau,Macau S.A.R,,"097e26"
+3122,http://en.wikipedia.org/wiki/Ragged_Island_(Bahamas),Ragged Island,The Bahamas,,a2d10d
+3123,,Islands,Hong Kong S.A.R.,,2e0aca
+3124,,Southern,Hong Kong S.A.R.,,7c7833
+3125,,Central and Western,Hong Kong S.A.R.,,"019f8b"
+3126,,Wan Chai,Hong Kong S.A.R.,,9f8684
+3127,,Eastern,Hong Kong S.A.R.,,ca1d31
+3128,,Tsuen Wan,Hong Kong S.A.R.,,dff8e9
+3129,,,Mexico,,c6a014
+3130,,Tai Po,Hong Kong S.A.R.,,c922de
+3131,,Sha Tin,Hong Kong S.A.R.,,54fda7
+3132,,Sai Kung,Hong Kong S.A.R.,,fb2606
+3133,,Kwun Tong,Hong Kong S.A.R.,,"7221e5"
+3134,,Kowloon City,Hong Kong S.A.R.,,35937e
+3135,,Yau Tsim Mong,Hong Kong S.A.R.,,8b8388
+3136,,Sham Shui Po,Hong Kong S.A.R.,,2ecd2b
+3137,,Kwai Tsing,Hong Kong S.A.R.,,8c9a14
+3138,,Tuen Mun,Hong Kong S.A.R.,,86b207
+3139,,Yuen Long,Hong Kong S.A.R.,,e8bf0f
+3140,http://en.wikipedia.org/wiki/Lemland,Lemland,Sweden,,"747d34"
+3141,http://en.wikipedia.org/wiki/Br%C3%A4nd%C3%B6,Brändö,Sweden,,92a08b
+3142,,,Russia,,bd8528
+3143,,The Snares,New Zealand,,"0afa92"
+3144,,Southland,New Zealand,,a41b3b
+3145,,Marlborough District,New Zealand,,"116045"
+3146,,Nelson City,New Zealand,,5d4ae7
+3147,,Tasman District,New Zealand,,38ed16
+3148,,West Coast,New Zealand,,d87c68
+3149,,Otago,New Zealand,,32b3ee
+3150,,Canterbury,New Zealand,,77ee3b
+3151,,Auckland,New Zealand,,98c399
+3152,,Waikato,New Zealand,,32cbf6
+3153,,Three Kings Islands,New Zealand,,9aeade
+3154,,Wellington,New Zealand,,fdbd31
+3155,,Manawatu-Wanganui,New Zealand,,b22b25
+3156,,Taranaki,New Zealand,,"2227d7"
+3157,,Northland,New Zealand,,2b45e8
+3158,,Bay of Plenty,New Zealand,,55d99a
+3159,,Gisborne District,New Zealand,,99ef04
+3160,,Hawke's Bay,New Zealand,,9808ae
+3161,,Ashmore and Cartier Islands,Ashmore and Cartier Islands,,29539e
+3162,,Palmyra Atoll,United States Minor Outlying Islands,,d60678
+3163,,Kayangel,Palau,,6a4d59
+3164,,Lapu-Lapu,Philippines,,98b17f
+3165,http://en.wikipedia.org/wiki/Redonda,Redonda,Antigua and Barbuda,,b299ad
+3166,http://en.wikipedia.org/wiki/Harbour_Island_(Bahamas),Harbour Island,The Bahamas,,5e6d27
+3167,http://en.wikipedia.org/wiki/Spanish_Wells,Spanish Wells,The Bahamas,,20c86a
+3168,http://en.wikipedia.org/wiki/Al_Mu%E1%B8%A9arraq_Governorate,Al Muḩarraq,Bahrain,,ce3939
+3169,,Midlands,Zimbabwe,,7a98af
+3170,,Harare,Zimbabwe,,"73e508"
+3171,,Bulawayo,Zimbabwe,,976abf
+3172,,Ma'rib,Yemen,,e25cfa
+3173,,Sana'a,Yemen,,e8258e
+3174,,Raymah,Yemen,,45c166
+3175,,Al Bayda',Yemen,,ce47be
+3176,,Amran,Yemen,,59dfa2
+3177,,Al Dali',Yemen,,d36304
+3178,,Ibb,Yemen,,ba95d7
+3179,,Al Mahwit,Yemen,,91378b
+3180,,Dhamar,Yemen,,c20a7c
+3181,,Hòa Bình,Vietnam,,f4aa0d
+3182,,Tuyên Quang,Vietnam,,8051a3
+3183,,Yên Bái,Vietnam,,d98961
+3184,,Vĩnh Phúc,Vietnam,,3eb414
+3185,,Phú Thọ,Vietnam,,39ae2e
+3186,,Ha Noi,Vietnam,,3f4366
+3187,,Đông Bắc,Vietnam,,31c0c1
+3188,,Đồng Bằng Sông Hồng,Vietnam,,8d30aa
+3189,,Bắc Ninh,Vietnam,,8832ae
+3190,,Bắc Giang,Vietnam,,"07c4b1"
+3191,,Thái Nguyên,Vietnam,,f02355
+3192,,Hải Dương,Vietnam,,"766e42"
+3193,,Hà Nam,Vietnam,,68a975
+3194,,Bình Dương,Vietnam,,563ca5
+3195,,Lâm Đồng,Vietnam,,7f01c9
+3196,,Can Tho,Vietnam,,6c4bb4
+3197,,Tacuarembó,Uruguay,,"721e72"
+3198,,Durazno,Uruguay,,b08354
+3199,,Flores,Uruguay,,b59307
+3200,,Florida,Uruguay,,731ae3
+3201,,Lavalleja,Uruguay,,24ec84
+3202,,Guárico,Venezuela,,7486ce
+3203,,Cojedes,Venezuela,,799de6
+3204,,Distrito Capital,Venezuela,,"640258"
+3205,,Barinas,Venezuela,,9ef2ed
+3206,,Lara,Venezuela,,211ed7
+3207,,Portuguesa,Venezuela,,d77e68
+3208,,Poltava,Ukraine,,2ef248
+3209,,Khmel'nyts'kyy,Ukraine,,1271a7
+3210,,Ternopil',Ukraine,,"731309"
+3211,,Dnipropetrovs'k,Ukraine,,6b620a
+3212,,Cherkasy,Ukraine,,"0aae0f"
+3213,,Kirovohrad,Ukraine,,9bd5ee
+3214,,Siliana,Tunisia,,"89d440"
+3215,,Sidi Bou Zid,Tunisia,,e2eaca
+3216,,Kairouan,Tunisia,,133b37
+3217,,Zaghouan,Tunisia,,52edc4
+3218,,Bern,Switzerland,,b01693
+3219,,Lucerne,Switzerland,,94b5bd
+3220,,Zug,Switzerland,,5812f9
+3221,,Uri,Switzerland,,f5c150
+3222,,Schwyz,Switzerland,,687fd5
+3223,,Glarus,Switzerland,,df8397
+3224,,Nidwalden,Switzerland,,"0d352b"
+3225,,Fribourg,Switzerland,,6dfe08
+3226,,Obwalden,Switzerland,,907edb
+3227,,Pesnica,Slovenia,,aac615
+3228,,Duplek,Slovenia,,"040a99"
+3229,,Miklavž na Dravskem polju,Slovenia,,85ae75
+3230,,Hoce-Slivnica,Slovenia,,c12706
+3231,,Lenart,Slovenia,,c3d377
+3232,,Sveta Ana,Slovenia,,"12e086"
+3233,,Lovrenc na Pohorju,Slovenia,,b6d67a
+3234,,Ribnica na Pohorju,Slovenia,,c5658c
+3235,,Slovenj Gradec,Slovenia,,f87522
+3236,,Vuzenica,Slovenia,,ddcb15
+3237,,Chimbu,Papua New Guinea,,544a4f
+3238,,Enga,Papua New Guinea,,528aec
+3239,,Western Highlands,Papua New Guinea,,ae3539
+3240,,Southern Highlands,Papua New Guinea,,d15426
+3241,,Eastern Highlands,Papua New Guinea,,a64bd5
+3242,,Criuleni,Romania,,"032dd1"
+3243,,Străşeni,Romania,,38811c
+3244,,Anenii Noi,Romania,,88e1ce
+3245,,Orhei,Romania,,"0e1eba"
+3246,,Transnistria,Romania,,d309cd
+3247,,Chişinău,Romania,,ac4508
+3248,,Teleneşti,Romania,,c57abe
+3249,,Şoldăneşti,Romania,,"061323"
+3250,,Floreşti,Romania,,326fb0
+3251,,Rezina,Romania,,504c29
+3252,,Ialoveni,Romania,,1e3b21
+3253,,Bolu,Turkey,,4ad13f
+3254,,Ankara,Turkey,,8deb8d
+3255,,Bilecik,Turkey,,"2067e2"
+3256,,Eskisehir,Turkey,,2131f8
+3257,,Çankiri,Turkey,,4ea83d
+3258,http://en.wikipedia.org/wiki/Karab%C3%BCk_Province,Karabük,Turkey,,"485843"
+3259,,Jharkhand,India,,a87d27
+3260,,Delhi,India,,d54ce9
+3261,,Chandigarh,India,,95177e
+3262,,Madhya Pradesh,India,,8a50ba
+3263,http://en.wikipedia.org/wiki/Utah,Utah,United States of America,,f8037f
+3264,http://en.wikipedia.org/wiki/Wyoming,Wyoming,United States of America,,f0eaf5
+3265,http://en.wikipedia.org/wiki/Nevada,Nevada,United States of America,,f4334c
+3266,http://en.wikipedia.org/wiki/Colorado,Colorado,United States of America,,ac7300
+3267,http://en.wikipedia.org/wiki/South_Dakota,South Dakota,United States of America,,"073b00"
+3268,http://en.wikipedia.org/wiki/Nebraska,Nebraska,United States of America,,a4d92e
+3269,http://en.wikipedia.org/wiki/Kansas,Kansas,United States of America,,c91e34
+3270,http://en.wikipedia.org/wiki/Oklahoma,Oklahoma,United States of America,,3f7bcd
+3271,http://en.wikipedia.org/wiki/Iowa,Iowa,United States of America,,bfbb56
+3272,http://en.wikipedia.org/wiki/Missouri,Missouri,United States of America,,79514e
+3273,,Arima,Trinidad and Tobago,,9c8661
+3274,,Khon Kaen,Thailand,,2b323d
+3275,,Sakon Nakhon,Thailand,,52b738
+3276,,Suphan Buri,Thailand,,b58ac8
+3277,,Sing Buri,Thailand,,fd8c07
+3278,,Chai Nat,Thailand,,f50778
+3279,,Ang Thong,Thailand,,"706608"
+3280,,Saraburi,Thailand,,cc9657
+3281,,Nakhon Ratchasima,Thailand,,60a70b
+3282,,Nakhon Nayok,Thailand,,a495ee
+3283,,Pathum Thani,Thailand,,c81990
+3284,,Uthai Thani,Thailand,,c1d0f1
+3285,,Kalasin,Thailand,,72b386
+3286,,Roi Et,Thailand,,9ddb9d
+3287,,Maha Sarakham,Thailand,,946e3e
+3288,,Nong Bua Lam Phu,Thailand,,b98249
+3289,,Lop Buri,Thailand,,645e6b
+3290,,Udon Thani,Thailand,,3a30be
+3291,,Phra Nakhon Si Ayutthaya,Thailand,,980a87
+3292,,Nonthaburi,Thailand,,cfcce0
+3293,,Nakhon Pathom,Thailand,,ca3ec5
+3294,,Kamphaeng Phet,Thailand,,7a4303
+3295,,Lampang,Thailand,,d5d7f5
+3296,,Sukhothai,Thailand,,42cd63
+3297,,Nakhon Sawan,Thailand,,7a4bf9
+3298,,Phetchabun,Thailand,,fa8463
+3299,,Phichit,Thailand,,"737136"
+3300,,Chaiyaphum,Thailand,,63bfd6
+3301,,Phrae,Thailand,,8217bb
+3302,,Lamphun,Thailand,,6fab6e
+3303,,Prachin Buri,Thailand,,f24ad6
+3304,,Yasothon,Thailand,,"0e9d93"
+3305,,Ermera,East Timor,,b848ed
+3306,,Aileu,East Timor,,16fc18
+3307,,Nantou,Taiwan,,d7aab4
+3308,,Tokat,Turkey,,c4b43a
+3309,,Sivas,Turkey,,2b7b82
+3310,,Çorum,Turkey,,69386f
+3311,,Amasya,Turkey,,bdd881
+3312,,Morogoro,United Republic of Tanzania,,"334467"
+3313,,Dodoma,United Republic of Tanzania,,"090606"
+3314,,Manyara,United Republic of Tanzania,,c46482
+3315,,Semnan,Iran,,62dad6
+3316,,Zanjan,Iran,,8ce5d9
+3317,,Qazvin,Iran,,2c7589
+3318,,Taipei City,Taiwan,,831b1a
+3319,,Chiayi City,Taiwan,,8a1d69
+3320,,Hamah,Syria,,36ed19
+3321,,Preddvor,Slovenia,,3cfbdf
+3322,,Šenčur,Slovenia,,f7cfdd
+3323,,Cerklje na Gorenjskem,Slovenia,,a4351b
+3324,,Kamnik,Slovenia,,3ce6d3
+3325,,Medvode,Slovenia,,"936824"
+3326,,Kranj,Slovenia,,dba132
+3327,,Škofja Loka,Slovenia,,20b02d
+3328,,Železniki,Slovenia,,e94fe9
+3329,,Bohinj,Slovenia,,ac8cd1
+3330,,Naklo,Slovenia,,"299696"
+3331,,Radovljica,Slovenia,,"0a2a51"
+3332,,Šoštanj,Slovenia,,b0ab42
+3333,,Ljubno,Slovenia,,2be9bd
+3334,,Luce,Slovenia,,"331316"
+3335,,Lukovica,Slovenia,,59a3ad
+3336,,Benedikt,Slovenia,,98bd65
+3337,,Laško,Slovenia,,a4fa71
+3338,,Dobje,Slovenia,,2de7cf
+3339,,Ruše,Slovenia,,7ba069
+3340,,Vodice,Slovenia,,f47122
+3341,,Komenda,Slovenia,,acf06c
+3342,,Mengeš,Slovenia,,14491b
+3343,,Vrhnika,Slovenia,,21c5bb
+3344,,Horjul,Slovenia,,"308320"
+3345,,Cerkvenjak,Slovenia,,38a77a
+3346,,Trzin,Slovenia,,"0655f1"
+3347,http://en.wikipedia.org/wiki/Murska_Sobota,Puconci,Slovenia,,1a04f9
+3348,,Grad,Slovenia,,333cb7
+3349,,Murska Sobota,Slovenia,,69f268
+3350,,Sveti Andraž v Slovenskih Goricah,Slovenia,,b7ee0d
+3351,,Brezovica,Slovenia,,"0b6ace"
+3352,,Dobrova-Polhov Gradec,Slovenia,,"0987b8"
+3353,,Gorenja vas-Poljane,Slovenia,,8b9e7a
+3354,,Logatec,Slovenia,,d2cd33
+3355,,Trnovska vas,Slovenia,,ca793d
+3356,,Destrnik,Slovenia,,a36b59
+3357,,Race-Fram,Slovenia,,"0cd6a6"
+3358,,Starše,Slovenia,,"971086"
+3359,,Vransko,Slovenia,,82b063
+3360,,Velenje,Slovenia,,75df63
+3361,,Polzela,Slovenia,,"8d9766"
+3362,,Šmartno ob Paki,Slovenia,,39cd7b
+3363,,Mozirje,Slovenia,,664dd8
+3364,,Vitanje,Slovenia,,8a1ee9
+3365,,Vojnik,Slovenia,,b445e3
+3366,,Zrece,Slovenia,,"07f75d"
+3367,,Mislinja,Slovenia,,"0e7e05"
+3368,,Zasavska,Slovenia,,165a59
+3369,,Litija,Slovenia,,dda99d
+3370,,Gornji Grad,Slovenia,,900c56
+3371,,Cerknica,Slovenia,,285da2
+3372,,Velike Lašče,Slovenia,,37d0b4
+3373,,Borovnica,Slovenia,,"0084ae"
+3374,,Postojna,Slovenia,,6c3491
+3375,,Pivka,Slovenia,,9b9b05
+3376,,Dobrna,Slovenia,,"14e422"
+3377,,Celje,Slovenia,,a9b4ec
+3378,,Nazarje,Slovenia,,2e2c08
+3379,,Domžale,Slovenia,,"888555"
+3380,,Ivancna Gorica,Slovenia,,f2bff0
+3381,,Ljubljana,Slovenia,,6e1665
+3382,,Šmartno in Litiji,Slovenia,,29ddbd
+3383,,Ig,Slovenia,,"0668e2"
+3384,,Dol pri Ljubljani,Slovenia,,"251775"
+3385,,Prebold,Slovenia,,131f38
+3386,,Moravce,Slovenia,,31ca0c
+3387,,Appenzell Ausserrhoden,Switzerland,,4a1165
+3388,,Appenzell Innerrhoden,Switzerland,,621fbd
+3389,,Västmanland,Sweden,,8643c8
+3390,,Jönköping,Sweden,,8ed36a
+3391,,Orebro,Sweden,,dbb422
+3392,,Kronoberg,Sweden,,6463c8
+3393,,Para,Suriname,,477b02
+3394,,Brokopondo,Suriname,,e8a642
+3395,,Gezira,Sudan,,"828752"
+3396,,Khartoum,Sudan,,818de4
+3397,,North Kordufan,Sudan,,5c8098
+3398,,Lakes,S. Sudan,,384bab
+3399,,Warrap,S. Sudan,,57f04b
+3400,,Zaragoza,Spain,,e945de
+3401,,La Rioja,Spain,,7fcc48
+3402,,Álava,Spain,,91d0db
+3403,,Albacete,Spain,,898dd8
+3404,,Teruel,Spain,,c6b8c8
+3405,,Cuenca,Spain,,be1bc7
+3406,,Toledo,Spain,,32fdab
+3407,,León,Spain,,dab490
+3408,,Soria,Spain,,734e6b
+3409,,Burgos,Spain,,20125f
+3410,,Ávila,Spain,,c6f798
+3411,,Gauteng,South Africa,,2fd0fd
+3412,,Dobrepolje,Slovenia,,90f1f4
+3413,,Radece,Slovenia,,30192e
+3414,,Štore,Slovenia,,63a776
+3415,,Slovenske Konjice,Slovenia,,f6d9e4
+3416,,Žiri,Slovenia,,1fffeb
+3417,,Oplotnica,Slovenia,,471c50
+3418,,Cerkno,Slovenia,,d594b1
+3419,,Bled,Slovenia,,4a5335
+3420,,Ajdovščina,Slovenia,,643de7
+3421,,Divaca,Slovenia,,e846fb
+3422,,Idrija,Slovenia,,73640d
+3423,,Vipava,Slovenia,,3d324c
+3424,,Bloke,Slovenia,,71a5c0
+3425,,Šentjur pri Celju,Slovenia,,"072116"
+3426,,Kozje,Slovenia,,5d2c2c
+3427,,Šmarje pri Jelšah,Slovenia,,"5421e0"
+3428,,Sevnica,Slovenia,,"4500e4"
+3429,,Mirna Pec,Slovenia,,caa202
+3430,,Trebnje,Slovenia,,2d2c83
+3431,,Žužemberk,Slovenia,,84c2d4
+3432,,Turnišče,Slovenia,,"720079"
+3433,,Radenci,Slovenia,,a91af1
+3434,,Sveti Jurij,Slovenia,,14c879
+3435,,Velika Polana,Slovenia,,5b970a
+3436,,Beltinci,Slovenia,,61f258
+3437,,Veržej,Slovenia,,c2f325
+3438,,Odranci,Slovenia,,f34185
+3439,,Diourbel,Senegal,,4fa91c
+3440,,Ar Riyad,Saudi Arabia,,7de321
+3441,,Al Quassim,Saudi Arabia,,b20043
+3442,,Ha'il,Saudi Arabia,,586f9b
+3443,,Al Bahah,Saudi Arabia,,12092a
+3444,,Cluj,Romania,,758be1
+3445,,Bistrita-Nasaud,Romania,,"09ba3f"
+3446,,Salaj,Romania,,5b4a21
+3447,,Dâmbovita,Romania,,2e1b24
+3448,,Ilfov,Romania,,c5bbd9
+3449,,Arges,Romania,,86a179
+3450,,Gorj,Romania,,"703957"
+3451,,Hunedoara,Romania,,de7f47
+3452,,Vâlcea,Romania,,66121d
+3453,,Prahova,Romania,,f35635
+3454,,Covasna,Romania,,5abdf8
+3455,,Vrancea,Romania,,"473447"
+3456,,Buzau,Romania,,def792
+3457,,Brasov,Romania,,e1fc9c
+3458,,Sibiu,Romania,,e3ea33
+3459,,Mures,Romania,,"13d638"
+3460,,Harghita,Romania,,"565031"
+3461,,Neamt,Romania,,7e8d7e
+3462,,Bacau,Romania,,9edda0
+3463,,Alba,Romania,,73c031
+3464,,Grosuplje,Slovenia,,51e6d6
+3465,,Škofljica,Slovenia,,"797134"
+3466,,Hrastnik,Slovenia,,"606555"
+3467,,Žalec,Slovenia,,2a2717
+3468,,Trbovlje,Slovenia,,322f62
+3469,,Braslovce,Slovenia,,ca851e
+3470,,Tabor,Slovenia,,73fed7
+3471,,Krsko,Slovenia,,"735143"
+3472,,Hajdina,Slovenia,,"297478"
+3473,,Ptuj,Slovenia,,99be9f
+3474,,Majšperk,Slovenia,,e91068
+3475,,Slovenska Bistrica,Slovenia,,d38ee1
+3476,,Markovci,Slovenia,,ddcbe2
+3477,,Kidricevo,Slovenia,,"6d6968"
+3478,,Dornava,Slovenia,,b071cf
+3479,,Križevci,Slovenia,,6950aa
+3480,,Juršinci,Slovenia,,e8e0dd
+3481,,Semic,Slovenia,,3fb049
+3482,,Dolenjske Toplice,Slovenia,,b7fede
+3483,,Sodražica,Slovenia,,cb953f
+3484,,Ribnica,Slovenia,,966b6d
+3485,,Škocjan,Slovenia,,dfeb95
+3486,,Nišavski,Republic of Serbia,,ab4f2b
+3487,,Pomoravski,Republic of Serbia,,944a5a
+3488,,Šumadijski,Republic of Serbia,,c7b90b
+3489,,Moravicki,Republic of Serbia,,1b3181
+3490,,Kolubarski,Republic of Serbia,,72f67e
+3491,,Oppland,Norway,,6c9172
+3492,http://en.wikipedia.org/wiki/Kuala_Lumpur,Kuala Lumpur,Malaysia,,"0060ef"
+3493,http://en.wikipedia.org/wiki/Putrajaya,Putrajaya,Malaysia,,ba036d
+3494,,Dowa,Malawi,,6dbd26
+3495,,Balaka,Malawi,,8485ae
+3496,,Chiradzulu,Malawi,,"0a348e"
+3497,,Blantyre,Malawi,,7535bb
+3498,,Ntchisi,Malawi,,fd9dcf
+3499,,Kauno,Lithuania,,3ea2db
+3500,,Valverde,Dominican Republic,,e2065c
+3501,,Santiago Rodríguez,Dominican Republic,,d49402
+3502,,La Vega,Dominican Republic,,d2350a
+3503,,Hermanas,Dominican Republic,,87f7ee
+3504,,Duarte,Dominican Republic,,73231e
+3505,,Santiago,Dominican Republic,,2a3d6d
+3506,,Bahoruco,Dominican Republic,,e01264
+3507,,San Juan,Dominican Republic,,"0e7c7d"
+3508,,Naxçıvan,Azerbaijan,,7d2be4
+3509,,Şuşa,Azerbaijan,,"0141a8"
+3510,,Xocalı,Azerbaijan,,"15e122"
+3511,,Şuşa,Azerbaijan,,9a85c1
+3512,,Ağdam,Azerbaijan,,"0dbb3f"
+3513,,Tərtər,Azerbaijan,,"0ffaca"
+3514,,Goranboy,Azerbaijan,,"728825"
+3515,,Xocavənd,Azerbaijan,,5fef3e
+3516,,Hajigabul,Azerbaijan,,cf1cf4
+3517,,Abşeron,Azerbaijan,,b5b0db
+3518,,Xanlar,Azerbaijan,,5401ac
+3519,,Kürdəmir,Azerbaijan,,1fd7b8
+3520,,Zərdab,Azerbaijan,,6c0958
+3521,,Sabirabad,Azerbaijan,,98afdc
+3522,,Shirvan,Azerbaijan,,ee14c4
+3523,,Kamuli,Uganda,,"939314"
+3524,,Luuka,Uganda,,a9de09
+3525,,Buyende,Uganda,,da9e6a
+3526,,Jinja,Uganda,,"0e4f5c"
+3527,,Apac,Uganda,,b87470
+3528,,Nakasongola,Uganda,,ead81f
+3529,,Masindi,Uganda,,9bdb8b
+3530,,Kayunga,Uganda,,30a0b7
+3531,,Luweero,Uganda,,e52ad5
+3532,,Amolatar,Uganda,,afab3e
+3533,,Mityana,Uganda,,5a9d8b
+3534,,Kiboga,Uganda,,aa97d5
+3535,,Mpigi,Uganda,,b99d19
+3536,,Butambala,Uganda,,"291d43"
+3537,,Gomba,Uganda,,"416849"
+3538,,Wakiso,Uganda,,"1458e7"
+3539,,Nakaseke,Uganda,,142c65
+3540,,Kyankwanzi,Uganda,,8844c5
+3541,,Kaberamaido,Uganda,,c5f5c2
+3542,,Dokolo,Uganda,,"8487e0"
+3543,,Kyenjojo,Uganda,,196f56
+3544,,Kamwenge,Uganda,,147ebe
+3545,,Kyegegwa,Uganda,,"06ee4c"
+3546,,Sembabule,Uganda,,a8166d
+3547,,Kibale,Uganda,,e6ba70
+3548,,Mubende,Uganda,,50cf07
+3549,,Braila,Romania,,db98dc
+3550,,Ialomita,Romania,,"018dd1"
+3551,,Umm Salal,Qatar,,abdeb6
+3552,,Viseu,Portugal,,7c220a
+3553,http://en.wikipedia.org/wiki/Agusan_del_Sur,Agusan del Sur,Philippines,,e250c5
+3554,http://en.wikipedia.org/wiki/Bukidnon,Bukidnon,Philippines,,69b091
+3555,http://en.wikipedia.org/wiki/Cotabato,Cotabato,Philippines,,22b1cd
+3556,http://en.wikipedia.org/wiki/South_Cotabato,South Cotabato,Philippines,,656f0d
+3557,,Cusco,Peru,,51da85
+3558,,Ayacucho,Peru,,285a25
+3559,,Apurímac,Peru,,f11bec
+3560,,Huancavelica,Peru,,"0ae1dd"
+3561,,San Martín,Peru,,414a74
+3562,,Huánuco,Peru,,ebf12c
+3563,,Pasco,Peru,,d04d42
+3564,,Junín,Peru,,"05edf4"
+3565,,San Pedro,Paraguay,,e6e713
+3566,,Caaguazú,Paraguay,,6346dc
+3567,,Cordillera,Paraguay,,dccab9
+3568,,Caazapá,Paraguay,,5481b2
+3569,http://en.wikipedia.org/wiki/Paraguar%C3%AD_Department,Paraguarí,Paraguay,,77c493
+3570,,Guairá,Paraguay,,43b528
+3571,,F.C.T.,Pakistan,,f8f516
+3572,,Matagalpa,Nicaragua,,"842424"
+3573,,Boaco,Nicaragua,,8baca0
+3574,,Chontales,Nicaragua,,1b9f38
+3575,,Estelí,Nicaragua,,c9f06b
+3576,,Granada,Nicaragua,,3f647c
+3577,,Masaya,Nicaragua,,3e77a1
+3578,,Flevoland,Netherlands,,252a3d
+3579,,Utrecht,Netherlands,,"0d441d"
+3580,,Fès - Boulemane,Morocco,,630b7d
+3581,,Tadla - Azilal,Morocco,,67606d
+3582,,Mojkovac,Montenegro,,9d684c
+3583,,Cetinje,Montenegro,,69eba3
+3584,,Šavnik,Montenegro,,"565767"
+3585,,Kolašin,Montenegro,,2668a7
+3586,,Danilovgrad,Montenegro,,224e5e
+3587,,Călărași,Romania,,aba53d
+3588,,Drochia,Romania,,c2964c
+3589,,Sîngerei,Romania,,a385d7
+3590,,Bălţi,Romania,,da6ea7
+3591,,Analamanga,Madagascar,,9001ca
+3592,,Betsiboka,Madagascar,,69f357
+3593,,Bongolava,Madagascar,,cdd050
+3594,,Vakinankaratra,Madagascar,,dce8af
+3595,,Amoron'i Mania,Madagascar,,c0e851
+3596,,Alaotra-Mangoro,Madagascar,,52c409
+3597,,Smiltenes,Latvia,,b89c30
+3598,,Balvu,Latvia,,6a4504
+3599,,Strencu,Latvia,,e7e69c
+3600,,Beverinas,Latvia,,"8d7628"
+3601,,Burtnieku,Latvia,,62e7f2
+3602,,Kocenu,Latvia,,228b25
+3603,,Rezeknes,Latvia,,6a8018
+3604,,Vecpiebalgas,Latvia,,c254e7
+3605,,Raunas,Latvia,,a05d88
+3606,,Priekulu,Latvia,,774b0e
+3607,,Pargaujas,Latvia,,"967990"
+3608,,Krimuldas,Latvia,,60a057
+3609,,Gulbene,Latvia,,649a06
+3610,,Rugaju,Latvia,,f95ec3
+3611,,Jaunpiebalgas,Latvia,,4cf33e
+3612,,Aglonas,Latvia,,d87ca5
+3613,,Riebinu,Latvia,,c4fa7a
+3614,,Vilanu,Latvia,,6add07
+3615,,Babites,Latvia,,d8c9d0
+3616,,Garkalnes,Latvia,,78d69f
+3617,,Kekavas,Latvia,,db6851
+3618,,Marupes,Latvia,,4da9d7
+3619,,Olaines,Latvia,,"820e69"
+3620,,Salaspils,Latvia,,4baf54
+3621,,Stopinu,Latvia,,c5b270
+3622,,Sejas,Latvia,,856b50
+3623,,Malpils,Latvia,,ecdcd6
+3624,,Siguldas,Latvia,,5ee007
+3625,,Madona,Latvia,,dd7970
+3626,,Lubanas,Latvia,,"0ee8b8"
+3627,,Varaklanu,Latvia,,2bf283
+3628,,Amatas,Latvia,,3e524b
+3629,,Erglu,Latvia,,1305f6
+3630,,Cesvaines,Latvia,,1a5518
+3631,,Ogre,Latvia,,fd4c2d
+3632,,Ropazu,Latvia,,"398475"
+3633,,Ikskiles,Latvia,,acf922
+3634,,Baldones,Latvia,,e2eaba
+3635,,Keguma,Latvia,,a098b2
+3636,,Iecavas,Latvia,,48042b
+3637,,Plavinu,Latvia,,cae82d
+3638,,Kokneses,Latvia,,895daa
+3639,,Aizkraukles,Latvia,,ba304f
+3640,,Skriveru,Latvia,,4f11b5
+3641,,Lielvardes,Latvia,,22c5a9
+3642,,Jaunjelgavas,Latvia,,"300d15"
+3643,,Preilu,Latvia,,7ae11a
+3644,,Livanu,Latvia,,8a0572
+3645,,Varkavas,Latvia,,d0aa51
+3646,,Jekabpils,Latvia,,b5a1d9
+3647,,Krustpils,Latvia,,"0d8080"
+3648,,Salas,Latvia,,cff02a
+3649,,Aizputes,Latvia,,49c0fa
+3650,,Kuldigas,Latvia,,45cef8
+3651,,Alsungas,Latvia,,c203e4
+3652,,Skrundas,Latvia,,e1021d
+3653,,Kandavas,Latvia,,2da6cc
+3654,,Tukums,Latvia,,cf8811
+3655,,Dobele,Latvia,,310cc7
+3656,,Jaunpils,Latvia,,14678d
+3657,,Brocenu,Latvia,,a22d33
+3658,,Ozolnieku,Latvia,,30a237
+3659,,Bishkek,Kyrgyzstan,,"07845c"
+3660,,Al Farwaniyah,Kuwait,,9627c4
+3661,,Orahovac,Kosovo,,e76181
+3662,,Srbica,Kosovo,,2b346a
+3663,,Klina,Kosovo,,ddf902
+3664,,Kosovska Mitrovica,Kosovo,,b67fb3
+3665,,Glogovac,Kosovo,,"691584"
+3666,,Mališevo,Kosovo,,1ea97d
+3667,,Nairobi,Kenya,,f095ce
+3668,,Central,Kenya,,1d2a48
+3669,,Ajlun,Jordan,,e1228b
+3670,,Jarash,Jordan,,77ec6f
+3671,,Gunma,Japan,,54ebdf
+3672,,Nagano,Japan,,f3c89b
+3673,,Tochigi,Japan,,740a02
+3674,,Gifu,Japan,,f35fd5
+3675,,Shiga,Japan,,845f3c
+3676,,Saitama,Japan,,"113383"
+3677,,Yamanashi,Japan,,"71d723"
+3678,,Nara,Japan,,2151b4
+3679,,Haut-Sassandra,Ivory Coast,,74791e
+3680,,Agnéby,Ivory Coast,,2122c6
+3681,,N'zi-Comoé,Ivory Coast,,9426c3
+3682,,Marahoué,Ivory Coast,,898aef
+3683,,Fromager,Ivory Coast,,acb5d1
+3684,,Vallée du Bandama,Ivory Coast,,c90e27
+3685,,Lacs,Ivory Coast,,55a0df
+3686,,Worodougou,Ivory Coast,,dc7271
+3687,,Kildare,Ireland,,"6754e0"
+3688,,Carlow,Ireland,,d88006
+3689,,Laoighis,Ireland,,39ea40
+3690,http://en.wikipedia.org/wiki/South_Dublin,South Dublin,Ireland,,"781397"
+3691,,Offaly,Ireland,,8abfe8
+3692,,Westmeath,Ireland,,"882735"
+3693,,Longford,Ireland,,f23d12
+3694,,Roscommon,Ireland,,4b26dc
+3695,,North Tipperary,Ireland,,af1b57
+3696,,South Tipperary,Ireland,,95c9d9
+3697,,Waterford,Ireland,,"0b105c"
+3698,,Limerick,Ireland,,943aa0
+3699,,Comayagua,Honduras,,a18630
+3700,,Yoro,Honduras,,f92586
+3701,,Francisco Morazán,Honduras,,b181ea
+3702,,Kissidougou,Guinea,,a92873
+3703,,Kérouané,Guinea,,7d2a38
+3704,,Télimélé,Guinea,,9308b0
+3705,,Lélouma,Guinea,,2cfa37
+3706,,Dalaba,Guinea,,4764f3
+3707,,Labé,Guinea,,2ad9e5
+3708,,Pita,Guinea,,34ffeb
+3709,,Kouroussa,Guinea,,56db57
+3710,,Fria,Guinea,,"550571"
+3711,,Chimaltenango,Guatemala,,aba187
+3712,,Sacatepéquez,Guatemala,,87ae6f
+3713,,Guatemala,Guatemala,,"7553e9"
+3714,,Jalapa,Guatemala,,e36286
+3715,,El Progreso,Guatemala,,d2d2c6
+3716,,Sololá,Guatemala,,1b32a0
+3717,,Quezaltenango,Guatemala,,240c94
+3718,,Baja Verapaz,Guatemala,,9d068c
+3719,,Totonicapán,Guatemala,,9e740b
+3720,,Ashanti,Ghana,,532b81
+3721,,Eastern,Ghana,,9e4069
+3722,,Hessen,Germany,,56e6a9
+3723,,Thüringen,Germany,,afa299
+3724,,Provinz Sachsen,Germany,,4172f3
+3725,,Berlin,Germany,,94ef72
+3726,,Moyen-Ogooué,Gabon,,9fe77a
+3727,,Rapla,Estonia,,d3802b
+3728,,Järva,Estonia,,460b49
+3729,,Anseba,Eritrea,,cb16b8
+3730,,Cuscatlán,El Salvador,,d8c24c
+3731,,San Salvador,El Salvador,,7ec3b3
+3732,,Al Qahirah,Egypt,,ee23e7
+3733,,Al Jizah,Egypt,,64d52e
+3734,,Al Minya,Egypt,,9d752c
+3735,,Al Fayyum,Egypt,,dc0c39
+3736,,Bani Suwayf,Egypt,,3e195b
+3737,,Al Minufiyah,Egypt,,3db11d
+3738,,Al Qalyubiyah,Egypt,,"167384"
+3739,,Al Gharbiyah,Egypt,,20885c
+3740,,Suhaj,Egypt,,33ef70
+3741,,Qina,Egypt,,63ce12
+3742,,Asyut,Egypt,,1f72e2
+3743,,Azuay,Ecuador,,"0937fb"
+3744,,Cañar,Ecuador,,56517f
+3745,,Napo,Ecuador,,6d3a2d
+3746,,Tungurahua,Ecuador,,e8542a
+3747,,Chimborazo,Ecuador,,d8847b
+3748,,Bolivar,Ecuador,,aaaccd
+3749,,Imbabura,Ecuador,,f9beb1
+3750,,Cotopaxi,Ecuador,,685ac8
+3751,,Los Rios,Ecuador,,21ce68
+3752,,Pichincha,Ecuador,,48df7b
+3753,http://en.wikipedia.org/wiki/Santo_Domingo_de_los_Tsachilas,Santo Domingo de los Tsáchilas,Ecuador,,"258e13"
+3754,,Monseñor Nouel,Dominican Republic,,2e3d2c
+3755,,Sánchez Ramírez,Dominican Republic,,cd3bbc
+3756,,San José de Ocoa,Dominican Republic,,91f9fe
+3757,,Monte Plata,Dominican Republic,,b4affa
+3758,,Bjelovarsko-bilogorska,Croatia,,3df07f
+3759,,Grad Zagreb,Croatia,,cbf22a
+3760,,Brodsko-Posavska,Croatia,,27e8e1
+3761,,San José,Costa Rica,,"092cb1"
+3762,,Cartago,Costa Rica,,9332c5
+3763,,Caquetá,Colombia,,7ba6d3
+3764,,Huila,Colombia,,"641d77"
+3765,,Guaviare,Colombia,,211a7a
+3766,,Caldas,Colombia,,79cae1
+3767,,Casanare,Colombia,,d74cb3
+3768,,Meta,Colombia,,"28d437"
+3769,,Bogota,Colombia,,"4625d8"
+3770,,Santander,Colombia,,7f6caf
+3771,,Tolima,Colombia,,201e5b
+3772,,Quindío,Colombia,,83ddfb
+3773,,Cundinamarca,Colombia,,5c151c
+3774,,Risaralda,Colombia,,73f104
+3775,,Beijing,China,,f2b93c
+3776,,Kasaï-Oriental,Democratic Republic of the Congo,,2119b8
+3777,,Maniema,Democratic Republic of the Congo,,add7a0
+3778,,Sichuan,China,,cab070
+3779,,Chongqing,China,,8ce87b
+3780,,Guizhou,China,,3569df
+3781,,Hunan,China,,9fc664
+3782,,Ningxia,China,,f87e95
+3783,,Shaanxi,China,,1aa3d9
+3784,,Qinghai,China,,e16e74
+3785,,Shanxi,China,,44feb0
+3786,,Jiangxi,China,,34306d
+3787,,Henan,China,,f31752
+3788,,Hubei,China,,deb74a
+3789,,Anhui,China,,335d3d
+3790,http://en.wikipedia.org/wiki/Bahr_el_Gazel_Region,Barh El Gazel,Chad,,e73fec
+3791,,Tandjilé,Chad,,690bb3
+3792,,Logone Occidental,Chad,,4ecb67
+3793,,Guéra,Chad,,c15729
+3794,,Batha,Chad,,"916d38"
+3795,,Ouest,Cameroon,,42547f
+3796,,Centre,Cameroon,,41c542
+3797,,Kâmpóng Chhnang,Cambodia,,"360729"
+3798,,Kâmpóng Thum,Cambodia,,c82836
+3799,,Kâmpóng Spœ,Cambodia,,58521e
+3800,,Phnom Penh,Cambodia,,63c659
+3801,,Goiás,Brazil,,"953236"
+3802,,Distrito Federal,Brazil,,d3614f
+3803,,Minas Gerais,Brazil,,e97399
+3804,,Tocantins,Brazil,,37968a
+3805,,Kweneng,Botswana,,98cac9
+3806,http://en.wikipedia.org/wiki/Gaborone,Gaborone,Botswana,,5e7264
+3807,http://en.wikipedia.org/wiki/Jwaneng,Jwaneng,Botswana,,43a115
+3808,,Cochabamba,Bolivia,,cd8d52
+3809,,Chirang,Bhutan,,38ef4b
+3810,,Wangdi Phodrang,Bhutan,,"02ae6a"
+3811,,Daga,Bhutan,,8068fe
+3812,,Punakha,Bhutan,,40dba6
+3813,,Mongar,Bhutan,,"0a49e3"
+3814,,Tongsa,Bhutan,,c563c2
+3815,,Pemagatsel,Bhutan,,"143758"
+3816,http://en.wikipedia.org/wiki/Minsk_Region,Minsk,Belarus,,c91124
+3817,,Saint George,Barbados,,fa6c94
+3818,,Saint Thomas,Barbados,,b99469
+3819,,Saatlı,Azerbaijan,,eb1848
+3820,,Bərdə,Azerbaijan,,91e50f
+3821,,Şəmkir,Azerbaijan,,c04c19
+3822,,Ağsu,Azerbaijan,,"0e5709"
+3823,,Nana-Grébizi,Central African Republic,,bca382
+3824,,Şamaxı,Azerbaijan,,"679742"
+3825,,Quba,Azerbaijan,,c24fe9
+3826,,Ucar,Azerbaijan,,a292f1
+3827,,Qobustan,Azerbaijan,,b5b8c4
+3828,,İsmayıllı,Azerbaijan,,46d3f6
+3829,,Yevlakh Rayon,Azerbaijan,,b7d085
+3830,,Gəncə,Azerbaijan,,fcde14
+3831,,Mingəçevir,Azerbaijan,,cac8e1
+3832,,Göyçay,Azerbaijan,,ea9268
+3833,,Ağdaş,Azerbaijan,,65b1e9
+3834,,Ağcabədi,Azerbaijan,,243be2
+3835,,Australian Capital Territory,Australia,,1c66f4
+3836,,Wien,Austria,,6e2eec
+3837,,Kotayk,Armenia,,a6ade5
+3838,,Erevan,Armenia,,f26df6
+3839,,Santa Fe,Argentina,,9b2f00
+3840,,Tucumán,Argentina,,dfa037
+3841,,Santiago del Estero,Argentina,,7da18d
+3842,,San Luis,Argentina,,7fa215
+3843,,La Pampa,Argentina,,9eac16
+3844,,Córdoba,Argentina,,494c08
+3845,,Bié,Angola,,c6d644
+3846,,Cuanza Norte,Angola,,6236c7
+3847,,Huíla,Angola,,a3048e
+3848,,Huambo,Angola,,42c893
+3849,,Sétif,Algeria,,4f5a97
+3850,,Bordj Bou Arréridj,Algeria,,f550e0
+3851,,Bouira,Algeria,,dc0439
+3852,,Blida,Algeria,,"582967"
+3853,,Tissemsilt,Algeria,,b9f358
+3854,,Aïn Defla,Algeria,,31c0b3
+3855,,Relizane,Algeria,,d58f85
+3856,,El Bayadh,Algeria,,4c2e5e
+3857,,Saïda,Algeria,,f269cb
+3858,,Sidi Bel Abbès,Algeria,,50dd71
+3859,,Mascara,Algeria,,"7171e9"
+3860,,Ghardaïa,Algeria,,5a5eab
+3861,,Laghouat,Algeria,,a6197a
+3862,,Médéa,Algeria,,533fa7
+3863,,Tiaret,Algeria,,c4d2ce
+3864,,M'Sila,Algeria,,4f8bc5
+3865,,Batna,Algeria,,"866d90"
+3866,,Khenchela,Algeria,,a9df22
+3867,,Guelma,Algeria,,8e54d6
+3868,,Constantine,Algeria,,70162f
+3869,,Mila,Algeria,,2c620a
+3870,,Oum el Bouaghi,Algeria,,c255c0
+3871,,Biskra,Algeria,,551cb2
+3872,,Djelfa,Algeria,,d35b05
+3873,,Berat,Albania,,db346c
+3874,,Uruzgan,Afghanistan,,2ed80f
+3875,,Ghazni,Afghanistan,,ccc81a
+3876,,Parwan,Afghanistan,,834a3b
+3877,,Kabul,Afghanistan,,8d9a6e
+3878,,Laghman,Afghanistan,,"9854d7"
+3879,,Logar,Afghanistan,,cc58f7
+3880,,Kapisa,Afghanistan,,"0dd1bc"
+3881,,Wardak,Afghanistan,,a1c5af
+3882,,Bamyan,Afghanistan,,df42e2
+3883,,Parwan,Afghanistan,,51f3eb
+3884,,Sari Pul,Afghanistan,,8dcf24
+3885,,Ghor,Afghanistan,,311abb
+3886,,Baghlan,Afghanistan,,5db60c
+3887,,Samangan,Afghanistan,,9649de
+3888,,Uruzgan,Afghanistan,,97250e
+3889,,Oyam,Uganda,,86098e
+3890,,Lira,Uganda,,cbfe56
+3891,,Kole,Uganda,,c2c2a0
+3892,,Pader,Uganda,,fb0650
+3893,,Ibanda,Uganda,,e8d663
+3894,,Mbarara,Uganda,,5c8e07
+3895,,Gulu,Uganda,,ee1884
+3896,,Kiryandongo,Uganda,,4175f2
+3897,,Iganga,Uganda,,b957d4
+3898,,Lwengo,Uganda,,37db6b
+3899,,Bukomansimbi,Uganda,,fd5ac6
+3900,,Kalungu,Uganda,,4837ba
+3901,,Kampala,Uganda,,4fc848
+3902,,Kaliro,Uganda,,1517c8
+3903,,Agago,Uganda,,9d949c
+3904,,Kotido,Uganda,,c09f9c
+3905,,Abim,Uganda,,63154d
+3906,,Otuke,Uganda,,e593c5
+3907,,Alebtong,Uganda,,3341f6
+3908,,Amuria,Uganda,,"576d02"
+3909,,Katakwi,Uganda,,4175a4
+3910,,Serere,Uganda,,1be883
+3911,,Soroti,Uganda,,1bf50a
+3912,,Pallisa,Uganda,,27b587
+3913,,Mbarara,Uganda,,b085c4
+3914,,Lyantonde,Uganda,,b85d65
+3915,,Masaka,Uganda,,39539f
+3916,,North Lanarkshire,United Kingdom,,49cbb7
+3917,,East Dunbartonshire,United Kingdom,,4d95d0
+3918,,Glasgow,United Kingdom,,859b00
+3919,,East Renfrewshire,United Kingdom,,5fc7c9
+3920,,East Ayrshire,United Kingdom,,d6525a
+3921,,South Lanarkshire,United Kingdom,,9b8f07
+3922,,Magherafelt,United Kingdom,,d90e5b
+3923,,Omagh,United Kingdom,,97f081
+3924,,Mid Ulster,United Kingdom,,943b5f
+3925,,Craigavon,United Kingdom,,1340cc
+3926,,Banbridge,United Kingdom,,4fc28b
+3927,,Antrim,United Kingdom,,d2dc63
+3928,,Lisburn,United Kingdom,,"1597d2"
+3929,,Ballymoney,United Kingdom,,79f692
+3930,,Ballymena,United Kingdom,,679d8b
+3931,,Castlereagh,United Kingdom,,acff1a
+3932,,Stockton-on-Tees,United Kingdom,,c56a02
+3933,,Darlington,United Kingdom,,298f58
+3934,,Middlesbrough,United Kingdom,,f8f122
+3935,,Gateshead,United Kingdom,,13e36f
+3936,,Newcastle upon Tyne,United Kingdom,,70fc5f
+3937,,York,United Kingdom,,"394868"
+3938,,Merseyside,United Kingdom,,74c407
+3939,,Hertfordshire,United Kingdom,,e5afb0
+3940,,Cambridgeshire,United Kingdom,,3fa146
+3941,,Milton Keynes,United Kingdom,,29e1c5
+3942,,Buckinghamshire,United Kingdom,,ec36e2
+3943,,Luton,United Kingdom,,da21ba
+3944,,Central Bedfordshire,United Kingdom,,f9fe83
+3945,,Bedford,United Kingdom,,c3810d
+3946,,Rutland,United Kingdom,,71a8b2
+3947,,Northamptonshire,United Kingdom,,da4f21
+3948,,Peterborough,United Kingdom,,6df182
+3949,,Doncaster,United Kingdom,,2e5c2c
+3950,,Cheshire East,United Kingdom,,bb7024
+3951,,Rotherham,United Kingdom,,7f278a
+3952,,Sheffield,United Kingdom,,af8d9c
+3953,,Telford and Wrekin,United Kingdom,,b928fe
+3954,,Staffordshire,United Kingdom,,6e2d5d
+3955,,Worcestershire,United Kingdom,,3f900d
+3956,,Warwickshire,United Kingdom,,"0f3c5d"
+3957,,Oxfordshire,United Kingdom,,86c516
+3958,,Wigan,United Kingdom,,bf5cd8
+3959,,Stockport,United Kingdom,,"806d92"
+3960,,Warrington,United Kingdom,,ac52c6
+3961,,West Berkshire,United Kingdom,,"24e018"
+3962,,Wokingham,United Kingdom,,6f6111
+3963,,Bracknell Forest,United Kingdom,,f51238
+3964,,Royal Borough of Windsor and Maidenhead,United Kingdom,,dd50e4
+3965,,Slough,United Kingdom,,db9ad5
+3966,,Reading,United Kingdom,,"43d762"
+3967,,Surrey,United Kingdom,,b607ba
+3968,,Blackburn with Darwen,United Kingdom,,"0cbed4"
+3969,,Swindon,United Kingdom,,f81dee
+3970,,Wiltshire,United Kingdom,,11bcd3
+3971,,Calderdale,United Kingdom,,cba0a4
+3972,,Kirklees,United Kingdom,,f2e84d
+3973,,Mukono,Uganda,,"678004"
+3974,,Buikwe,Uganda,,9a32ff
+3975,,Nakapiripirit,Uganda,,4f5a9b
+3976,,Kween,Uganda,,2ba3c4
+3977,,Buhweju,Uganda,,7d571e
+3978,,Sheema,Uganda,,a8badd
+3979,,Mitooma,Uganda,,a58616
+3980,,Bushenyi,Uganda,,9425be
+3981,,Bulambuli,Uganda,,1bda4c
+3982,,Sironko,Uganda,,a0443c
+3983,,Bugiri,Uganda,,5e4450
+3984,,Nwoya,Uganda,,7059b7
+3985,,Mbale,Uganda,,"0c2f66"
+3986,,Budaka,Uganda,,"540393"
+3987,,Butaleja,Uganda,,4f9c76
+3988,,Kibuku,Uganda,,bbbe7e
+3989,,Napak,Uganda,,6516c2
+3990,,Kumi,Uganda,,"761293"
+3991,,Ngora,Uganda,,dfbd28
+3992,,Bukedea,Uganda,,"0de5d1"
+3993,,Namutumba,Uganda,,c12d1f
+3994,,Kütahya,Turkey,,adf8d7
+3995,,Konya,Turkey,,d464b5
+3996,,Karaman,Turkey,,43e04d
+3997,,Nigde,Turkey,,abec16
+3998,,Kayseri,Turkey,,74306e
+3999,,Isparta,Turkey,,9cf742
+4000,,Manisa,Turkey,,1bd69c
+4001,,Denizli,Turkey,,ffc581
+4002,,Burdur,Turkey,,254ed7
+4003,,Aksaray,Turkey,,3ce83f
+4004,,Nevsehir,Turkey,,f8eb27
+4005,,Yozgat,Turkey,,f23b3d
+4006,,Kirsehir,Turkey,,671d8d
+4007,,Usak,Turkey,,ab8df9
+4008,,Erzincan,Turkey,,21b568
+4009,,Tunceli,Turkey,,cb5f98
+4010,,Afyonkarahisar,Turkey,,6693a7
+4011,,Kinkkale,Turkey,,b14680
+4012,http://en.wikipedia.org/wiki/Kahramanmara%C5%9F_Province,K. Maras,Turkey,,bd3ef5
+4013,,Mus,Turkey,,fbfe5b
+4014,,Erzurum,Turkey,,1cdf14
+4015,,Malatya,Turkey,,"587524"
+4016,,Elazig,Turkey,,f04cd7
+4017,,Bitlis,Turkey,,621c09
+4018,,Bingöl,Turkey,,455cb2
+4019,,Abia,Nigeria,,7fc63f
+4020,,Ebonyi,Nigeria,,"119226"
+4021,,Anambra,Nigeria,,aec851
+4022,,Edo,Nigeria,,d5ff13
+4023,,Bauchi,Nigeria,,4e4777
+4024,,Plateau,Nigeria,,31b91e
+4025,,Nassarawa,Nigeria,,1625ab
+4026,,Gombe,Nigeria,,c952ce
+4027,,Enugu,Nigeria,,ac4e7a
+4028,,Kogi,Nigeria,,a09e75
+4029,,Osun,Nigeria,,"015e31"
+4030,,Imo,Nigeria,,"084a8a"
+4031,http://en.wikipedia.org/wiki/Osmaniye_Province,Osmaniye,Turkey,,3be021
+4032,,Adiyaman,Turkey,,3cc578
+4033,,Diyarbakir,Turkey,,c0c783
+4034,,Batman,Turkey,,7f5fc7
+4035,,Siirt,Turkey,,4f81b1
+4036,,Bayburt,Turkey,,5b5e6c
+4037,,Gümüshane,Turkey,,d360a5
+4038,,Singida,United Republic of Tanzania,,"565778"
+4039,,Tabora,United Republic of Tanzania,,1cd73b
+4040,,Iringa,United Republic of Tanzania,,ca4b33
+4041,,Mwanza,United Republic of Tanzania,,da0b56
+4042,,Simiyu,United Republic of Tanzania,,d3f5d4
+4043,,Geita,United Republic of Tanzania,,8fb134
+4044,,Shinyanga,United Republic of Tanzania,,df5354
+4045,,Ratnapura,Sri Lanka,,ee0e95
+4046,,Mŏṇarāgala,Sri Lanka,,354ac3
+4047,,Kægalla,Sri Lanka,,e366d1
+4048,,Badulla,Sri Lanka,,5901fe
+4049,,Mātale,Sri Lanka,,89a477
+4050,,Pŏḷŏnnaruva,Sri Lanka,,"385822"
+4051,,Kuruṇægala,Sri Lanka,,3e33b9
+4052,,Anurādhapura,Sri Lanka,,90525e
+4053,,Nuvara Ĕliya,Sri Lanka,,9565f1
+4054,,Vavuniyāva,Sri Lanka,,"5487e7"
+4055,,Mahanuvara,Sri Lanka,,8d6a06
+4056,,Bay,Somalia,,9529fb
+4057,,Bashkortostan,Russia,,4b04b0
+4058,,Sverdlovsk,Russia,,"813341"
+4059,,Khanty-Mansiy,Russia,,75806e
+4060,,Lipetsk,Russia,,ab2481
+4061,,Tambov,Russia,,f3a3a6
+4062,,Tomsk,Russia,,a76da3
+4063,,Tatarstan,Russia,,"7d9766"
+4064,,Ul'yanovsk,Russia,,8430b3
+4065,,Penza,Russia,,5463b5
+4066,,Kemerovo,Russia,,a19883
+4067,,Orel,Russia,,e951cc
+4068,,Irkutsk,Russia,,"237554"
+4069,,Khakass,Russia,,fb4c48
+4070,,Mordovia,Russia,,d01eec
+4071,,Kaluga,Russia,,fa8dbb
+4072,,Kostroma,Russia,,27669f
+4073,,Yaroslavl',Russia,,350a37
+4074,,Vladimir,Russia,,"0f9caf"
+4075,,Ryazan',Russia,,e3b212
+4076,,Ivanovo,Russia,,a3147b
+4077,,Nizhegorod,Russia,,ec0f40
+4078,,Tula,Russia,,ad6847
+4079,http://en.wikipedia.org/wiki/Seoul,Seoul,South Korea,,9c9f13
+4080,http://en.wikipedia.org/wiki/Daejeon,Daejeon,South Korea,,3b9be7
+4081,http://en.wikipedia.org/wiki/Sejong_City,Sejong,South Korea,,486c82
+4082,http://en.wikipedia.org/wiki/North_Chungcheong_Province,North Chungcheong,South Korea,,"02bf86"
+4083,http://en.wikipedia.org/wiki/Gwangju,Gwangju,South Korea,,e1b903
+4084,http://en.wikipedia.org/wiki/Daegu,Daegu,South Korea,,7ac71d
+4085,,Chuvash,Russia,,fc7615
+4086,,Vologda,Russia,,46123e
+4087,,Novgorod,Russia,,d2a2c1
+4088,,Tver',Russia,,73c140
+4089,,Moskovskaya,Russia,,be93cc
+4090,,Moskva,Russia,,ae31ee
+4091,,Mariy-El,Russia,,"06f2e0"
+4092,,Kirov,Russia,,77340c
+4093,,Udmurt,Russia,,"101951"
+4094,,Komi,Russia,,64c53a
+4095,,Perm',Russia,,"3983e1"
+4096,,Samara,Russia,,f7efa4
+4097,,Stavropol',Russia,,da0b1b
+4098,,Adygey,Russia,,eca89c
+4099,,Masovian,Poland,,68897f
+4100,,Łódź,Poland,,a3ec6d
+4101,,Kuyavian-Pomeranian,Poland,,6abcc8
+4102,,Greater Poland,Poland,,9ca8c9
+4103,,Świętokrzyskie,Poland,,5e02b8
+4104,,Muntinlupa,Philippines,,e910a6
+4105,,Caloocan,Philippines,,"771439"
+4106,,Malabon,Philippines,,4ca976
+4107,,Valenzuela,Philippines,,"229760"
+4108,,Quezon City,Philippines,,b2b7c5
+4109,http://en.wikipedia.org/wiki/Nueva_Ecija,Nueva Ecija,Philippines,,6f6705
+4110,http://en.wikipedia.org/wiki/Laguna_(province),Laguna,Philippines,,c42f89
+4111,http://en.wikipedia.org/wiki/Rizal,Rizal,Philippines,,64f07f
+4112,,Taguig,Philippines,,fdeea6
+4113,,Marikina,Philippines,,4ee78d
+4114,,Pasig,Philippines,,ab24cd
+4115,http://en.wikipedia.org/wiki/Quirino,Quirino,Philippines,,a5ff5d
+4116,http://en.wikipedia.org/wiki/Santiago_City,Santiago,Philippines,,1e8ca8
+4117,http://en.wikipedia.org/wiki/Nueva_Vizcaya,Nueva Vizcaya,Philippines,,c1aeb6
+4118,http://en.wikipedia.org/wiki/Benguet,Benguet,Philippines,,de3c1a
+4119,http://en.wikipedia.org/wiki/Ifugao,Ifugao,Philippines,,1b69eb
+4120,http://en.wikipedia.org/wiki/Mountain_Province,Mountain Province,Philippines,,b98670
+4121,http://en.wikipedia.org/wiki/Tarlac,Tarlac,Philippines,,c79ec5
+4122,http://en.wikipedia.org/wiki/Apayao,Apayao,Philippines,,6098ed
+4123,http://en.wikipedia.org/wiki/Kalinga,Kalinga,Philippines,,92fde8
+4124,http://en.wikipedia.org/wiki/Abra_(province),Abra,Philippines,,7dc333
+4125,,Ad Dakhliyah,Oman,,5bf8aa
+4126,,Ekiti,Nigeria,,84f74c
+4127,,Kaduna,Nigeria,,ca8a2d
+4128,,Kano,Nigeria,,770c0e
+4129,,Federal Capital Territory,Nigeria,,7a6a61
+4130,,P'yŏngyang,North Korea,,c929f2
+4131,,Khomas,Namibia,,"0314c9"
+4132,,Oshana,Namibia,,a4d8e2
+4133,,Oshikoto,Namibia,,b2330f
+4134,,Darhan-Uul,Mongolia,,a6a767
+4135,,Töv,Mongolia,,46fc94
+4136,,Arhangay,Mongolia,,93da57
+4137,,Orhon,Mongolia,,6734fa
+4138,,Dundgovi,Mongolia,,88479e
+4139,,Övörhangay,Mongolia,,"440924"
+4140,,Govĭ-Sümber,Mongolia,,4f05d4
+4141,,México,Mexico,,5eb13c
+4142,,Puebla,Mexico,,"0777ac"
+4143,,Morelos,Mexico,,6195f4
+4144,,Querétaro,Mexico,,605ac7
+4145,,Hidalgo,Mexico,,a655fb
+4146,,Guanajuato,Mexico,,109f91
+4147,,San Luis Potosí,Mexico,,d714d2
+4148,,Zacatecas,Mexico,,810dfb
+4149,,Aguascalientes,Mexico,,2d199f
+4150,,Durango,Mexico,,8b5c84
+4151,,Ulaanbaatar,Mongolia,,9f60ab
+4152,,Tlaxcala,Mexico,,26ff6f
+4153,,Distrito Federal,Mexico,,37588c
+4154,,Tagant,Mauritania,,bd22c2
+4155,,Želino,Macedonia,,18a904
+4156,,Brvenica,Macedonia,,bba6bc
+4157,,Brod,Macedonia,,b83730
+4158,,Oslomej,Macedonia,,3e3aa6
+4159,,Sopište,Macedonia,,ecf563
+4160,,Karpoš,Macedonia,,f816dc
+4161,,Šuto Orizari,Macedonia,,174f8f
+4162,,Butel,Macedonia,,56c51a
+4163,,Čair,Macedonia,,60495b
+4164,,Centar,Macedonia,,"861578"
+4165,,Zajas,Macedonia,,a7f0d2
+4166,,Dolneni,Macedonia,,65ae45
+4167,,Krivogaštani,Macedonia,,e03845
+4168,,Mogila,Macedonia,,e46bc0
+4169,,Čaška,Macedonia,,"219289"
+4170,,Rosoman,Macedonia,,adc8ca
+4171,,Negotino,Macedonia,,1bd36c
+4172,,Drugovo,Macedonia,,8ce1a4
+4173,,Gazi Baba,Macedonia,,2130eb
+4174,,Kruševo,Macedonia,,f69041
+4175,,Demir Hisar,Macedonia,,97008e
+4176,,Aerodrom,Macedonia,,16d11e
+4177,,Studeničani,Macedonia,,13b919
+4178,,Kisela Voda,Macedonia,,"155841"
+4179,,Probištip,Macedonia,,91f573
+4180,,Češinovo-Obleševo,Macedonia,,96b250
+4181,,Aračinovo,Macedonia,,e25445
+4182,,Zelenikovo,Macedonia,,13e5eb
+4183,,Kičevo,Macedonia,,217f5e
+4184,,Plasnica,Macedonia,,de043a
+4185,,Vraneštica,Macedonia,,b207f5
+4186,,Skopje,Macedonia,,"0ab922"
+4187,,Lozovo,Macedonia,,22cf8d
+4188,,Sveti Nikole,Macedonia,,c76db1
+4189,,Gradsko,Macedonia,,"09e765"
+4190,,Kratovo,Macedonia,,77cdfc
+4191,,Ilinden,Macedonia,,331cc2
+4192,,Karbinci,Macedonia,,cd474f
+4193,,Štip,Macedonia,,"377028"
+4194,,Kočani,Macedonia,,99296a
+4195,,Zrnovci,Macedonia,,a5e308
+4196,,Veles,Macedonia,,"0fd4b8"
+4197,,Demir Kapija,Macedonia,,2bce32
+4198,,Vinica,Macedonia,,"0b0b09"
+4199,,Bosilovo,Macedonia,,e0c7cc
+4200,,Radoviš,Macedonia,,86dba8
+4201,,Vasilevo,Macedonia,,"0530e2"
+4202,,Konče,Macedonia,,7d265a
+4203,,Al Jifarah,Libya,,7e0529
+4204,,Mizdah,Libya,,"333588"
+4205,,Al Jufrah,Libya,,22785d
+4206,,Sabha,Libya,,769ac3
+4207,,Wadi al Hayaa,Libya,,d7b76e
+4208,,Aqmola,Kazakhstan,,4a71e4
+4209,,Qaraghandy,Kazakhstan,,"590494"
+4210,,Baghdad,Iraq,,ef3561
+4211,,Babil,Iraq,,e3b0ab
+4212,,Al-Qādisiyyah,Iraq,,44b422
+4213,,Dhi-Qar,Iraq,,872dd3
+4214,,Karbala',Iraq,,76c538
+4215,,Markazi,Iran,,1d54c7
+4216,,Esfahan,Iran,,bd853b
+4217,,Chahar Mahall and Bakhtiari,Iran,,"8196e8"
+4218,,Kohgiluyeh and Buyer Ahmad,Iran,,d278df
+4219,,Fars,Iran,,d4b40e
+4220,,Kerman,Iran,,35d02f
+4221,,Hamadan,Iran,,74d90a
+4222,,Lorestan,Iran,,"04115e"
+4223,,Yazd,Iran,,f42a37
+4224,,Qom,Iran,,"690d83"
+4225,,Tehran,Iran,,d0ac1e
+4226,http://en.wikipedia.org/wiki/Alborz_Province,Alborz,Iran,,82edc5
+4227,,Chhattisgarh,India,,aafd83
+4228,,Haryana,India,,e464f7
+4229,,Telangana,India,,5dcd0d
+4230,http://en.wikipedia.org/wiki/J%C3%A1sz-Nagykun-Szolnok_County,Jász-Nagykun-Szolnok,Hungary,,c0e19c
+4231,http://en.wikipedia.org/wiki/Fej%C3%A9r_County,Fejér,Hungary,,dd1016
+4232,http://en.wikipedia.org/wiki/Veszpr%C3%A9m_County,Veszprém,Hungary,,3b2415
+4233,http://en.wikipedia.org/wiki/Tolna_County,Tolna,Hungary,,"472572"
+4234,http://en.wikipedia.org/wiki/Szolnok,Szolnok,Hungary,,fd45eb
+4235,http://en.wikipedia.org/wiki/Budapest,Budapest,Hungary,,8ccfb1
+4236,http://en.wikipedia.org/wiki/%C3%89rd,Érd,Hungary,,"70d521"
+4237,http://en.wikipedia.org/wiki/Heves_County,Heves,Hungary,,5d151d
+4238,http://en.wikipedia.org/wiki/Eger,Eger,Hungary,,d40e0a
+4239,http://en.wikipedia.org/wiki/Miskolc,Miskolc,Hungary,,887a18
+4240,http://en.wikipedia.org/wiki/H%C3%B3dmez%C5%91v%C3%A1s%C3%A1rhely,Hódmezôvásárhely,Hungary,,fd272f
+4241,http://en.wikipedia.org/wiki/Duna%C3%BAjv%C3%A1ros,Dunaújváros,Hungary,,28f724
+4242,http://en.wikipedia.org/wiki/Kecskem%C3%A9t,Kecskemét,Hungary,,fe7ecc
+4243,http://en.wikipedia.org/wiki/Tatab%C3%A1nya,Tatabánya,Hungary,,5edc4f
+4244,,Tbilisi,Georgia,,7369f3
+4245,,Imereti,Georgia,,e54659
+4246,http://en.wikipedia.org/wiki/Northern_Savonia,Northern Savonia,Finland,,69295f
+4247,http://en.wikipedia.org/wiki/Southern_Savonia,Southern Savonia,Finland,,f40ee6
+4248,http://en.wikipedia.org/wiki/Central_Finland,Central Finland,Finland,,5f245e
+4249,http://en.wikipedia.org/wiki/Southern_Ostrobothnia,Southern Ostrobothnia,Finland,,8c26d2
+4250,http://en.wikipedia.org/wiki/Pirkanmaa,Pirkanmaa,Finland,,fcac69
+4251,http://en.wikipedia.org/wiki/Tavastia_Proper,Tavastia Proper,Finland,,608b30
+4252,http://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4me,Päijät-Häme,Finland,,7bfa32
+4253,,Dire Dawa,Ethiopia,,6a182a
+4254,,Addis Ababa,Ethiopia,,29c0c0
+4255,,Harari People,Ethiopia,,87db7e
+4256,,Gitega,Burundi,,ec99dd
+4257,,Muramvya,Burundi,,c5e1ab
+4258,,Mwaro,Burundi,,be3ac6
+4259,,Karuzi,Burundi,,"094bb6"
+4260,,Balé,Burkina Faso,,5101a4
+4261,,Sanguié,Burkina Faso,,13384f
+4262,,Tuy,Burkina Faso,,5d0cb1
+4263,,Bougouriba,Burkina Faso,,33dd6d
+4264,,Mou Houn,Burkina Faso,,dc49df
+4265,,Kouritenga,Burkina Faso,,53c5b2
+4266,,Ganzourgou,Burkina Faso,,"0e139b"
+4267,,Zoundwéogo,Burkina Faso,,fb8e51
+4268,,Ziro,Burkina Faso,,f0f6cc
+4269,,Boulkiemdé,Burkina Faso,,bedc71
+4270,,Kadiogo,Burkina Faso,,39b8f7
+4271,,Oubritenga,Burkina Faso,,"05128e"
+4272,,Gourma,Burkina Faso,,34609b
+4273,,Gnagna,Burkina Faso,,b1b0ef
+4274,,Bazéga,Burkina Faso,,ddf88e
+4275,,Kourwéogo,Burkina Faso,,eaa1da
+4276,,Nayala,Burkina Faso,,9fe4e1
+4277,,Passoré,Burkina Faso,,18a010
+4278,,Zondoma,Burkina Faso,,"97e484"
+4279,,Namentenga,Burkina Faso,,120ca8
+4280,,Sanmatenga,Burkina Faso,,55603a
+4281,,Bam,Burkina Faso,,a73280
+4282,,Magway,Myanmar,,f60ce0
+4283,,Mandalay,Myanmar,,3e1953
+4284,,Plovdiv,Bulgaria,,41b0db
+4285,,Stara Zagora,Bulgaria,,63cb52
+4286,,Sliven,Bulgaria,,fa612b
+4287,,Shumen,Bulgaria,,ccb421
+4288,,Razgrad,Bulgaria,,7ec12a
+4289,,Targovishte,Bulgaria,,2b8f62
+4290,,Gabrovo,Bulgaria,,27584e
+4291,,Pazardzhik,Bulgaria,,"148d41"
+4292,,Lovech,Bulgaria,,8d8f73
+4293,,Grad Sofiya,Bulgaria,,7d62a2
+4294,,Kigali City,Rwanda,,"11d867"
+4295,,Amanat Al Asimah,Yemen,,a57d48
+4296,http://en.wikipedia.org/wiki/Wisconsin,Wisconsin,United States of America,,beda24
+4297,http://en.wikipedia.org/wiki/Illinois,Illinois,United States of America,,30cde8
+4298,http://en.wikipedia.org/wiki/Kentucky,Kentucky,United States of America,,5dd3e4
+4299,http://en.wikipedia.org/wiki/Arkansas,Arkansas,United States of America,,cabad3
+4300,http://en.wikipedia.org/wiki/Tennessee,Tennessee,United States of America,,acf666
+4301,http://en.wikipedia.org/wiki/West_Virginia,West Virginia,United States of America,,"147540"
+4302,http://en.wikipedia.org/wiki/Indiana,Indiana,United States of America,,b90ba8
+4303,http://en.wikipedia.org/wiki/Vyso%C4%8Dina_Region,Vysočina,Czechoslovakia,,b052e2
+4304,http://en.wikipedia.org/wiki/Central_Bohemian_Region,Středočeský,Czechoslovakia,,7e889f
+4305,http://en.wikipedia.org/wiki/Prague,Prague,Czechoslovakia,,d6cf4d
+4306,http://en.wikipedia.org/wiki/Minsk,City of Minsk,Belarus,,b035d6
+4307,,Kiev City,Ukraine,,38087d
+4308,http://en.wikipedia.org/wiki/Tashkent,Tashkent,Uzbekistan,,8cb94e
+4309,http://en.wikipedia.org/wiki/Almaty,Almaty City,Kazakhstan,,f2b5e9
+4310,,Astana,Kazakhstan,,c96c08
+4311,http://en.wikipedia.org/wiki/Stepanakert,Stepanakert,Azerbaijan,,a787f0
+4312,http://en.wikipedia.org/wiki/Damascus,Damascus,Syria,,27d8d4
+4313,,Bucharest,Romania,,"7716d0"
+4314,,Jelgava,Latvia,,2bf7e9
+4315,,Daugavpils,Latvia,,"8526e0"
+4316,,Rezekne,Latvia,,9a86d5
+4317,http://en.wikipedia.org/wiki/Niamey,Niamey,Niger,,d290dc
+4318,http://en.wikipedia.org/wiki/Bamako_Capital_District,Bamako,Mali,,3e6ad8
+4319,http://en.wikipedia.org/wiki/Andorra_la_Vella,Andorra la Vella,Andorra,,8e1ad7
+4320,http://en.wikipedia.org/wiki/Gy%C5%91r,Gyôr,Hungary,,e0640c
+4321,http://en.wikipedia.org/wiki/Szombathely,Szombathely,Hungary,,d93591
+4322,http://en.wikipedia.org/wiki/Zalaegerszeg,Zalaegerszeg,Hungary,,31a262
+4323,http://en.wikipedia.org/wiki/Nagykanizsa,Nagykanizsa,Hungary,,b5b1d9
+4324,http://en.wikipedia.org/wiki/Veszpr%C3%A9m,Veszprém,Hungary,,f569c3
+4325,http://en.wikipedia.org/wiki/Kaposv%C3%A1r,Kaposvár,Hungary,,d3e8fc
+4326,http://en.wikipedia.org/wiki/P%C3%A9cs,Pécs,Hungary,,"903356"
+4327,http://en.wikipedia.org/wiki/Szeksz%C3%A1rd,Szekszárd,Hungary,,ce016f
+4328,http://en.wikipedia.org/wiki/Sz%C3%A9kesfeh%C3%A9rv%C3%A1r,Székesfehérvár,Hungary,,"134377"
+4329,http://en.wikipedia.org/wiki/B%C3%A9k%C3%A9scsaba,Békéscsaba,Hungary,,2c7f9c
+4330,http://en.wikipedia.org/wiki/Debrecen,Debrecen,Hungary,,"0d5bd0"
+4331,http://en.wikipedia.org/wiki/Ny%C3%ADregyh%C3%A1za,Nyíregyháza,Hungary,,c64473
+4332,http://en.wikipedia.org/wiki/Buada_District,Buada,Nauru,,f2c3b2
+4333,http://en.wikipedia.org/wiki/S%C3%A3o_Salvador_do_Mundo,São Salvador do Mundo,Cape Verde,,40ccca
+4334,http://en.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o_dos_%C3%93rg%C3%A3os,São Lourenço dos Órgãos,Cape Verde,,da6cb3
+4335,"http://en.wikipedia.org/wiki/George_Hill,_Anguilla",George Hill,Anguilla,,f16769
+4336,"http://en.wikipedia.org/wiki/The_Quarter,_Anguilla",The Quarter,Anguilla,,"672d30"
+4337,,Yevlakh,Azerbaijan,,583cf6
+4338,,City of Saint George,Bermuda,,a54620
+4339,,Wong Tai Sin,Hong Kong S.A.R.,,feade1
+4340,http://en.wikipedia.org/wiki/Moka_District,Moka,Mauritius,,61f3a6
+4341,http://en.wikipedia.org/wiki/Plaines_Wilhems_District,Plaines Wilhems,Mauritius,,f291e1
+4342,http://en.wikipedia.org/wiki/Beau_Bassin-Rose_Hill,Beau Bassin-Rose Hill,Mauritius,,1f5e7f
+4343,http://en.wikipedia.org/wiki/Port_Louis_District,Port Louis,Mauritius,,2000f6
+4344,http://en.wikipedia.org/wiki/Quatre_Bornes,Quatre Bornes,Mauritius,,3c7417
+4345,http://en.wikipedia.org/wiki/Vacoas-Phoenix,Vacoas-Phoenix,Mauritius,,e8aac0
+4346,http://en.wikipedia.org/wiki/Curepipe,Curepipe,Mauritius,,e02a35
+4347,,Mont Buxton,Seychelles,,64b3ec
+4348,,Saint Louis,Seychelles,,"475d66"
+4349,,Les Mamelles,Seychelles,,a6d5ab
+4350,,Enna,Italy,,244edd
+4351,,Benevento,Italy,,d8a4e5
+4352,,Asti,Italy,,b8599b
+4353,,Bergamo,Italy,,48a79b
+4354,,Brescia,Italy,,"46d067"
+4355,,Cremona,Italy,,8710ef
+4356,,Mantova,Italy,,a8ef19
+4357,,Milano,Italy,,"167434"
+4358,,Lecco,Italy,,e8432f
+4359,,Monza e Brianza,Italy,,961b27
+4360,,Lodi,Italy,,b74084
+4361,,Siena,Italy,,9c72e0
+4362,,Arezzo,Italy,,52c670
+4363,,Firenze,Italy,,c0a62e
+4364,,Vercelli,Italy,,977b33
+4365,,Pavia,Italy,,d3e0f2
+4366,,Rieti,Italy,,db209d
+4367,,Novara,Italy,,"1138d9"
+4368,,Alessandria,Italy,,ae0909
+4369,,Trento,Italy,,665d5c
+4370,,Vicenza,Italy,,9ee70b
+4371,,Verona,Italy,,"1377e2"
+4372,,Treviso,Italy,,1e51e0
+4373,,Piacenza,Italy,,a11880
+4374,,Parma,Italy,,526c32
+4375,,Reggio Emilia,Italy,,f06ae0
+4376,,Modena,Italy,,789a28
+4377,,Bologna,Italy,,8f04ac
+4378,,Pistoia,Italy,,50a074
+4379,,Terni,Italy,,1f187c
+4380,,Perugia,Italy,,2b1905
+4381,,Frosinone,Italy,,d2e9dd
+4382,,Avellino,Italy,,9bab73
+4383,,L'Aquila,Italy,,6de4bf
+4384,,Pordenone,Italy,,12e59a
+4385,,Isernia,Italy,,65f148
+4386,,Biella,Italy,,4bb948
+4387,,Prato,Italy,,6b4e2b
+4388,,Gers,France,,"473803"
+4389,,Haute-Vienne,France,,"0d2768"
+4390,,Corrèze,France,,8fc983
+4391,,Tarn-et-Garonne,France,,41bcfd
+4392,,Tarn,France,,"086af6"
+4393,,Isère,France,,"03593c"
+4394,,Drôme,France,,"096d3a"
+4395,,Aveyron,France,,f016f2
+4396,,Lot,France,,b4aa00
+4397,,Indre-et-Loire,France,,402b07
+4398,,Indre,France,,9dee60
+4399,,Loir-et-Cher,France,,bdbca2
+4400,,Creuse,France,,3ce3bd
+4401,,Mayenne,France,,"212060"
+4402,,Sarthe,France,,"194852"
+4403,,Vaucluse,France,,702caf
+4404,,Haute-Marne,France,,3d8e03
+4405,,Marne,France,,bd470c
+4406,,Dordogne,France,,ae87a5
+4407,,Rhône,France,,"0307fe"
+4408,,Vosges,France,,c793b3
+4409,,Ardèche,France,,d1f44e
+4410,,Loire,France,,ea96ef
+4411,,Puy-de-Dôme,France,,e243aa
+4412,,Allier,France,,6cf821
+4413,,Loiret,France,,aa36c8
+4414,,Maine-et-Loire,France,,9d740b
+4415,,Aube,France,,2bf5e2
+4416,,Paris,France,,1da546
+4417,,Hauts-de-Seine,France,,dc2208
+4418,,Seine-Saint-Denis,France,,3bcf6e
+4419,,Val-d'Oise,France,,65a99b
+4420,,Yvelines,France,,fc8fdb
+4421,,Charente,France,,12ced2
+4422,,Cher,France,,d71f51
+4423,,Eure-et-Loir,France,,b4df9f
+4424,,Haute-Loire,France,,83451e
+4425,,Cantal,France,,a4d41b
+4426,,Lot-et-Garonne,France,,125c0e
+4427,,Lozère,France,,1d8d70
+4428,,Nièvre,France,,1f9b61
+4429,,Côte-d'Or,France,,"0bd65e"
+4430,,Oise,France,,ce052e
+4431,,Orne,France,,1713a2
+4432,,Haute-Saône,France,,da94cb
+4433,,Saône-et-Loire,France,,60e1de
+4434,,Deux-Sèvres,France,,3c8a49
+4435,,Vienne,France,,3bc3e7
+4436,,Yonne,France,,a1f0cf
+4437,,Essonne,France,,4bbbe6
+4438,,Seien-et-Marne,France,,b0a665
+4439,,Val-de-Marne,France,,7c5845
+4440,http://en.wikipedia.org/wiki/Dushanbe,Dushanbe,Tajikistan,,7f2be1
+4441,http://en.wikipedia.org/wiki/Luxor_Governorate,Luxor,Egypt,,51a472
+4442,http://en.wikipedia.org/wiki/Francistown,Francistown,Botswana,,77305c
+4443,http://en.wikipedia.org/wiki/Lobatse,Lobatse,Botswana,,3c3c13
+4444,http://en.wikipedia.org/wiki/Selebi-Phikwe,Selebi-Phikwe,Botswana,,dbc4d8
+4445,"http://en.wikipedia.org/wiki/Sowa,_Botswana",Sowa,Botswana,,"580796"
+4446,http://en.wikipedia.org/wiki/Naga_City,Naga,Philippines,,"0887f1"
+4447,,Angeles,Philippines,,6fd6b0
+4448,,Baguio,Philippines,,53e19f
+4449,,Makati,Philippines,,5adaac
+4450,"http://en.wikipedia.org/wiki/Pateros,_Metro_Manila",Pateros,Philippines,,7230b2
+4451,,Mandaluyong City,Philippines,,6d4f95
+4452,,San Juan,Philippines,,1f88c7
+4453,,Naftalan,Azerbaijan,,fd95ec
+4454,,Şəki,Azerbaijan,,80c94c
+4455,,Leeds,United Kingdom,,d2b15c
+4456,,Bradford,United Kingdom,,8ab8df
+4457,,Wakefield,United Kingdom,,70afbf
+4458,,Barnsley,United Kingdom,,4e2ece
+4459,,Salford,United Kingdom,,e9ed9c
+4460,,Bolton,United Kingdom,,61bdf0
+4461,,Trafford,United Kingdom,,e0eacd
+4462,,Manchester,United Kingdom,,"0b5e29"
+4463,,Oldham,United Kingdom,,"043ab2"
+4464,,Rochdale,United Kingdom,,f937c8
+4465,,Tameside,United Kingdom,,30da22
+4466,,Bury,United Kingdom,,4e46e9
+4467,,Solihull,United Kingdom,,995f5e
+4468,,Coventry,United Kingdom,,88c040
+4469,,Birmingham,United Kingdom,,e0f120
+4470,,Sandwell,United Kingdom,,a3ab4f
+4471,,Dudley,United Kingdom,,"0fd7e4"
+4472,,Walsall,United Kingdom,,"103303"
+4473,,Wolverhampton,United Kingdom,,f8151f
+4474,,Durbes,Latvia,,"0e1fea"
+4475,,Incukalna,Latvia,,60dcc0
+4476,,Ādaži,Latvia,,ab6439
+4477,,Valmiera,Latvia,,d03a85
+4478,,Cesu,Latvia,,2d3b02
+4479,,Ligatnes,Latvia,,c89ca3
+4480,,Jekabpils,Latvia,,34f9a3
+4481,,Palencia,Spain,,6c530a
+4482,,Ciudad Real,Spain,,cc8b6a
+4483,,Córdoba,Spain,,4607f7
+4484,,Guadalajara,Spain,,803ef5
+4485,,Jaén,Spain,,bf499a
+4486,,Madrid,Spain,,a4d3af
+4487,,Segovia,Spain,,14da92
+4488,,Valladolid,Spain,,c4819d
+4489,,Ihorombe,Madagascar,,ef0eff
+4490,,Haute Matsiatra,Madagascar,,46489c
+4491,,Itasy,Madagascar,,a75a52
+4492,,Suva Reka,Kosovo,,88f0bf
+4493,,Uroševac,Kosovo,,"438124"
+4494,,Novo Brdo,Kosovo,,"173159"
+4495,,Obilić,Kosovo,,d84210
+4496,,Kosovo Polje,Kosovo,,bdf3fd
+4497,,Lipljan,Kosovo,,"00b76f"
+4498,,Štimlje,Kosovo,,6f3a77
+4499,,Vučitrn,Kosovo,,5e51ee
+4500,,Victoria,Malta,,"7d6548"
+4501,,"Fontana, Gozo",Malta,,1a15d4
+4502,,Xewkija,Malta,,767b2c
+4503,,Mosta,Malta,,"09a69d"
+4504,,Lija,Malta,,"124461"
+4505,,Attard,Malta,,149ef6
+4506,,Mtarfa,Malta,,"075b24"
+4507,,Mdina,Malta,,7d411d
+4508,,Żebbuġ,Malta,,2ff385
+4509,,Qormi,Malta,,f8ea2e
+4510,,Swieqi,Malta,,"989652"
+4511,,Għargħur,Malta,,475fbe
+4512,,San Ġwann,Malta,,63c4b1
+4513,,Iklin,Malta,,21c52f
+4514,,Birkirkara,Malta,,e2f374
+4515,,Balzan,Malta,,bf56a1
+4516,,Santa Venera,Malta,,573f7f
+4517,,Ħamrun,Malta,,7109af
+4518,,Marsa,Malta,,597c7b
+4519,,Luqa,Malta,,bbc92a
+4520,,Mqabba,Malta,,"45e814"
+4521,,Kirkop,Malta,,752d2c
+4522,,Safi,Malta,,f110a3
+4523,,Għaxaq,Malta,,"862000"
+4524,,Żejtun,Malta,,37bf8b
+4525,,Fgura,Malta,,9f1f64
+4526,,Tarxien,Malta,,1dfcb0
+4527,,Santa Luċija,Malta,,"01259a"
+4528,,Gudja,Malta,,"591126"
+4529,,Paola,Malta,,9713fa
+4530,,Gżira,Malta,,983a33
+4531,,Floriana,Malta,,"543857"
+4532,,Ta' Xbiex,Malta,,1d38dd
+4533,,Isla,Malta,,56a8da
+4534,,Cospicua,Malta,,72cad9
+4535,,Pietà,Malta,,aee1bc
+4536,,Msida,Malta,,cfbc6c
+4537,,Birgu,Malta,,26310c
+4538,,"Ostpreußen",Germany,,79fde5
+4539,,Baden,Germany,,edb684
+4540,,Odessa,Ukraine,,"0f65ca"
+4541,,Budjak,Romania,,2f3c6a
+4542,,Odessa,Ukraine,,7c33e5
+4543,,Danzig,Free City of Danzig,,da974f
+4544,,Pomeranian,Poland,,78f189
+4545,,Posen-Westpreußen,Germany,,1f6419
+4546,,London,United Kingdom,,"09def3"
+4547,,Derbyshire,United Kingdom,,"3910d2"
+4548,,Nottinghamshire,United Kingdom,,7a5448
+4549,,Leicestershire,United Kingdom,,3eb2f1
+4550,,Glamorgan,United Kingdom,,62021a

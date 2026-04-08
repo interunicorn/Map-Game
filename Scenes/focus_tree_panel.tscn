@@ -1,0 +1,120 @@
+[gd_scene format=3 uid="uid://v0mdjcobi3pt"]
+
+[ext_resource type="Script" uid="uid://cg0iobu24frwp" path="res://Scripts/graph_element.gd" id="1_hrti6"]
+[ext_resource type="Script" uid="uid://opfa2ilvidr4" path="res://Scripts/focus_node.gd" id="2_eoual"]
+[ext_resource type="Texture2D" uid="uid://pymyns17q7sw" path="res://Assets/Sprites/Rise-of-Third-Reich-1.jpg" id="2_vt0xj"]
+[ext_resource type="Texture2D" uid="uid://dy0ycgmmkn0n" path="res://Assets/Sprites/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg" id="3_qaesl"]
+
+[node name="Focus Tree Panel" type="Control" unique_id=1680935221]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="GraphElement" type="GraphElement" parent="." unique_id=600969012]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+draggable = false
+script = ExtResource("1_hrti6")
+
+[node name="GraphEdit" type="GraphEdit" parent="GraphElement" unique_id=1892316550]
+layout_mode = 2
+show_grid = false
+connection_lines_curvature = 0.0
+minimap_enabled = false
+show_menu = false
+show_zoom_buttons = false
+show_grid_buttons = false
+show_minimap_button = false
+show_arrange_button = false
+
+[node name="Hello" type="GraphNode" parent="GraphElement/GraphEdit" unique_id=784985066]
+layout_mode = 0
+offset_left = 68.0
+offset_top = 75.0
+offset_right = 276.0
+offset_bottom = 258.0
+mouse_filter = 1
+position_offset = Vector2(68, 75)
+draggable = false
+title = "Declare War On America"
+slot/0/left_enabled = false
+slot/0/left_type = 0
+slot/0/left_color = Color(1, 1, 1, 1)
+slot/0/left_icon = null
+slot/0/right_enabled = true
+slot/0/right_type = 1
+slot/0/right_color = Color(1, 1, 1, 1)
+slot/0/right_icon = null
+slot/0/draw_stylebox = true
+script = ExtResource("2_eoual")
+_title = "Declare War On America"
+description = "America has attacked us"
+
+[node name="TextureButton" type="TextureButton" parent="GraphElement/GraphEdit/Hello" unique_id=1787718728]
+custom_minimum_size = Vector2(128, 128)
+layout_mode = 2
+texture_normal = ExtResource("2_vt0xj")
+ignore_texture_size = true
+stretch_mode = 5
+
+[node name="What" type="GraphNode" parent="GraphElement/GraphEdit" unique_id=1930024855]
+layout_mode = 0
+offset_left = 354.0
+offset_top = 77.0
+offset_right = 590.0
+offset_bottom = 260.0
+mouse_filter = 1
+position_offset = Vector2(354, 77)
+draggable = false
+title = "Lose"
+slot/0/left_enabled = true
+slot/0/left_type = 0
+slot/0/left_color = Color(1, 1, 1, 1)
+slot/0/left_icon = null
+slot/0/right_enabled = true
+slot/0/right_type = 1
+slot/0/right_color = Color(1, 1, 1, 1)
+slot/0/right_icon = null
+slot/0/draw_stylebox = true
+script = ExtResource("2_eoual")
+_title = "Lose"
+description = "The Soviets have captured Berlin"
+
+[node name="TextureButton" type="TextureButton" parent="GraphElement/GraphEdit/What" unique_id=1499307142]
+custom_minimum_size = Vector2(200, 128)
+layout_mode = 2
+texture_normal = ExtResource("3_qaesl")
+ignore_texture_size = true
+stretch_mode = 5
+
+[node name="Popup" type="Popup" parent="." unique_id=1733283330]
+oversampling_override = 1.0
+initial_position = 1
+size = Vector2i(296, 100)
+
+[node name="Label" type="Label" parent="Popup" unique_id=1202116679]
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 26
+text = "Declare war on america"
+horizontal_alignment = 1
+
+[node name="Button" type="Button" parent="Popup" unique_id=936258615]
+offset_left = 92.0
+offset_top = 39.0
+offset_right = 183.0
+offset_bottom = 90.0
+theme_override_font_sizes/font_size = 32
+text = "Yes"
+
+[connection signal="connection_request" from="GraphElement/GraphEdit" to="GraphElement" method="_on_graph_edit_connection_request"]
+[connection signal="node_selected" from="GraphElement/GraphEdit" to="GraphElement" method="_on_graph_edit_node_selected"]
+[connection signal="node_selected" from="GraphElement/GraphEdit/Hello" to="GraphElement" method="_on_hello_node_selected"]
+[connection signal="button_down" from="Popup/Button" to="GraphElement" method="_on_button_button_down"]

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://dr3n1x5vx7n1b"]
+
+[ext_resource type="Texture2D" uid="uid://djgw0fxf6ywn4" path="res://Assets/Flags/Belgium/Flag_of_Belgium_(civil).svg" id="1_b4ktd"]
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="1_qmuvw"]
+
+[resource]
+script = ExtResource("1_qmuvw")
+country_name = "Belgium"
+country_name_for_csv = "Belgium"
+color = Color(0.7089637, 0.6010532, 9.62615e-07, 1)
+select_screen = true
+flag_icon = ExtResource("1_b4ktd")

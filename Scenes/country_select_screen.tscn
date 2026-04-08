@@ -1,0 +1,53 @@
+[gd_scene format=3 uid="uid://dhes6lh1bwovl"]
+
+[ext_resource type="Script" uid="uid://b5ko86exp47wa" path="res://Scripts/country_select_screen.gd" id="1_2t1od"]
+[ext_resource type="PackedScene" uid="uid://ctcrjope014x4" path="res://Scenes/play_button.tscn" id="3_2t1od"]
+[ext_resource type="Texture2D" uid="uid://fmdhbxxiktcf" path="res://Assets/UI/Background Images/Background 1.jpg" id="4_4egu5"]
+[ext_resource type="Texture2D" uid="uid://b6m3c1ebrv8mr" path="res://Assets/UI/Background Images/Background 2.jpg" id="5_2fkcy"]
+[ext_resource type="PackedScene" uid="uid://bbscka6bh40f5" path="res://Scenes/country_button.tscn" id="5_2q5ph"]
+[ext_resource type="Texture2D" uid="uid://ci8hhtx8q2xof" path="res://Assets/UI/Background Images/Background 3.jpg" id="6_u2r2h"]
+[ext_resource type="Texture2D" uid="uid://dpnf1fd0asn5" path="res://Assets/UI/Background Images/Background 4.jpg" id="7_4gll7"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_47vyd"]
+
+[node name="Country Select Screen" type="Control" unique_id=727452920]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_2t1od")
+country_group = SubResource("ButtonGroup_47vyd")
+country_button_scene = ExtResource("5_2q5ph")
+play_button_scene = ExtResource("3_2t1od")
+backgrounds = Array[Texture2D]([ExtResource("4_4egu5"), ExtResource("5_2fkcy"), ExtResource("6_u2r2h"), ExtResource("7_4gll7")])
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=784085610]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="." unique_id=1084939144]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer" unique_id=1644901604]
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="PanelContainer" unique_id=1394623740]
+layout_mode = 2
+columns = 10

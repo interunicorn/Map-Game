@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dbij0ikljjylp"
+
+[deps]
+
+files=["res://Assets/UI/1933 Province Data.wikipedia.translation", "res://Assets/UI/1933 Province Data.name.translation", "res://Assets/UI/1933 Province Data.admin.translation", "res://Assets/UI/1933 Province Data.en.translation", "res://Assets/UI/1933 Province Data.HEX.translation"]
+
+source_file="res://Assets/UI/1933 Province Data.csv"
+dest_files=["res://Assets/UI/1933 Province Data.wikipedia.translation", "res://Assets/UI/1933 Province Data.name.translation", "res://Assets/UI/1933 Province Data.admin.translation", "res://Assets/UI/1933 Province Data.en.translation", "res://Assets/UI/1933 Province Data.HEX.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

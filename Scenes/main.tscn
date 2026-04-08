@@ -1,0 +1,86 @@
+[gd_scene format=3 uid="uid://mwciycm84edb"]
+
+[ext_resource type="Script" uid="uid://dxsqiwrmllsar" path="res://Scripts/main.gd" id="1_bo1nx"]
+[ext_resource type="Texture2D" uid="uid://bcyho0fv5a1kk" path="res://Assets/Maps/WOrld Map.png" id="2_jjvhh"]
+[ext_resource type="Shader" uid="uid://byre5753x03gn" path="res://Shaders/natural_shader.gdshader" id="3_hptm8"]
+[ext_resource type="Script" uid="uid://cfgxl25ddgauv" path="res://Scripts/camera_2d.gd" id="4_jjvhh"]
+[ext_resource type="Texture2D" uid="uid://bje8ol533c7k8" path="res://Assets/Maps/1933 province map test.png" id="4_kry3j"]
+[ext_resource type="Shader" uid="uid://c47p1jjgxbwpb" path="res://Shaders/country color.gdshader" id="6_6bp64"]
+[ext_resource type="PackedScene" uid="uid://c1ilnv0huahwu" path="res://Scenes/control.tscn" id="6_21xkr"]
+[ext_resource type="Texture2D" uid="uid://443cf3b0qwc1" path="res://Assets/Maps/Shader Map.png" id="6_344ge"]
+[ext_resource type="PackedScene" uid="uid://v0mdjcobi3pt" path="res://Scenes/focus_tree_panel.tscn" id="8_344ge"]
+[ext_resource type="Shader" uid="uid://dh8m4upoy21my" path="res://Shaders/borders.gdshader" id="9_ynf5e"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_d1ilt"]
+shader = ExtResource("3_hptm8")
+shader_parameter/x_offset = 0.0
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_hptm8"]
+shader = ExtResource("9_ynf5e")
+shader_parameter/province_map = ExtResource("4_kry3j")
+shader_parameter/line_width = 1.0000000475
+shader_parameter/line_color = Color(0, 0, 0, 1)
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ynf5e"]
+shader = ExtResource("6_6bp64")
+shader_parameter/total_provinces = 4551.0
+shader_parameter/map_opacity = 1.0
+shader_parameter/zoom = 0.0
+shader_parameter/min_opacity = 0.0
+shader_parameter/max_opacity = 0.80000001192093
+shader_parameter/clicked_id = -1.0
+shader_parameter/clicked_country = 0.0
+shader_parameter/x_offset = 0.0
+
+[node name="Main" type="Node2D" unique_id=1044408393]
+script = ExtResource("1_bo1nx")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1250869090]
+
+[node name="Control" parent="CanvasLayer" unique_id=416101332 instance=ExtResource("6_21xkr")]
+
+[node name="Natural Map" type="Sprite2D" parent="." unique_id=581812614]
+texture_filter = 2
+texture_repeat = 2
+material = SubResource("ShaderMaterial_d1ilt")
+position = Vector2(8101, 4050.0002)
+texture = ExtResource("2_jjvhh")
+region_enabled = true
+region_rect = Rect2(0, 0, 16200, 8100)
+
+[node name="Province map" type="Sprite2D" parent="." unique_id=704867049]
+visible = false
+texture_filter = 1
+position = Vector2(8099.4995, 4050.2498)
+scale = Vector2(3.9997528, 3.9997528)
+texture = ExtResource("4_kry3j")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1201708142]
+visible = false
+material = SubResource("ShaderMaterial_hptm8")
+custom_minimum_size = Vector2(950, 200)
+offset_right = 975.3
+offset_bottom = 200.0
+scale = Vector2(17.386791, 42.342457)
+mouse_filter = 2
+
+[node name="Shader Map" type="Sprite2D" parent="." unique_id=215139105]
+texture_filter = 1
+material = SubResource("ShaderMaterial_ynf5e")
+position = Vector2(8100, 4050)
+scale = Vector2(4, 4)
+texture = ExtResource("6_344ge")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1759480203 node_paths=PackedStringArray("province_map")]
+position_smoothing_speed = 4.0
+script = ExtResource("4_jjvhh")
+province_map = NodePath("../Province map")
+zoom_min = 0.12
+zoom_max = 3.0
+camera_speed = 750.0
+
+[node name="Focus Tree Layer" type="CanvasLayer" parent="." unique_id=953822839]
+
+[node name="Focus Tree Panel" parent="Focus Tree Layer" unique_id=1680935221 instance=ExtResource("8_344ge")]
+visible = false
+mouse_filter = 1

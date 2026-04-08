@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="focus_node" format=3 uid="uid://h2maq0vh2wwr"]
+
+[ext_resource type="Script" uid="uid://opfa2ilvidr4" path="res://Scripts/focus_node.gd" id="1_p0iar"]
+
+[resource]
+script = ExtResource("1_p0iar")
+title = "Remilaterize the Rhineland"
+time_to_complete = 35

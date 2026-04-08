@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://cbsscbo8tlysf"]
+
+[ext_resource type="Texture2D" uid="uid://clhgto4f0bt7a" path="res://Assets/Flags/United States of America/flag of united states.svg" id="1_8kvgs"]
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="1_jfeiw"]
+
+[resource]
+script = ExtResource("1_jfeiw")
+country_name = "United States of America"
+country_name_for_csv = "United States of America"
+color = Color(0.14117648, 0.21176471, 0.36078432, 1)
+is_major = true
+select_screen = true
+flag_icon = ExtResource("1_8kvgs")

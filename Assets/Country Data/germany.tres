@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://dhn3m6yk3xpu0"]
+
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="1_3i44b"]
+[ext_resource type="Texture2D" uid="uid://tcw7s4jms1i8" path="res://Assets/Flags/Germany/German Flag Nazi.svg" id="1_dmu44"]
+
+[resource]
+script = ExtResource("1_3i44b")
+country_name = "Germany"
+country_name_for_csv = "Germany"
+color = Color(0.13174233, 0.13174233, 0.13174233, 1)
+parties = Dictionary[String, float]({
+"BVP": 2.7,
+"Centre": 11.3,
+"DNVP": 8.0,
+"KPD": 12.3,
+"NSDAP": 47.4,
+"SPD": 18.3
+})
+is_major = true
+select_screen = true
+flag_icon = ExtResource("1_dmu44")

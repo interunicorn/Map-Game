@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://hlesbn31tupd"]
+
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="1_kqtv5"]
+[ext_resource type="Texture2D" uid="uid://bmteisvqhwc2m" path="res://Assets/Flags/Italy/Italy.svg" id="1_mtolr"]
+
+[resource]
+script = ExtResource("1_kqtv5")
+country_name = "Italy"
+country_name_for_csv = "Italy"
+color = Color(1.3957917e-06, 0.4367416, 0, 1)
+is_major = true
+select_screen = true
+flag_icon = ExtResource("1_mtolr")

@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://dgcdgfrhxtd3g"]
+
+[ext_resource type="Texture2D" uid="uid://chig5fe02sn0h" path="res://Assets/Flags/France/French Flag Democratic.svg" id="1_v7lju"]
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="2_jmkft"]
+
+[resource]
+script = ExtResource("2_jmkft")
+country_name = "France"
+country_name_for_csv = "France"
+color = Color(0.020854862, 0.25586376, 1, 1)
+is_major = true
+select_screen = true
+flag_icon = ExtResource("1_v7lju")

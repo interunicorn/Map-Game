@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bbscka6bh40f5"]
+
+[node name="Country Button" type="Button" unique_id=1192623711]
+offset_right = 8.0
+offset_bottom = 8.0
+theme_override_constants/icon_max_width = 100
+toggle_mode = true

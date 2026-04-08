@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="country_data" format=3 uid="uid://dr2qvxccuqanj"]
+
+[ext_resource type="Texture2D" uid="uid://nqrcd8ielesp" path="res://Assets/Flags/Canada/Flag_of_Canada_(Pantone).svg" id="1_krgw3"]
+[ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="2_5ks10"]
+
+[resource]
+script = ExtResource("2_5ks10")
+country_name = "The Dominion of Canada"
+country_name_for_csv = "Canada"
+color = Color(0.5647059, 0.18431373, 0.28627452, 1)
+select_screen = true
+flag_icon = ExtResource("1_krgw3")
