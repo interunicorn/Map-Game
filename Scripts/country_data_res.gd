@@ -4,17 +4,23 @@ class_name country_data
 @export var country_name: String = ""
 @export var country_name_for_csv: String = ""
 
-@export var current_econemy_focus: String
+@export var current_economy_focus: String
 
 @export var color: Color = Color.WHITE
 
 @export var political_power: float = 0
-@export var base_pp_gain: int = 2.0
+@export var base_pp_gain: float = 2.0
 
+@export var ruler_1: String
+@export var ruler_1_texture: Texture2D
+@export var ruler_2: String
+@export var ruler_2_texture: Texture2D
 @export var parties: Dictionary[String, float] = {}
 
 @export_range(0, 1) var stability: float = 0.5
 @export_range(0, 1) var war_support: float = 0.5
+
+@export var GDP: float
 
 @export var is_major: bool = false
 @export var is_player: bool = false

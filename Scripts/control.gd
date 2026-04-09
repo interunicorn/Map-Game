@@ -18,7 +18,11 @@ func _ready() -> void:
 	
 	if game_data.current_country_res:
 		flag_icon.icon = game_data.current_country_res.flag_icon
-
+		$"PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer/Ruler 1".texture = game_data.current_country_res.ruler_1_texture  
+		$"PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer/Ruler 2".texture = game_data.current_country_res.ruler_2_texture  
+		$"PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer2/Ruler 1".text = game_data.current_country_res.ruler_1
+		$"PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer2/Ruler 2".text = game_data.current_country_res.ruler_2
+		
 func selected_province(province_name, country, wikipedia, id,clicked_color):
 	var text = province_name + "\n" + country + "\n" + id + "\n"
 	

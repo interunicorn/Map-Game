@@ -1,13 +1,19 @@
 [gd_resource type="Resource" script_class="country_data" format=3 uid="uid://dhn3m6yk3xpu0"]
 
 [ext_resource type="Script" uid="uid://cxcstiywceskp" path="res://Scripts/country_data_res.gd" id="1_3i44b"]
-[ext_resource type="Texture2D" uid="uid://tcw7s4jms1i8" path="res://Assets/Flags/Germany/German Flag Nazi.svg" id="1_dmu44"]
+[ext_resource type="Texture2D" uid="uid://biijw0l1efpoc" path="res://Assets/Flags/Germany/Flag_of_Germany_(RGB).svg" id="1_dmu44"]
+[ext_resource type="Texture2D" uid="uid://dbd7x2otk2l1y" path="res://Assets/Portraits/Germany/Paul_von_Hindenburg_in_1933.jpg" id="2_48rh6"]
+[ext_resource type="Texture2D" uid="uid://gohlrykqwood" path="res://Assets/Portraits/Germany/Adolf-Hitler-1933.png" id="2_nbdlt"]
 
 [resource]
 script = ExtResource("1_3i44b")
 country_name = "Germany"
 country_name_for_csv = "Germany"
 color = Color(0.13174233, 0.13174233, 0.13174233, 1)
+ruler_1 = "Paul von Hindenburg"
+ruler_1_texture = ExtResource("2_48rh6")
+ruler_2 = "Adolf Hitler"
+ruler_2_texture = ExtResource("2_nbdlt")
 parties = Dictionary[String, float]({
 "BVP": 2.7,
 "Centre": 11.3,
@@ -16,6 +22,7 @@ parties = Dictionary[String, float]({
 "NSDAP": 47.4,
 "SPD": 18.3
 })
+GDP = 77.0
 is_major = true
 select_screen = true
 flag_icon = ExtResource("1_dmu44")

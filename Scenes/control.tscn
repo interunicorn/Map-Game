@@ -4,6 +4,8 @@
 [ext_resource type="Texture2D" uid="uid://mo08tv8kty4y" path="res://Assets/Flags/United Kingdom/Flag of UK.svg" id="2_cgmvo"]
 [ext_resource type="PackedScene" uid="uid://be3nkm3rmqe7m" path="res://addons/easy_charts/examples/pie_chart/Pie Chart.tscn" id="3_vh8u0"]
 
+[sub_resource type="Theme" id="Theme_vh8u0"]
+
 [node name="Main UI" type="Control" unique_id=416101332]
 layout_mode = 3
 anchors_preset = 15
@@ -22,6 +24,7 @@ anchor_bottom = 1.0
 offset_top = -204.0
 offset_right = 500.0
 grow_vertical = 0
+theme = SubResource("Theme_vh8u0")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer" unique_id=1437255267]
 layout_mode = 2
@@ -40,6 +43,7 @@ layout_mode = 2
 layout_mode = 1
 offset_right = 248.0
 offset_bottom = 45.0
+theme = SubResource("Theme_vh8u0")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer2" unique_id=1292061862]
 layout_mode = 2
@@ -83,19 +87,57 @@ layout_mode = 2
 theme_override_constants/side_margin = 0
 theme_override_font_sizes/font_size = 24
 current_tab = 0
-tab_0/title = "Nation"
 
-[node name="Pie Chart" parent="PanelContainer2/VBoxContainer/TabContainer" unique_id=1572386297 instance=ExtResource("3_vh8u0")]
-custom_minimum_size = Vector2(500, 400)
+[node name="Nation" type="VBoxContainer" parent="PanelContainer2/VBoxContainer/TabContainer" unique_id=1090458360]
 layout_mode = 2
 metadata/_tab_index = 0
-metadata/_tab_name = "Nation"
 
-[node name="Label" type="Label" parent="PanelContainer2/VBoxContainer/TabContainer" unique_id=270997095]
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer2/VBoxContainer/TabContainer/Nation" unique_id=615296422]
+layout_mode = 2
+
+[node name="Ruler 1" type="TextureRect" parent="PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer" unique_id=1382439608]
+custom_minimum_size = Vector2(250, 250)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 6
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Ruler 2" type="TextureRect" parent="PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer" unique_id=1486102941]
+custom_minimum_size = Vector2(250, 250)
+layout_mode = 2
+size_flags_horizontal = 6
+size_flags_vertical = 4
+expand_mode = 1
+stretch_mode = 5
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer2/VBoxContainer/TabContainer/Nation" unique_id=856980224]
+layout_mode = 2
+
+[node name="Ruler 1" type="Label" parent="PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer2" unique_id=1868342276]
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 2
+horizontal_alignment = 1
+
+[node name="Ruler 2" type="Label" parent="PanelContainer2/VBoxContainer/TabContainer/Nation/HBoxContainer2" unique_id=1387352387]
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 2
+horizontal_alignment = 1
+
+[node name="Pie Chart" parent="PanelContainer2/VBoxContainer/TabContainer/Nation" unique_id=1572386297 instance=ExtResource("3_vh8u0")]
+custom_minimum_size = Vector2(500, 400)
+layout_mode = 2
+
+[node name="Economy" type="VBoxContainer" parent="PanelContainer2/VBoxContainer/TabContainer" unique_id=1947190653]
 visible = false
 layout_mode = 2
-text = "qsdfqdsf"
 metadata/_tab_index = 1
+
+[node name="Label" type="Label" parent="PanelContainer2/VBoxContainer/TabContainer/Economy" unique_id=1491838197]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.6039216, 0.33333334, 1)
+theme_override_font_sizes/font_size = 32
+text = "$77.07B"
 
 [node name="PanelContainer3" type="PanelContainer" parent="." unique_id=1288501007]
 layout_mode = 1
@@ -105,6 +147,7 @@ anchor_right = 1.0
 offset_left = -400.0
 offset_bottom = 94.0
 grow_horizontal = 0
+theme = SubResource("Theme_vh8u0")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer3" unique_id=145758616]
 layout_mode = 2
@@ -115,7 +158,7 @@ layout_mode = 2
 alignment = 2
 
 [node name="Hour" type="Label" parent="PanelContainer3/VBoxContainer/HBoxContainer" unique_id=2145541007]
-custom_minimum_size = Vector2(90, 0)
+custom_minimum_size = Vector2(90.23, 0)
 layout_mode = 2
 theme_override_font_sizes/font_size = 32
 text = "00:00"
@@ -141,10 +184,6 @@ layout_mode = 2
 theme_override_font_sizes/font_size = 32
 text = "1933"
 horizontal_alignment = 2
-
-[node name="VSeparator" type="VSeparator" parent="PanelContainer3/VBoxContainer/HBoxContainer" unique_id=495523671]
-custom_minimum_size = Vector2(24.745, 0)
-layout_mode = 2
 
 [node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer3/VBoxContainer" unique_id=1506500324]
 layout_mode = 2

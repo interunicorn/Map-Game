@@ -27,7 +27,7 @@ func _draw() -> void:
 	var ratios: PackedFloat32Array = get_ratios(total)
 	sample(radius, box.get_center(), total, ratios)
 	_draw_pie()
-	_draw_labels(radius, box.get_center(), ratios)
+	#_draw_labels(radius, box.get_center(), ratios)
 
 func get_total() -> float:
 	# Calculate total and ratios
